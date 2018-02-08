@@ -58,7 +58,7 @@ width: 5vw;}
     padding-top: 20em;
 }
 .aboutheader{
-height: .9em;
+    height: .9em;
     font-family: Montserrat;
     font-size: 6em;
     font-weight: 999;
@@ -73,7 +73,7 @@ height: .9em;
     padding-top: 6em;
     margin-top: -1em;
 /*    background-color: #f3f3f3;*/
-    height: 615px;
+    height: 39em;
     mix-blend-mode: undefined;
     font-family: Montserrat;
     font-size: 1.3em;
@@ -99,6 +99,17 @@ height: .9em;
   background-color: #222222;
 }
 
+.footer{
+    background-color: black;
+}
+
+.footerlogo{
+    
+}
+
+.socialicons{
+    
+}
 /*
 .grey{
     position: absolute;
