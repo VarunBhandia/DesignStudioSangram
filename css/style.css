@@ -57,12 +57,16 @@ width: 5vw;}
     opacity: 0.05;
   mix-blend-mode: undefined;
   background-color: #000000;
+    margin-top: -1em;
 }
 
+.about{
+    padding-top: 20em;
+}
 .aboutheader{
-height: 86px;
+height: .9em;
     font-family: Montserrat;
-    font-size: 10em;
+    font-size: 6em;
     font-weight: 999;
     line-height: normal;
     text-align: right;
@@ -83,12 +87,13 @@ height: 86px;
 }
 
 .aboutimage{
+    margin-left: -25em;
     width: 200%;
     height: auto;
 }
 
 .rectabout{
-    width: 305px;
+    margin-top: 3em;
   height: 23px;
   mix-blend-mode: undefined;
   background-color: #222222;
