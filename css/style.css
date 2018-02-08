@@ -1,13 +1,12 @@
 html { 
-    overflow-x: hidden;
-    overflow-y: hidden;}
+    overflow-x: hidden;;}
 
 .logo {
 height: 5vw;
 width: 5vw;}
 
 .nav-items{
-    padding-top: 3em;
+    padding-top: 1em;
     padding-left: 1em;
     height: 15px;
     font-family: Montserrat;
@@ -29,9 +28,9 @@ width: 5vw;}
     text-decoration: none;}
 
 .running{
-    margin-top: -8em;
+    margin-top: -11em;
     height: 100%;
-    width: 100%;
+    width: 95%;
 }
 
 .shape13{
@@ -40,8 +39,8 @@ width: 5vw;}
     background-color: #ffffff;
 }
 .right{
-    padding-right: 3em;
-    margin-top: -7em;
+    padding-right: 5em;
+    margin-top: -10em;
     float: right;
     font-family: Montserrat;
     font-size: 1.3em;
@@ -53,3 +52,44 @@ width: 5vw;}
     text-align: right;
     color: #ffffff;
 }  
+
+.grey{
+    opacity: 0.05;
+  mix-blend-mode: undefined;
+  background-color: #000000;
+}
+
+.aboutheader{
+    width: 668px;
+  height: 86px;
+  mix-blend-mode: undefined;
+  font-family: Montserrat;
+  font-size: 119.7px;
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 4.8px;
+  text-align: right;
+  color: #222222;
+}
+
+.aboutcontent{
+    width: 775px;
+  height: 615px;
+  mix-blend-mode: undefined;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: 0.6px;
+  text-align: justify;
+  color: #1f1f1f;
+}
+
+.aboutimage{
+    height: 33.5%;
+    width: 76.5%;
+}
