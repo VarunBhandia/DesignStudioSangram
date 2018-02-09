@@ -59,6 +59,7 @@ width: 3.3vw;}
 
 
 .about{
+    margin-top: 16em;
 }
 .aboutheader{
     height: .9em;
@@ -79,7 +80,7 @@ width: 3.3vw;}
     height: 39em;
     mix-blend-mode: undefined;
     font-family: Montserrat;
-    font-size: 1.3em;
+    font-size: 1.5em;
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
@@ -90,8 +91,8 @@ width: 3.3vw;}
 }
 
 .aboutimage{
-    margin-left: -25em;
-    width: 200%;
+    margin-left: 0em;
+    width: 160%;
     height: auto;
 }
 
@@ -162,6 +163,7 @@ font-family: Montserrat;
 }
 
 .timer_div{
+    margin-top: -5.5em;
     width: 50em;
     height: 10em;
     border-radius: 4px;

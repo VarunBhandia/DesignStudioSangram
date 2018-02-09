@@ -32,10 +32,123 @@
             <div class="col-md-2"></div>
         </div>
     </div>
-    <div class="row">
+    <div class="row" >
         <div class="col-md-3"></div>
         <div class="col-md-6">
-        <div class="timer_div">
+        <div class="timer_div ">
+            <center>
+            <div class="col-md-3" style="padding: 30px;">
+            <p id="days" style=" width: 46px;
+  height: 27px;
+  mix-blend-mode: undefined;
+  font-family: Montserrat;
+  font-size: 38px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.05;
+  letter-spacing: 1.1px;
+  text-align: right;
+                                color: #252525;"></p></br>
+            <p style = "mix-blend-mode: undefined;
+                        
+  font-family: Montserrat;
+  
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: 0.6px;
+  
+                        
+  color: #ababab;">Days</p>
+                
+            </div>
+                </center>
+             <center>
+            <div class="col-md-3" style="padding: 30px;">
+            <p id="hours" style=" width: 46px;
+  height: 27px;
+  mix-blend-mode: undefined;
+  font-family: Montserrat;
+  font-size: 38px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.05;
+  letter-spacing: 1.1px;
+  text-align: right;
+                                color: #252525;"></p></br>
+            <p style = "mix-blend-mode: undefined;
+                        
+  font-family: Montserrat;
+  
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: 0.6px;
+  
+                        
+  color: #ababab;">Hours</p>
+            </div>
+            </center>
+            <center>
+            <div class="col-md-3" style="padding: 30px;">
+            <p id="min" style=" width: 46px;
+  height: 27px;
+  mix-blend-mode: undefined;
+  font-family: Montserrat;
+  font-size: 38px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.05;
+  letter-spacing: 1.1px;
+  text-align: right;
+                                color: #252525;"></p></br>
+            <p style = "mix-blend-mode: undefined;
+                        
+  font-family: Montserrat;
+  
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: 0.6px;
+  
+                        
+  color: #ababab;">Minutes</p>
+            </div>
+                </center>
+            <center>
+            <div class="col-md-3" style="padding: 30px;">
+            <p id="sec" style=" width: 46px;
+  height: 27px;
+  mix-blend-mode: undefined;
+  font-family: Montserrat;
+  font-size: 38px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.05;
+  letter-spacing: 1.1px;
+  text-align: right;
+                                color: #252525;"></p></br>
+            <p style = "mix-blend-mode: undefined;
+                        
+  font-family: Montserrat;
+  
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
+  letter-spacing: 0.6px;
+  
+                        
+  color: #ababab;">Seconds</p>
+            </div>
+            </center>
     <p id="timer"></p>
 
 <script>
@@ -58,8 +171,12 @@ var x = setInterval(function() {
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
     // Output the result in an element with id="demo"
-    document.getElementById("timer").innerHTML =days + "d " + hours + "h "
-    + minutes + "m " + seconds + "s ";
+    document.getElementById("days").innerHTML =days ;
+     document.getElementById("hours").innerHTML =hours ;
+     document.getElementById("min").innerHTML =minutes ;
+     document.getElementById("sec").innerHTML =seconds ;
+//    + "d " + hours + "h "
+//    + minutes + "m " + seconds + "s ";
     
     // If the count down is over, write some text 
     if (distance < 0) {
@@ -70,13 +187,14 @@ var x = setInterval(function() {
 </script>
 </div>
         </div>
+<!--<div>-->
         <div class="col-md-3"></div>
     
         </div>
     <div class="about">
         <div class="row">
             <div class="col-md-5">
-                <img src="img/group-25.jpg" class="aboutimage">
+                <img src="img/group-25-new.jpg" class="aboutimage">
             </div>
             <div class="col-md-7">
                 <div class="row ">
@@ -86,13 +204,14 @@ var x = setInterval(function() {
                 </div>
                 <div class="grey"></div>
 
-                    <p class="aboutcontent">Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a three day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.
+                    <p class="aboutcontent">Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a four day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.
                     Our IIT Roorkee teams, along with the alumni teams participate in each sport to exibit their sports skill. Sangram is devoted in creating a customized and unforgettable experience for each and every visitor, simultaneously providing unique oppurtunities to the youth for showcasing their talents in front of extremely large and enthusiastic audience and top notch judges with a behemoth footfall of more than 1500 students, comprising several IITs and NITs. An assortment of intriguing events held in venues across our campus, are something to cater to all tastes. Plethoras of events are hosted, accompanied by informal events like sports quiz , marathon becoming the abode of this ambrosial combination.
                     Sangram’18 promises to be an exhilarating experience from beginning to end.</p>
 
             </div>
         </div>
     </div>
+<!--</div>-->
     <?php include("footer.php"); ?>
 
 </body>
