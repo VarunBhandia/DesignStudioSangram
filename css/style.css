@@ -73,17 +73,11 @@ width: 3.3vw;}
     background: rgba(0, 0, 0, 0.05); 
     padding-right: 6em;
     padding-left: 7em;
-    padding-top: 6em;
+    padding-top: 4em;
     margin-top: -1em;
-/*    background-color: #f3f3f3;*/
-    height: 39em;
-    mix-blend-mode: undefined;
+    height: 32em;
     font-family: Montserrat;
     font-size: 1.3em;
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: 2;
     letter-spacing: 0.6px;
     text-align: justify;
     color: #1f1f1f;
@@ -103,7 +97,7 @@ width: 3.3vw;}
 }
 
 .footer{
-    
+    margin-top: 3em;
     width: 100%;
     }
 
