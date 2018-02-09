@@ -7,13 +7,10 @@
                         <img src="img/combined.png" alt="sangram'18" class="footerlogo">
                         <div class="row">
                             <div class="col-md-3">
-                                <img src="img/fb.png" alt="Sangram facebook" class="socialicons">
+                                <img src="img/fb.png" alt="Sangram facebook" class="socialicons1">
                             </div>
                             <div class="col-md-3">                        
                                 <img src="img/youtube.png" alt="Sangram youtube" class="socialicons">
-                            </div>
-                            <div class="col-md-3">                        
-                                <img src="img/google.png" alt="Sangram google" class="socialicons">
                             </div>
                             <div class="col-md-3">                        .
                                 <img src="img/insta.png" alt="Sangram instagram" class="socialicons">

@@ -1,4 +1,5 @@
     <link rel="stylesheet" href="css/style.css">
+    <div class="gradient">
         <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10">
@@ -24,4 +25,5 @@
                 </nav>
             </div>
             <div class="col-md-1"></div>
+</div>
 </div>
