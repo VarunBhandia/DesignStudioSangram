@@ -37,7 +37,7 @@
         <div class="col-md-8">
         <div class="timer_div ">
             <center>
-            <div class="col-md-3" style="padding: 30px;">
+            <div class="col-xs-3" style="padding: 30px;">
             <p id="days" style=" width: 46px;
   height: 27px;
   mix-blend-mode: undefined;
@@ -49,7 +49,7 @@
   line-height: 1.05;
   letter-spacing: 1.1px;
   text-align: right;
-                                color: #252525;"></p></br>
+                                color: #252525;"></p><br>
             <p style = "mix-blend-mode: undefined;
                         
   font-family: Montserrat;
@@ -66,7 +66,7 @@
             </div>
                 </center>
              <center>
-            <div class="col-md-3" style="padding: 30px;">
+            <div class="col-xs-3" style="padding: 30px;">
             <p id="hours" style=" width: 46px;
   height: 27px;
   mix-blend-mode: undefined;
@@ -78,7 +78,7 @@
   line-height: 1.05;
   letter-spacing: 1.1px;
   text-align: right;
-                                color: #252525;"></p></br>
+                                color: #252525;"></p><br>
             <p style = "mix-blend-mode: undefined;
                         
   font-family: Montserrat;
@@ -94,7 +94,7 @@
             </div>
             </center>
             <center>
-            <div class="col-md-3" style="padding: 30px;">
+            <div class="col-xs-3" style="padding: 30px;">
             <p id="min" style=" width: 46px;
   height: 27px;
   mix-blend-mode: undefined;
@@ -106,7 +106,7 @@
   line-height: 1.05;
   letter-spacing: 1.1px;
   text-align: right;
-                                color: #252525;"></p></br>
+                                color: #252525;"></p><br>
             <p style = "mix-blend-mode: undefined;
                         
   font-family: Montserrat;
@@ -122,7 +122,7 @@
             </div>
                 </center>
             <center>
-            <div class="col-md-3" style="padding: 30px;">
+            <div class="col-xs-3" style="padding: 30px;">
             <p id="sec" style=" width: 46px;
   height: 27px;
   mix-blend-mode: undefined;
@@ -134,7 +134,7 @@
   line-height: 1.05;
   letter-spacing: 1.1px;
   text-align: right;
-                                color: #252525;"></p></br>
+                                color: #252525;"></p><br>
             <p style = "mix-blend-mode: undefined;
                         
   font-family: Montserrat;
@@ -187,7 +187,7 @@ var x = setInterval(function() {
 </script>
 </div>
         </div>
-<!--<div>-->
+<div>
         <div class="col-md-2"></div>
     
         </div>
@@ -211,7 +211,7 @@ var x = setInterval(function() {
             </div>
         </div>
     </div>
-<!--</div>-->
+</div>
     <?php include("footer.php"); ?>
 
 </body>

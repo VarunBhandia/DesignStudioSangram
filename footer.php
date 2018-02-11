@@ -1,23 +1,25 @@
     <div class="footer">
         <div class="row">
-            <div class="col-mdd-8 black1">
+            <div class="col-md-8 black1">
                 <div class="row">
+                    <center>
                     <div class="col-xs-2"></div>
                     <div class="col-xs-8">
                         <img src="img/combined.png" alt="sangram'18" class="footerlogo">
                         <div class="row">
-                            <div class="col-xs-3">
+                            <div class="col-xs-4">
                                 <img src="img/fb.png" alt="Sangram facebook" class="socialicons1">
                             </div>
-                            <div class="col-xs-3">                        
+                            <div class="col-xs-4">                        
                                 <img src="img/youtube.png" alt="Sangram youtube" class="socialicons">
                             </div>
-                            <div class="col-xs-3">                        .
+                            <div class="col-xs-4">                        .
                                 <img src="img/insta.png" alt="Sangram instagram" class="socialicons">
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-2"></div>
+                        </center>
                 </div>
             </div>
             <div class="col-md-4 black2">  

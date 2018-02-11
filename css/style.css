@@ -101,7 +101,7 @@ width: 3.3vw;}
 
 .footerlogo{
     padding-bottom: 4em;
-    width: 60%;
+    width: 75%;
 }
 
 .black1{
@@ -110,18 +110,30 @@ width: 3.3vw;}
     height: 26em;
 }
 
+@media only screen and (max-width: 500px) {
+    .black1 {
+        height: 20em;
+    }
+}
+
 .black2{
     padding-top: 6em;
     background-color:#000000;
     height: 26em;
 }
 
+@media only screen and (max-width: 500px) {
+    .black2 {
+        height: 26em;
+    }
+}
+
 .socialicons1{
-    width: 1.2em;
+/*    width: 1.2em;*/
 }
 
 .socialicons{
-    width: 2.6em;
+/*    width: 2.6em;*/
 }
 
 .contact{
