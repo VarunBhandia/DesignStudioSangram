@@ -1,4 +1,6 @@
-
+html{
+    overflow-x: hidden;
+}
 .logo {
 width: 3vw;
 margin-right: 2em;}
@@ -97,6 +99,12 @@ height: 26em;    }
 .about{
     margin-top: 16em;
 }
+
+@media only screen and (max-width: 500px) {
+    .about {
+    margin-top: 6em;    }
+}
+
 .aboutheader{
     height: .9em;
     font-family: Montserrat;
@@ -105,6 +113,18 @@ height: 26em;    }
     line-height: normal;
     text-align: right;
     color: #222222;}
+
+@media only screen and (max-width: 500px) {
+    .aboutheader {
+    height: .9em;
+    font-family: Montserrat;
+    font-size: 4em;
+    font-weight: 999;
+    line-height: normal;
+    text-align: center;
+    color: #222222;
+    }
+}
 
 .aboutcontent{
     background: rgba(0, 0, 0, 0.05); 
@@ -120,16 +140,37 @@ height: 26em;    }
     color: #1f1f1f;
 }
 
+@media only screen and (max-width: 500px) {
+    .aboutcontent {
+    background: rgba(0, 0, 0, 0.05); 
+    padding-right: 2em;
+    padding-left: 3em;
+    padding-top: 4em;
+    margin-top: -1em;
+    height: 41em;
+    font-family: Montserrat;
+    font-size: 1.1em;
+    letter-spacing: 0.6px;
+    text-align: justify;
+    color: #1f1f1f;
+    }
+}
+
+
 .aboutimage{
     margin-left: 0em;
     width: 160%;
     height: auto;
 }
 
+@media only screen and (max-width: 500px) {
+    .aboutimage {
+display: none;    }
+}
+
 .rectabout{
     margin-top: 3em;
   height: 23px;
-  mix-blend-mode: undefined;
   background-color: #222222;
 }
 
