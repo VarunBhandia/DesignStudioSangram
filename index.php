@@ -13,14 +13,14 @@
   </style>
 </head>
 <body>
-    <div class="gradient">
              <?php include("navbar.php"); ?>
+        <div class="gradient2">
+
         <div class="row">
             <div class="col-md-12">
                 <img src="img/Untitled-1.png" alt="Sangram'18" class="running">
             </div>
-
-        </div>
+            </div>
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
