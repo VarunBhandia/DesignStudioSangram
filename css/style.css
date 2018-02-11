@@ -1,5 +1,3 @@
-html { 
-    overflow-x: hidden;;}
 
 .logo {
 width: 3vw;
@@ -33,8 +31,7 @@ width: 3.3vw;}
 
 .running{
     margin-top: -11em;
-    height: 100%;
-    width: 95%;
+    width: 100%;
 }
 
 .shape13{
@@ -76,7 +73,7 @@ width: 3.3vw;}
     padding-left: 7em;
     padding-top: 4em;
     margin-top: -1em;
-    height: 32em;
+    height: 41em;
     font-family: Montserrat;
     font-size: 1.3em;
     letter-spacing: 0.6px;
@@ -158,7 +155,6 @@ font-family: Montserrat;
 
 .timer_div{
     margin-top: -5.5em;
-    width: 50em;
     height: 10em;
     border-radius: 4px;
     background-color: #ffffff;
