@@ -1,9 +1,9 @@
     <link rel="stylesheet" href="css/style.css">
-    <div class="gradient">
-        <div class="row">
+    <div class="">
+        <div class="row ">
             <div class="col-md-1"></div>
             <div class="col-md-10">
-                <nav class="navbar">
+                <nav class="navbar-fixed-top gradient">
                     <div class="container-fluid">
                         <div class="navbar-header" style="margin-top: 2em;">
                           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -15,10 +15,11 @@
                         </div>
                         <div class="collapse navbar-collapse" id="myNavbar">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class="nav-items"><a href="#" class="navbar_link">About Us</a></li>
-                                <li class="nav-items"><a href="#" class="navbar_link">Events</a></li>
-                                <li class="nav-items"><a href="#" class="navbar_link">Sponsors</a></li>
-                                <li class="nav-items"><a href="#" class="navbar_link">Contact Us</a></li>
+                                <li class="nav-items"><a href="" class="navbar_link">About Us</a></li>
+                                <li class="nav-items"><a href="events.php" class="navbar_link">Events</a></li>
+                                <li class="nav-items"><a href="sponsors.php" class="navbar_link">Sponsors</a></li>
+                                <li class="nav-items"><a href="team.php" class="navbar_link">Team</a></li>
+                                <li class="nav-items"><a href="" class="navbar_link">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>

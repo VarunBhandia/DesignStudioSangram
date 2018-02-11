@@ -43,7 +43,7 @@
                             <p class="name_event">ATHLETICS</p>
                             <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
                             <div class="row">
-                                <div class="col-md-7"></div>
+                                <div class="col-md-8"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
                                         <p class="rules_button_content">
@@ -62,7 +62,7 @@
                             <p class="name_event">ATHLETICS</p>
                             <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
                             <div class="row">
-                                <div class="col-md-7"></div>
+                                <div class="col-md-8"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
                                         <p class="rules_button_content">
@@ -74,85 +74,7 @@
                         </div>
                     </div>
                 </div>
-            </div>            <div class="row">
-                <div class="col-md-6">
-                    <div class="thumbnail_events">
-                        <img src="img/" class="event_image">
-                        <div class="event_content">
-                            <p class="name_event">ATHLETICS</p>
-                            <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
-                            <div class="row">
-                                <div class="col-md-7"></div>
-                                <div class="col-md-3">
-                                    <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="thumbnail_events">
-                        <img src="img/" class="event_image">
-                        <div class="event_content">
-                            <p class="name_event">ATHLETICS</p>
-                            <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
-                            <div class="row">
-                                <div class="col-md-7"></div>
-                                <div class="col-md-3">
-                                    <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>            <div class="row">
-                <div class="col-md-6">
-                    <div class="thumbnail_events">
-                        <img src="img/" class="event_image">
-                        <div class="event_content">
-                            <p class="name_event">ATHLETICS</p>
-                            <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
-                            <div class="row">
-                                <div class="col-md-7"></div>
-                                <div class="col-md-3">
-                                    <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="thumbnail_events">
-                        <img src="img/" class="event_image">
-                        <div class="event_content">
-                            <p class="name_event">ATHLETICS</p>
-                            <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
-                            <div class="row">
-                                <div class="col-md-7"></div>
-                                <div class="col-md-3">
-                                    <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </div>            
         </div>
         <div class="col-md-1"></div>
     </div>

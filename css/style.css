@@ -37,10 +37,12 @@ width: 3.3vw;}
     text-align: right;
     padding-right: 1em;}
 .gradient{
+    height: 9em;
     width: 100%;
     background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);}
 
 .gradient2{
+    margin-top: 8em;
     width: 100%;
     background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);}
 
@@ -131,13 +133,13 @@ height: 26em;    }
     padding-left: 7em;
     padding-top: 6em;
     margin-top: -1em;
-    height: 42em;
+    height: 33em;
     font-family: Montserrat;
     font-size: 1.3em;
     letter-spacing: 0.6px;
     text-align: justify;
     color: #1f1f1f;
-    line-height: 200%;
+    line-height: 145%;
 }
 
 @media only screen and (max-width: 500px) {

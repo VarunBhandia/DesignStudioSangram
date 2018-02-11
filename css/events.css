@@ -1,6 +1,6 @@
 .eventheader{
     padding-left: 3em;
-    padding-top: 5em;
+    padding-top: 8em;
     font-family: Montserrat;
     font-size: 1.5em;
     font-weight: 600;
@@ -9,9 +9,9 @@
 
 .line{
     margin-left: 4em;
-    width: 100%;
+    width: 96%%;
     height: 3px;
-    opacity: 0.13;
+    opacity: 0.3;
     background-color: #000000;
 }
 

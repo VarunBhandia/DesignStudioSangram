@@ -27,7 +27,7 @@
     <div class="row">
         <div class="col-md-1"></div>
         <div class="col-md-10">
-            <div class="line"></div> 
+            <div class="line_team"></div> 
         </div>
         <div class="col-md-1"></div>
     </div>
