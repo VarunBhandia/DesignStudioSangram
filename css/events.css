@@ -7,9 +7,19 @@
     color: #222222;
     padding-bottom: .5em;}
 
+@media only screen and (max-width: 500px) {
+.eventheader{
+    padding-left: 1em;
+    padding-top: 8em;
+    font-family: Montserrat;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #222222;
+    padding-bottom: .5em;}
+
 .line{
     margin-left: 4em;
-    width: 96%%;
+    width: 96%;
     height: 3px;
     opacity: 0.3;
     background-color: #000000;
@@ -17,8 +27,8 @@
 
 @media only screen and (max-width: 500px) {
 .line{
-    margin-left: 4em;
-    width: 73%;
+    margin-left: 1em;
+    width: 96%;
     height: 3px;
     opacity: 0.3;
     background-color: #000000;

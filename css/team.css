@@ -25,13 +25,21 @@ padding-left: 3em;
 }
 
 
-.thumbnail_team{
+.thumbnail_team_new{
     margin-top: 6em;
-margin-left: 4em;
+    margin-left: 4em;
     background-color: #3f76e3;
     margin-right: 4em;
     height: 25em;}
 
+    @media only screen and (max-width: 500px){
+.thumbnail_team {
+    margin-top: 3em;
+    margin-left: 4em;
+    background-color: #3f76e3;
+    margin-right: 4em;
+    height: 25em;
+    }}
 .team_image{
     
 }
