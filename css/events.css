@@ -15,6 +15,16 @@
     background-color: #000000;
 }
 
+@media only screen and (max-width: 500px) {
+.line{
+    margin-left: 4em;
+    width: 73%;
+    height: 3px;
+    opacity: 0.3;
+    background-color: #000000;
+}
+
+
 .thumbnail_events{
     margin-top: 6em;
     margin-left: 4em;
@@ -22,6 +32,14 @@
     border: solid 2px rgba(0, 0, 0, 0.17);
 }
 
+    @media only screen and (max-width: 500px){
+.thumbnail_events {
+    margin-top: 6em;
+    margin-left: 1em;
+    background-color: white;
+    border: solid 2px rgba(0, 0, 0, 0.17);
+}
+    }
 .event_image{
     
 }
