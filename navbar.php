@@ -7,9 +7,9 @@
                     <div class="container-fluid">
                         <div class="navbar-header" style="margin-top: 2em;">
                           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>                        
+                            <span class="icon-bar" style="background-color:white;"></span>
+                            <span class="icon-bar" style="background-color:white;"></span>
+                            <span class="icon-bar" style="background-color:white;"></span>                        
                           </button>
                           <a href="#"><img src="img/logo.png" alt="Sangram'18 Logo" class="logo"> </a><a href="#"><img src="img/iitr_logo.png" alt="Sangram'18 Logo" class="iitr_logo"> </a>
                         </div>
