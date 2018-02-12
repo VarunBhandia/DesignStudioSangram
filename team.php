@@ -40,9 +40,21 @@
                         <img src="img/" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team">Dr. G. D. Ransinchung R. N.</p>
-                            <p class="post_team">Chief Sports Advisor</p>
-                            <p class="post_team">+91 999-999-9999</p>
+                            <p class="name_team">Dr. Kiran Ambatipudi</p>
+                            <p class="post_team">Chairperson</p>
+                            
+                        </div>
+                            </center>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail_team">
+                        <img src="img/" class="team_image">
+                        <center>
+                        <div class="team_content">
+                            <p class="name_team">Dr. Vinay Pant</p>
+                            <p class="post_team">Chariperson Sports Council</p>
+                            
                         </div>
                             </center>
                     </div>
@@ -54,19 +66,7 @@
                         <div class="team_content">
                             <p class="name_team">Dr. G. D. Ransinchung R. N.</p>
                             <p class="post_team">Chief Sports Advisor</p>
-                            <p class="post_team">+91 999-999-9999</p>
-                        </div>
-                            </center>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="thumbnail_team">
-                        <img src="img/" class="team_image">
-                        <center>
-                        <div class="team_content">
-                            <p class="name_team">Dr. G. D. Ransinchung R. N.</p>
-                            <p class="post_team">Chief Sports Advisor</p>
-                            <p class="post_team">+91 999-999-9999</p>
+                        
                         </div>
                             </center>
                     </div>
@@ -77,9 +77,9 @@
                         <img src="img/" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team">Dr. G. D. Ransinchung R. N.</p>
-                            <p class="post_team">Chief Sports Advisor</p>
-                            <p class="post_team">+91 999-999-9999</p>
+                            <p class="name_team">Harsh Bansal</p>
+                            <p class="post_team">Head Admin &amp;Events</p>
+                            <p class="post_team">+91 721-725-9085</p>
                         </div>
                             </center>
                     </div>
@@ -89,9 +89,9 @@
                         <img src="img/" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team">Dr. G. D. Ransinchung R. N.</p>
-                            <p class="post_team">Chief Sports Advisor</p>
-                            <p class="post_team">+91 999-999-9999</p>
+                            <p class="name_team">Vardan Bapna</p>
+                            <p class="post_team">Head Admin &amp; Events</p>
+                            <p class="post_team">+91 976-083-5380</p>
                         </div>
                             </center>
                     </div>
@@ -101,8 +101,8 @@
                         <img src="img/" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team">Dr. G. D. Ransinchung R. N.</p>
-                            <p class="post_team">Chief Sports Advisor</p>
+                            <p class="name_team">Rajneesh Lodhi</p>
+                            <p class="post_team">Head Sponsorship</p>
                             <p class="post_team">+91 999-999-9999</p>
                         </div>
                             </center>
