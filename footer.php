@@ -8,13 +8,13 @@
                         <img src="img/combined.png" alt="sangram'18" class="footerlogo">
                         <div class="row">
                             <div class="col-xs-4">
-                                <img src="img/fb.png" alt="Sangram facebook" class="socialicons1">
+                                <a href="https://www.facebook.com/sangramiitr.in/"><img  src="img/fb.png" alt="Sangram facebook" class="socialicons1"></a>
                             </div>
                             <div class="col-xs-4">                        
-                                <img src="img/youtube.png" alt="Sangram youtube" class="socialicons">
+                                <a href="https://www.youtube.com/channel/UCuJ4t3MjYJh5hipFkYlHI_w"> <img src="img/youtube.png" alt="Sangram youtube" class="socialicons"></a>
                             </div>
                             <div class="col-xs-4">                        .
-                                <img src="img/insta.png" alt="Sangram instagram" class="socialicons">
+                                <a href="https://www.instagram.com/explore/locations/1032655554/sangram-iit-roorkee/"> <img src="img/insta.png" alt="Sangram instagram" class="socialicons"></a>
                             </div>
                         </div>
                     </div>
@@ -46,6 +46,7 @@
                             </div>
                             <div class="col-xs-9">
                                 <div class="address">
+                                  sangram18@iitr.ac.in<br>
                                     sangram18.iitr@gmail.com
                                 </div>
                             </div>
@@ -56,7 +57,7 @@
                             </div>
                             <div class="col-xs-9">
                                 <div class="address">
-                                    +91 999-999-9999                                
+                                    +91 80064 78565                                  
                                 </div>
                             </div>
                         </div>
