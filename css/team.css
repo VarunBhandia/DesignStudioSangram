@@ -23,6 +23,7 @@ padding-left: 3em;
     opacity: 0.3;
     background-color: #000000;
 }
+<<<<<<< HEAD
 }
 
 .thumbnail_team{
@@ -36,11 +37,26 @@ padding-left: 3em;
 .thumbnail_team{
     margin-top: 3em;
     margin-left: 4em;
+=======
+
+
+.thumbnail_team_new{
+    margin-top: 6em;
+    margin-left: 4em;
+>>>>>>> master
     background-color: #3f76e3;
     margin-right: 4em;
     height: 25em;}
 }
 
+    @media only screen and (max-width: 500px){
+.thumbnail_team {
+    margin-top: 3em;
+    margin-left: 4em;
+    background-color: #3f76e3;
+    margin-right: 4em;
+    height: 25em;
+    }}
 .team_image{
     
 }
