@@ -48,9 +48,9 @@
                                 <div class="col-md-8"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                        <a href="https://docs.google.com/document/d/1uLvGwhJXfnQ_HBcyCBMe_ScdRapE7uRdbAG3Gxn0sB0/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -67,9 +67,9 @@
                                 <div class="col-md-8"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1V9DJrXracF3Kos9nkbBHedzhBlE01EHn5SZaA8Ab66w/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -88,9 +88,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1eB-uFdIyqfocJr5A0f42RVIe8MWJ-c21FwZ-5lOkAWU/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -107,9 +107,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1qfZ9IfO1agkmbv-Dm6EGUew47I1zhUpbzO0_PS7cp0A/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -128,9 +128,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/131NMo7piq6ZEas_GJo9nA-OV7KAP4sZvURLJK-3bmNw/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -147,9 +147,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1d9MFoA96yar3XcK4shVC4BZIWWIqU8MJIVJZO6M73u8/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -168,9 +168,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1FW4mQLOkjQOqlFHV-IR5RL8xZknnsMHLb20p_01jba4/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -187,9 +187,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1uLvGwhJXfnQ_HBcyCBMe_ScdRapE7uRdbAG3Gxn0sB0/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -208,9 +208,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1NmmBYTtdDTItK6mRHlJSvdSIUn-7s8g9InaoPcCw0no/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -227,9 +227,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/14yu1KJQdMd0XHavOV1zDkwTildMfndFgED42smamuVI/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -248,9 +248,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1uLvGwhJXfnQ_HBcyCBMe_ScdRapE7uRdbAG3Gxn0sB0/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -267,9 +267,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                        <a href="https://docs.google.com/document/d/1u-c0785G7G90C4PGwLuy3wLG3MSoDRtnAl6P0pocNsU/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -288,9 +288,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/19kghrnE8z4EUKQffFEoAxe8yaz8Rx6Me7DxW9xRWmJs/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -307,9 +307,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1-YDMRMfkCzw8JfxxX6lJl-P0vAXe5tfjLBqHzMl3IZY/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -328,9 +328,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                        <a href="https://docs.google.com/document/d/1g0gCczmIoek9kl9KwqAD501ASwW9cg4bOw26pD6JpZk/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -347,9 +347,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1uLvGwhJXfnQ_HBcyCBMe_ScdRapE7uRdbAG3Gxn0sB0/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
@@ -368,9 +368,9 @@
                                 <div class="col-md-7"></div>
                                 <div class="col-md-3">
                                     <div class="rules_button">
-                                        <p class="rules_button_content">
-                                            View Rules
-                                        </p>
+                                         <a href="https://docs.google.com/document/d/1uLvGwhJXfnQ_HBcyCBMe_ScdRapE7uRdbAG3Gxn0sB0/edit" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a> 
                                     </div>
                                 </div>
                             </div>
