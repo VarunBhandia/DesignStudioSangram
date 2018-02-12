@@ -55,13 +55,13 @@ height: 26em;    }
     color: white;
     text-decoration: none;}
 
-.running{
-    margin-top: -11em;
+.myVideo{
+    margin-top: -1em;
     width: 100%;
 }
 
 @media only screen and (max-width: 500px) {
-    .running {
+    .myVideo {
         margin-top: -2em;
     }
 }

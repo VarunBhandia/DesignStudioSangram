@@ -16,6 +16,7 @@
     font-weight: 600;
     color: #222222;
     padding-bottom: .5em;}
+}
 
 .line{
     margin-left: 4em;
@@ -32,7 +33,8 @@
     height: 3px;
     opacity: 0.3;
     background-color: #000000;
-}
+
+    }}
 
 
 .thumbnail_events{
@@ -42,14 +44,14 @@
     border: solid 2px rgba(0, 0, 0, 0.17);
 }
 
-    @media only screen and (max-width: 500px){
-.thumbnail_events {
-    margin-top: 6em;
+@media only screen and (max-width: 500px) {
+.thumbnail_events{
+    margin-top: 3em;
     margin-left: 1em;
     background-color: white;
     border: solid 2px rgba(0, 0, 0, 0.17);
-}
-    }
+    }}
+
 .event_image{
     
 }
