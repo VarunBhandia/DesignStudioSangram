@@ -37,7 +37,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/" class="team_image">
+                        <img src="img/chairperson.png" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Dr. Kiran Ambatipudi</p>
@@ -49,7 +49,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/" class="team_image">
+                        <img src="img/pant.png" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Dr. Vinay Pant</p>
@@ -61,7 +61,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/" class="team_image">
+                        <img src="img/rn.png" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Dr. G. D. Ransinchung R. N.</p>
@@ -74,7 +74,7 @@
             </div>       <div class="row">
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/" class="team_image">
+                        <img src="img/bansal.png" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Harsh Bansal</p>
@@ -83,6 +83,20 @@
                         </div>
                             </center>
                     </div>
+                </div>
+                <div class="col-md-4">
+<!--
+                    <div class="thumbnail_team">
+                        <img src="img/" class="team_image">
+                        <center>
+                        <div class="team_content">
+                            <p class="name_team">Vardan Bapna</p>
+                            <p class="post_team">Head Admin &amp; Events</p>
+                            <p class="post_team">+91 976-083-5380</p>
+                        </div>
+                            </center>
+                    </div>
+-->
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail_team">
@@ -96,51 +110,78 @@
                             </center>
                     </div>
                 </div>
+            </div>       
+            <div class="row">
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/" class="team_image">
+                        <img src="img/rajneesh.png" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Rajneesh Lodhi</p>
                             <p class="post_team">Head Sponsorship</p>
-                            <p class="post_team">+91 999-999-9999</p>
-                        </div>
-                            </center>
-                    </div>
-                </div>
-            </div>       <div class="row">
-                <div class="col-md-4">
-                    <div class="thumbnail_team">
-                        <img src="img/" class="team_image">
-                        <center>
-                        <div class="team_content">
-                            <p class="name_team">Dr. G. D. Ransinchung R. N.</p>
-                            <p class="post_team">Chief Sports Advisor</p>
-                            <p class="post_team">+91 999-999-9999</p>
+                            <p class="post_team">+91 95579-17623</p>
                         </div>
                             </center>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail_team">
+                        <img src="img/raunak.png" class="team_image">
+                        <center>
+                        <div class="team_content">
+                            <p class="name_team">Raunak Ravi</p>
+                            <p class="post_team">Head Sponsorship</p>
+                            <p class="post_team">+91 82877-09351</p>
+                        </div>
+                            </center>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                   <div class="thumbnail_team">
+                        <img src="img/aby.png" class="team_image">
+                        <center>
+                        <div class="team_content">
+                            <p class="name_team">Aby Jose</p>
+                            <p class="post_team">Head Sponsorship</p>
+                            <p class="post_team">+91 83084-56212</p>
+                        </div>
+                            </center>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="thumbnail_team">
                         <img src="img/" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team">Dr. G. D. Ransinchung R. N.</p>
-                            <p class="post_team">Chief Sports Advisor</p>
-                            <p class="post_team">+91 999-999-9999</p>
+                            <p class="name_team">Sumit Yadav</p>
+                            <p class="post_team">Organising Secretory</p>
+                            <p class="post_team">+91 80064-78565</p>
                         </div>
                             </center>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/" class="team_image">
+                        <img src="img/sambit.png" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team">Dr. G. D. Ransinchung R. N.</p>
-                            <p class="post_team">Chief Sports Advisor</p>
-                            <p class="post_team">+91 999-999-9999</p>
+                            <p class="name_team">Sambit Sarkar</p>
+                            <p class="post_team">Treasurer</p>
+                            <p class="post_team">+91 87551-82329</p>
+                        </div>
+                            </center>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail_team">
+                        <img src="img/vipul.png" class="team_image">
+                        <center>
+                        <div class="team_content">
+                            <p class="name_team">Vipul Seth</p>
+                            <p class="post_team">Co-Treasurer</p>
+                            <p class="post_team">+91 94134-08986</p>
                         </div>
                             </center>
                     </div>
