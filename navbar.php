@@ -15,11 +15,11 @@
                         </div>
                         <div class="collapse navbar-collapse" id="myNavbar">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class="nav-items"><a href="" class="navbar_link">About Us</a></li>
+                                <li class="nav-items"><a href="index.php#about" class="navbar_link">About Us</a></li>
                                 <li class="nav-items"><a href="events.php" class="navbar_link">Events</a></li>
                                 <li class="nav-items"><a href="sponsors.php" class="navbar_link">Sponsors</a></li>
                                 <li class="nav-items"><a href="team.php" class="navbar_link">Team</a></li>
-                                <li class="nav-items"><a href="" class="navbar_link">Contact Us</a></li>
+                                <li class="nav-items"><a href="index.php#footer_index" class="navbar_link">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
