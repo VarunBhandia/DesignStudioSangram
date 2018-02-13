@@ -10,7 +10,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/team.css">
-    <link rel="stylesheet" href="spons.css">
+    <link rel="stylesheet" href="css/spons.css">
     <style>
   </style>
 </head>
@@ -38,7 +38,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/ongc.png" style="width:100%; margin-bottom: 40px;" class="">
+                        <img src="img/ongc.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -52,7 +52,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/cry.png" style="width:100%;margin-bottom: 40px;" class="">
+                        <img src="img/cry.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -66,7 +66,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/pizza-hut.png" style="width:100%;margin-bottom: 40px;" class="">
+                        <img src="img/pizza-hut.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -81,7 +81,7 @@
             </div>       <div class="row">
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/nescafe.png" style="width:100%;margin-top: 40px;" class="">
+                        <img src="img/nescafe.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -95,13 +95,13 @@
                 </div>
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/patiala.png" class="">
+                        <img src="img/patiala.png" class="image_spons">
                        
                     </div>
                 </div>
                 <div class="col-md-4">
                      <div class="spons_img">
-                        <img src="img/pjf.png" style="width:100%;" class="">
+                        <img src="img/pjf.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -117,7 +117,7 @@
             <div class="row">
                 <div class="col-md-4">
                      <div class="spons_img">
-                        <img src="img/heelium.png"  style="width:100%;" class="">
+                        <img src="img/heelium.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -131,7 +131,7 @@
                 </div>
                 <div class="col-md-4">
                      <div class="spons_img">
-                        <img src="img/sisco-research-laboratories-pvt-ltd.png"  style="width:100%;" class="">
+                        <img src="img/sisco-research-laboratories-pvt-ltd.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -145,7 +145,7 @@
                 </div>
                 <div class="col-md-4">
                    <div class="spons_img">
-                        <img src="img/51-m-vc-ldgt-l-sx-425.png" style="width:100%;"  class="">
+                        <img src="img/51-m-vc-ldgt-l-sx-425.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -161,7 +161,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/spice-club.png" style="width:100%;" class="">
+                        <img src="img/spice-club.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -175,7 +175,7 @@
                 </div>
                 <div class="col-md-4">
                      <div class="spons_img">
-                        <img src="img/vihangam-yoga.png" style="width:100%;" class="">
+                        <img src="img/vihangam-yoga.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -189,7 +189,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/layer-1.png" style="width:100%;" class="">
+                        <img src="img/layer-1.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -205,7 +205,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/sbi-bank-1.png" style="width:100%;" >
+                        <img src="img/sbi-bank-1.png" class="image_spons" >
 <!--
                         <center>
                         <div class="team_content">
@@ -219,7 +219,7 @@
                 </div>
                 <div class="col-md-4">
                      <div class="spons_img">
-                        <img src="img/divyanglogo.png" style="width:100%;" class="">
+                        <img src="img/divyanglogo.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
@@ -233,7 +233,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/c-6-jsoekt-1394471158331.png" style="width:100%;" class="">
+                        <img src="img/c-6-jsoekt-1394471158331.png" class="image_spons">
 <!--
                         <center>
                         <div class="team_content">
