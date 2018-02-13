@@ -67,7 +67,7 @@ $(window).scroll(function(){
             <div class="col-md-2"></div>
             <div class="col-md-8">
                 <div class="right">
-                    29th - 31st March<br>
+                    29th March - 1st April<br>
                     Annual Sports Fest IIT Roorkee
                 </div>
             </div>
