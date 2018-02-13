@@ -42,15 +42,13 @@ width: 3.3vw;}
 }
 
 .gradient-background{
+    transition: 1s;
     position: fixed;
    top:0;
-   right:0;
-   z-index:2;
-   display: none;   
-   cursor: pointer;
+width: 100%;
+    display: none;   
     height: 10em;
-    background-color: black;
-/*        background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);}*/
+        background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);}
 
 }
 .gradient2{
