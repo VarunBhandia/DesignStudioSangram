@@ -23,7 +23,6 @@ padding-left: 3em;
     opacity: 0.3;
     background-color: #000000;
 }
-<<<<<<< HEAD
 }
 
 .thumbnail_team{
@@ -34,23 +33,7 @@ padding-left: 3em;
     height: 42em;
     width: 28em;}
 
-@media only screen and (max-width: 500px) {
-.thumbnail_team{
-    margin-top: 3em;
-    margin-left: 4em;
-=======
-
-
-.thumbnail_team_new{
-    margin-top: 6em;
-    margin-left: 4em;
->>>>>>> master
-    background-color: #3f76e3;
-    margin-right: 4em;
-    height: 25em;}
-}
-
-    @media only screen and (max-width: 500px){
+@media only screen and (max-width: 500px){
 .thumbnail_team {
     margin-top: 3em;
     margin-left: 4em;
@@ -63,7 +46,6 @@ padding-left: 3em;
 }
 
 .team_content{
-    mix-blend-mode: undefined;
      font-family: Montserrat;
   font-size: 18.1px;
   font-weight: 500;
@@ -71,7 +53,6 @@ padding-left: 3em;
   font-stretch: normal;
   line-height: normal;
   letter-spacing: 0.5px;
-  text-align: right;
   color: #ffffff;
 }
 
@@ -84,6 +65,7 @@ padding-left: 3em;
 }
 
 .name_team{
+    padding-top: 2em;
     font-family: Montserrat;
   font-size: 1em;
   font-weight: 500;
