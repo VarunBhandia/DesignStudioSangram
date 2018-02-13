@@ -3,7 +3,7 @@ html{
 }
 .logo {
 width: 4em;
-    margin-right: 2em;
+    margin-right: 1em;
     margin-top: -1em;}
 
 .iitr_logo {
@@ -12,7 +12,7 @@ width: 5em;
 
 @media only screen and (max-width: 500px) {
     .iitr_logo {
-        margin-left: 0em;
+        margin-top: .2em;
         width: 4em;
     }
 }
@@ -24,6 +24,9 @@ width: 5em;
     }
 }
 
+.leftlogo{
+    float: left;
+}
 .nav-items{
     padding-top: 1.4em;
     padding-left: 1em;
@@ -265,7 +268,7 @@ font-family: Montserrat;
 
 .timer_div{
     margin-top: -5.5em;
-    height: 10em;
+    height: 8em;
     border-radius: 4px;
     background-color: #ffffff;
     box-shadow: 8px 1px 38px 5px rgba(0, 0, 0, .20);
@@ -283,7 +286,7 @@ font-family: Montserrat;
 */
 
 .timer_days{
-    padding-top: 1em;
+    padding-top: .5em;
     width: 46px;
     height: 27px;
     font-family: Montserrat;

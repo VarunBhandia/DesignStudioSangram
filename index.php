@@ -27,8 +27,8 @@
                             <span class="icon-bar" style="background-color:white;"></span>                        
                           </button>
                             <ul class="nav navbar-nav">
-                            <li><a href="index.php"><img src="img/logo.png" alt="Sangram'18 Logo" class="logo"> </a></li>
-                            <li><a href="#"><img src="img/iitr_logo.png" alt="Sangram'18 Logo" class="iitr_logo"> </a></li>
+                            <li class="leftlogo"><a href="index.php"><img src="img/logo.png" alt="Sangram'18 Logo" class="logo"> </a></li>
+                            <li class="leftlogo"><a href="#"><img src="img/iitr_logo.png" alt="Sangram'18 Logo" class="iitr_logo"> </a></li>
                         </ul>
                                 </div>
                         <div class="collapse navbar-collapse" id="myNavbar">
