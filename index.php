@@ -13,8 +13,50 @@
   </style>
 </head>
 <body>
-             <?php include("navbar.php"); ?>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+                <nav class="navbar-fixed-top">
+                    <div class="gradient-background"></div>
 
+                    <div class="container-fluid">
+                        <div class="navbar-header" style="margin-top: 2em;">
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                            <span class="icon-bar" style="background-color:white;"></span>
+                            <span class="icon-bar" style="background-color:white;"></span>
+                            <span class="icon-bar" style="background-color:white;"></span>                        
+                          </button>
+                          <a href="index.php"><img src="img/logo.png" alt="Sangram'18 Logo" class="logo"> </a><a href="#"><img src="img/iitr_logo.png" alt="Sangram'18 Logo" class="iitr_logo"> </a>
+                        </div>
+                        <div class="collapse navbar-collapse" id="myNavbar">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li class="nav-items"><a href="index.php#about" class="navbar_link">About Us</a></li>
+                                <li class="nav-items"><a href="events.php" class="navbar_link">Events</a></li>
+                                <li class="nav-items"><a href="sponsors.php" class="navbar_link">Sponsors</a></li>
+                                <li class="nav-items"><a href="team.php" class="navbar_link">Team</a></li>
+                                <li class="nav-items"><a href="index.php#footer_index" class="navbar_link">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+            <div class="col-md-1"></div>
+</div>
+<script>
+var isVisible = false;
+$('#mybutton').click(function(){
+    $(window).scrollTop(0);
+});
+$(window).scroll(function(){
+     var shouldBeVisible = $(window).scrollTop()>200;
+     if (shouldBeVisible && !isVisible) {
+          isVisible = true;
+          $('.gradient-background').show();
+     } else if (isVisible && !shouldBeVisible) {
+          isVisible = false;
+          $('.gradient-background').hide();
+    }
+});</script>
 <video autoplay muted loop class="myVideo">
   <source src="img/animated.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
@@ -34,115 +76,27 @@
         <div class="timer_div ">
             <center>
             <div class="col-xs-3" style="padding: 30px;">
-            <p id="days" style=" width: 46px;
-  height: 27px;
-  mix-blend-mode: undefined;
-  font-family: Montserrat;
-  font-size: 38px;
-  font-weight: 600;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 1.05;
-  letter-spacing: 1.1px;
-  text-align: right;
-                                color: #252525;"></p><br>
-            <p style = "mix-blend-mode: undefined;
-                        
-  font-family: Montserrat;
-  
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 2;
-  letter-spacing: 0.6px;
-  
-                        
-  color: #ababab;">Days</p>
+            <p id="days" class="timer_days"></p><br>
+            <p class="timer_days_content">Days</p>
                 
             </div>
                 </center>
              <center>
             <div class="col-xs-3" style="padding: 30px;">
-            <p id="hours" style=" width: 46px;
-  height: 27px;
-  mix-blend-mode: undefined;
-  font-family: Montserrat;
-  font-size: 38px;
-  font-weight: 600;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 1.05;
-  letter-spacing: 1.1px;
-  text-align: right;
-                                color: #252525;"></p><br>
-            <p style = "mix-blend-mode: undefined;
-                        
-  font-family: Montserrat;
-  
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 2;
-  letter-spacing: 0.6px;
-  
-                        
-  color: #ababab;">Hours</p>
+            <p id="hours" class="timer_days"></p><br>
+            <p class="timer_days_content">Hours</p>
             </div>
             </center>
             <center>
             <div class="col-xs-3" style="padding: 30px;">
-            <p id="min" style=" width: 46px;
-  height: 27px;
-  mix-blend-mode: undefined;
-  font-family: Montserrat;
-  font-size: 38px;
-  font-weight: 600;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 1.05;
-  letter-spacing: 1.1px;
-  text-align: right;
-                                color: #252525;"></p><br>
-            <p style = "mix-blend-mode: undefined;
-                        
-  font-family: Montserrat;
-  
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 2;
-  letter-spacing: 0.6px;
-  
-                        
-  color: #ababab;">Minutes</p>
+            <p id="min"class="timer_days"></p><br>
+            <p class="timer_days_content">Minutes</p>
             </div>
                 </center>
             <center>
             <div class="col-xs-3" style="padding: 30px;">
-            <p id="sec" style=" width: 46px;
-  height: 27px;
-  mix-blend-mode: undefined;
-  font-family: Montserrat;
-  font-size: 38px;
-  font-weight: 600;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 1.05;
-  letter-spacing: 1.1px;
-  text-align: right;
-                                color: #252525;"></p><br>
-            <p style = "mix-blend-mode: undefined;
-                        
-  font-family: Montserrat;
-  
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 2;
-  letter-spacing: 0.6px;
-  
-                        
-  color: #ababab;">Seconds</p>
+            <p id="sec" class="timer_days"></p><br>
+            <p class="timer_days_content">Seconds</p>
             </div>
             </center>
     <p id="timer"></p>

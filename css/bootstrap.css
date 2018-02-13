@@ -3378,9 +3378,9 @@ input[type="button"].btn-block {
   visibility: hidden;
 }
 .collapse.in {
-  display: block;
-  visibility: visible;
-}
+    background-color: black;
+    display: block;
+    height: 18em;}
 tr.collapse.in {
   display: table-row;
 }
@@ -4094,7 +4094,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
           box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
 }
 .navbar-collapse.in {
-  overflow-y: auto;
 }
 @media (min-width: 768px) {
   .navbar-collapse {
