@@ -1,9 +1,10 @@
     <link rel="stylesheet" href="css/style.css">
-    <div class="">
         <div class="row ">
             <div class="col-md-1"></div>
             <div class="col-md-10">
                 <nav class="navbar-fixed-top gradient">
+                    <div class="gradient-background"></div>
+
                     <div class="container-fluid">
                         <div class="navbar-header" style="margin-top: 2em;">
                           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -27,4 +28,18 @@
             </div>
             <div class="col-md-1"></div>
 </div>
-</div>
+<script>
+var isVisible = false;
+$('#mybutton').click(function(){
+    $(window).scrollTop(0);
+});
+$(window).scroll(function(){
+     var shouldBeVisible = $(window).scrollTop()>200;
+     if (shouldBeVisible && !isVisible) {
+          isVisible = true;
+          $('.gradient-background').show();
+     } else if (isVisible && !shouldBeVisible) {
+          isVisible = false;
+          $('.gradient-background').hide();
+    }
+});</script>
