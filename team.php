@@ -37,7 +37,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/chairperson.png" style="width:100%;" class="team_image">
+                        <img src="img/pant.png" style="width:100%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 2em;">Dr. Vinay Pant</p>
@@ -49,7 +49,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/pant.png" style="width:100%;" class="team_image">
+                        <img src="img/chairperson.png" style="width:100%;" class="team_image">
 <!--
                         <center>
                         <div class="team_content">
