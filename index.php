@@ -20,14 +20,17 @@
                     <div class="gradient-background"></div>
 
                     <div class="container-fluid">
-                        <div class="navbar-header" style="margin-top: 2em;">
+                        <div class="navbar-header" style="margin-top: 1em;">
                           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                             <span class="icon-bar" style="background-color:white;"></span>
                             <span class="icon-bar" style="background-color:white;"></span>
                             <span class="icon-bar" style="background-color:white;"></span>                        
                           </button>
-                          <a href="index.php"><img src="img/logo.png" alt="Sangram'18 Logo" class="logo"> </a><a href="#"><img src="img/iitr_logo.png" alt="Sangram'18 Logo" class="iitr_logo"> </a>
-                        </div>
+                            <ul class="nav navbar-nav">
+                            <li><a href="index.php"><img src="img/logo.png" alt="Sangram'18 Logo" class="logo"> </a></li>
+                            <li><a href="#"><img src="img/iitr_logo.png" alt="Sangram'18 Logo" class="iitr_logo"> </a></li>
+                        </ul>
+                                </div>
                         <div class="collapse navbar-collapse" id="myNavbar">
                             <ul class="nav navbar-nav navbar-right">
                                 <li class="nav-items"><a href="index.php#about" class="navbar_link">ABOUT US</a></li>
