@@ -65,6 +65,9 @@ height: 26em;    }
     color: white;
     text-decoration: none;}
 
+.navbar_link:hover{
+    background-color: transparent;
+}
 .myVideo{
     margin-top: -1em;
     width: 100%;
