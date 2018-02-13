@@ -187,7 +187,7 @@ var x = setInterval(function() {
         <div class="col-md-2"></div>
     
         </div>
-    <div class="about">
+    <div class="about" id="about">
         <div class="row">
             <div class="col-md-5">
                 <img src="img/group-25-new.jpg" class="aboutimage">
@@ -208,7 +208,9 @@ var x = setInterval(function() {
         </div>
     </div>
 </div>
+    <div id="footer_index">
     <?php include("footer.php"); ?>
+         </div>
 
 </body>
 </html>

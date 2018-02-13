@@ -31,7 +31,8 @@ padding-left: 3em;
     margin-left: 4em;
     background-color: #3f76e3;
     margin-right: 4em;
-    height: 25em;}
+    height: 42em;
+    width: 28em;}
 
 @media only screen and (max-width: 500px) {
 .thumbnail_team{
@@ -58,11 +59,20 @@ padding-left: 3em;
     height: 25em;
     }}
 .team_image{
-    
+    width: 100%;
 }
 
 .team_content{
-    
+    mix-blend-mode: undefined;
+     font-family: Montserrat;
+  font-size: 18.1px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  text-align: right;
+  color: #ffffff;
 }
 
 .post_team{
