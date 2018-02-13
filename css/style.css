@@ -273,8 +273,20 @@ font-family: Montserrat;
     background-color: #ffffff;
     box-shadow: 8px 1px 38px 5px rgba(0, 0, 0, .20);
 }
+/*
+
+@media only screen and (max-width: 500px) {
+.timer_div{
+    margin-top: -5.5em;
+    height: 7em;
+    border-radius: 4px;
+    background-color: #ffffff;
+    box-shadow: 8px 1px 38px 5px rgba(0, 0, 0, .20);
+}
+*/
 
 .timer_days{
+    padding-top: 1em;
     width: 46px;
     height: 27px;
     font-family: Montserrat;
@@ -288,7 +300,8 @@ font-family: Montserrat;
     color: #252525;
 }
 
-.timer_days_content{                    
+.timer_days_content{ 
+    padding-top: .1em;
     font-family: Montserrat;
     font-weight: normal;
     font-style: normal;
@@ -298,20 +311,31 @@ font-family: Montserrat;
     color: #ababab;
 }
 
+    @media only screen and (max-width: 500px) {
+        .timer_days_content{   
+    font-family: Montserrat;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: 0.6px;
+    color: #ababab;
+}
+    
 @media only screen and (max-width: 500px) {
 .timer_days{
-    width: 46px;
+    padding-top: .4em;
+width: 36px;
     height: 27px;
     font-family: Montserrat;
-    font-size: 38px;
+    font-size: 2em;
     font-weight: 600;
     font-style: normal;
     font-stretch: normal;
     line-height: 1.05;
     letter-spacing: 1.1px;
     text-align: right;
-    color: #252525;
-}
+    color: #252525;}
 }
 
 // NAVBAR (FIXED AND STATIC)

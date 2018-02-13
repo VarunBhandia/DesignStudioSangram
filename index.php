@@ -30,11 +30,11 @@
                         </div>
                         <div class="collapse navbar-collapse" id="myNavbar">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class="nav-items"><a href="index.php#about" class="navbar_link">About Us</a></li>
-                                <li class="nav-items"><a href="events.php" class="navbar_link">Events</a></li>
-                                <li class="nav-items"><a href="sponsors.php" class="navbar_link">Sponsors</a></li>
-                                <li class="nav-items"><a href="team.php" class="navbar_link">Team</a></li>
-                                <li class="nav-items"><a href="index.php#footer_index" class="navbar_link">Contact Us</a></li>
+                                <li class="nav-items"><a href="index.php#about" class="navbar_link">ABOUT US</a></li>
+                                <li class="nav-items"><a href="events.php" class="navbar_link">EVENTS</a></li>
+                                <li class="nav-items"><a href="sponsors.php" class="navbar_link">SPONSORS</a></li>
+                                <li class="nav-items"><a href="team.php" class="navbar_link">TEAM</a></li>
+                                <li class="nav-items"><a href="index.php#footer_index" class="navbar_link">CONTACT US</a></li>
                             </ul>
                         </div>
                     </div>
@@ -75,26 +75,26 @@ $(window).scroll(function(){
         <div class="col-md-8">
         <div class="timer_div ">
             <center>
-            <div class="col-xs-3" style="padding: 30px;">
+            <div class="col-xs-3">
             <p id="days" class="timer_days"></p><br>
             <p class="timer_days_content">Days</p>
                 
             </div>
                 </center>
              <center>
-            <div class="col-xs-3" style="padding: 30px;">
+            <div class="col-xs-3">
             <p id="hours" class="timer_days"></p><br>
             <p class="timer_days_content">Hours</p>
             </div>
             </center>
             <center>
-            <div class="col-xs-3" style="padding: 30px;">
+            <div class="col-xs-3">
             <p id="min"class="timer_days"></p><br>
             <p class="timer_days_content">Minutes</p>
             </div>
                 </center>
             <center>
-            <div class="col-xs-3" style="padding: 30px;">
+            <div class="col-xs-3">
             <p id="sec" class="timer_days"></p><br>
             <p class="timer_days_content">Seconds</p>
             </div>
