@@ -90,7 +90,7 @@
                         <img src="img/Pavit.jpg" style="width:100%;" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team_faculty">Pavit Teg Bir Singh</p>
+                            <p class="name_team_faculty" style="padding-top: 1.3em;">Pavit Teg Bir Singh</p>
                             <p class="post_team">Overall Coordinator</p>
 <!--                            <p class="post_team">+91 721-725-9085</p>-->
                         </div>
@@ -103,7 +103,7 @@
                         <img src="img/Tarandeep.JPG" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team_faculty">Tarandeep Singh</p>
+                            <p class="name_team_faculty" style="padding-top: 1.3em;">Tarandeep Singh</p>
                             <p class="post_team">Overall Coordinator</p>
 <!--                            <p class="post_team"></p>-->
                         </div>
@@ -115,7 +115,7 @@
                         <img src="img/IMG_20180210_201005.jpg" style="width:100%;" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team_faculty">Mayank Gupta</p>
+                            <p class="name_team_faculty" style="padding-top: 1.3em;">Mayank Gupta</p>
                             <p class="post_team">Overall Coordinator</p>
 <!--                            <p class="post_team"></p>-->
                         </div>
