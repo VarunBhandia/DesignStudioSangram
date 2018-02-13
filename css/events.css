@@ -38,6 +38,7 @@
 
 
 .thumbnail_events{
+    height: 51em;
     margin-top: 6em;
     margin-left: 4em;
     background-color: white;
@@ -81,10 +82,13 @@
 }
 
 .rules_button{
-  width: 160px;
-  height: 48px;
-  background-color: #3f76e3;
-  box-shadow: 0px 8px 16.6px 4.4px rgba(64, 63, 63, 0.06);
+/*
+    position: absolute;
+    bottom: 0;
+*/
+    height: 48px;
+    background-color: #3f76e3;
+    box-shadow: 0px 8px 16.6px 4.4px rgba(64, 63, 63, 0.06);
 }
 
 .rules_button_content{

@@ -18,7 +18,7 @@ padding-left: 3em;
 @media only screen and (max-width: 500px) {
 .line_team{
     margin-left: 4em;
-    width: 73%;
+    width: 78%;
     height: 3px;
     opacity: 0.3;
     background-color: #000000;
@@ -26,21 +26,22 @@ padding-left: 3em;
 }
 
 .thumbnail_team{
-    margin-top: 6em;
+margin-top: 6em;
     margin-left: 4em;
     background-color: #3f76e3;
     margin-right: 4em;
-    height: 42em;
-    width: 28em;}
+    height: 35em;
+    width: 21em;}
 
 @media only screen and (max-width: 500px){
 .thumbnail_team {
+    width: 23em;
     margin-top: 3em;
     margin-left: 4em;
     background-color: #3f76e3;
-    margin-right: 4em;
-    height: 25em;
+    height: 37em;
     }}
+
 .team_image{
     width: 100%;
 }
@@ -73,6 +74,12 @@ padding-left: 3em;
   color: #ffffff;   
 }
 
-.padding5{
-    padding-top: 5em
-}
+@media only screen and (max-width: 500px){
+.name_team {
+    padding-top: 1em;
+    font-family: Montserrat;
+    font-size: 1em;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+    }
