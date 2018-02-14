@@ -37,11 +37,11 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/chairperson.png" style="width:100%;" class="team_image">
+                        <img src="img/pant.png" style="width:100%;" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team_faculty" style="padding-top: 2em;">Dr. Kiran Ambatipudi</p>
-                            <p class="post_team">Chairperson</p>
+                            <p class="name_team_faculty" style="padding-top: 2em;">Dr. Vinay Pant</p>
+                            <p class="post_team">Chariperson Sports Council</p>
                             
                         </div>
                             </center>
@@ -49,11 +49,22 @@
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/pant.png" style="width:100%;" class="team_image">
+                        <img src="img/chairperson.png" style="width:100%;" class="team_image">
+<!--
                         <center>
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 2em;">Dr. Vinay Pant</p>
                             <p class="post_team">Chariperson Sports Council</p>
+                            
+                        </div>
+                            </center>
+
+-->
+                        
+                          <center>
+                        <div class="team_content">
+                            <p class="name_team_faculty" style="padding-top: 2em;">Dr. Kiran Ambatipudi</p>
+                            <p class="post_team">Chairperson</p>
                             
                         </div>
                             </center>
@@ -71,7 +82,49 @@
                             </center>
                     </div>
                 </div>
-            </div>       <div class="row">
+            </div>   
+            
+            <div class="row">
+                <div class="col-md-4">
+                   <a href="https://www.facebook.com/Pavitteg26bir?ref=br_rs" target="_blank"> <div class="thumbnail_team">
+                        <img src="img/Pavit.jpg" style="width:100%;" class="team_image">
+                        <center>
+                        <div class="team_content">
+                            <p class="name_team_faculty" style="padding-top: 1.3em;">Pavit Teg Bir Singh</p>
+                            <p class="post_team">Overall Coordinator</p>
+<!--                            <p class="post_team">+91 721-725-9085</p>-->
+                        </div>
+                            </center>
+                    </div></a>
+                </div>
+                <div class="col-md-4">
+                     <a href="https://www.facebook.com/tarandeep.singh.54966834?ref=br_rs" target="_blank"> 
+                    <div class="thumbnail_team">
+                        <img src="img/Tarandeep.JPG" class="team_image">
+                        <center>
+                        <div class="team_content">
+                            <p class="name_team_faculty" style="padding-top: 1.3em;">Tarandeep Singh</p>
+                            <p class="post_team">Overall Coordinator</p>
+<!--                            <p class="post_team"></p>-->
+                        </div>
+                            </center>
+                         </div></a>
+                </div>
+                <div class="col-md-4">
+                     <a href="https://www.facebook.com/profile.php?id=100005459568178" target="_blank"><div class="thumbnail_team">
+                        <img src="img/IMG_20180210_201005.jpg" style="width:100%;" class="team_image">
+                        <center>
+                        <div class="team_content">
+                            <p class="name_team_faculty" style="padding-top: 1.3em;">Mayank Gupta</p>
+                            <p class="post_team">Overall Coordinator</p>
+<!--                            <p class="post_team"></p>-->
+                        </div>
+                            </center>
+                         </div></a>
+                </div>
+            </div>       
+            
+            <div class="row">
                 <div class="col-md-4">
                    <a href="https://www.facebook.com/profile.php?id=100002685997998&ref=br_rs" target="_blank"> <div class="thumbnail_team">
                         <img src="img/bansal.png" style="width:100%;" class="team_image">
