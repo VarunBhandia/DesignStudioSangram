@@ -21,10 +21,6 @@
                     <div class="col-xs-2"></div>
                         </center>
                 </div>
-                                <div class="row">
-                    <p class="hero"> DESIGNED BY <a href="" target="_blank">DESIGN STUDIO</a> AND DEVELOPED BY <a href="https://www.linkedin.com/in/harsh-gupta-a8a7303a/" target="_blank">HARSH GUPTA </a>AND <a href="https://www.linkedin.com/in/varun-bhandia-934937134/" target="_blank">VARUN BHANDIA </a></p>
-                </div>
-
             </div>
             <div class="col-md-4 black2">  
                 <div class="row">
@@ -70,4 +66,8 @@
                 </div>
             </div>
         </div>
+        <div class="row copyright">
+                    <p class="hero"> DESIGNED BY <a href="" target="_blank">DESIGN STUDIO</a> AND DEVELOPED BY <a href="https://www.linkedin.com/in/varun-bhandia-934937134/" target="_blank">VARUN BHANDIA </a>AND <a href="https://www.linkedin.com/in/harsh-gupta-a8a7303a/" target="_blank">HARSH GUPTA </a> </p>
+                </div>
+
     </div>
