@@ -37,7 +37,7 @@
                                 <li class="nav-items"><a href="events.php" class="navbar_link">EVENTS</a></li>
                                 <li class="nav-items"><a href="sponsors.php" class="navbar_link">SPONSORS</a></li>
                                 <li class="nav-items"><a href="team.php" class="navbar_link">TEAM</a></li>
-                                <li class="nav-items"><a href="index.php#footer_index" class="navbar_link">CONTACT US</a></li>
+                                <li class="nav-items"><a href="index.php#footer_index" class="navbar_link" style="padding-right: 14em;">CONTACT US</a></li>
                             </ul>
                         </div>
                     </div>
