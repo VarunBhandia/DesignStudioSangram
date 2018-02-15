@@ -39,7 +39,7 @@ margin-right: -.5em;
     padding-right: 1em;}
 
 .gradient{
-    height: 9em;
+    height: 6em;
     width: 100%;
     background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);
 }
@@ -88,7 +88,7 @@ height: 26em;    }
     background-color: #ffffff;
 }
 .right{
-margin-right: .5em;
+margin-right: 2.5em;
     margin-top: -16em;
     float: right;
     font-family: Montserrat;
