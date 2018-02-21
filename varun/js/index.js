@@ -1,27 +1,3 @@
-/* Based off of work on http://retromodular.com/ */
-/*·····················································
-···· Paul Reny ········································
-····················· ██ ██ ██ ██ ██ ·· ██ ██ ·········
-··············· ██ ██ ▒▒ ░░ ░░ ░░ ░░ ██ ▒▒ ░░ ██ ······
-············ ██ ▒▒ ░░ ░░ ██ ░░ ██ ░░ ░░ ██ ░░ ░░ ██ ···
-········· ██ ▒▒ ░░ ░░ ░░ ██ ░░ ██ ░░ ░░ ░░ ▒▒ ░░ ██ ···
-········· ██ ░░ ░░ ░░ ░░ ██ ░░ ██ ░░ ░░ ░░ ▒▒ ▒▒ ██ ···
-······ ██ ░░ ░░ ░░ ▒▒ ▒▒ ░░ ░░ ░░ ▒▒ ▒▒ ░░ ░░ ▒▒ ██ ···
-··· ██ ▒▒ ░░ ░░ ░░ ░░ ░░ ░░ ██ ░░ ░░ ░░ ░░ ░░ ░░ ██ ···
-··· ██ ░░ ░░ ▒▒ ░░ ░░ ░░ ░░ ██ ░░ ░░ ░░ ░░ ░░ ▒▒ ██ ···
-··· ██ ░░ ░░ ▒▒ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ██ ······
-······ ██ ██ ██ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ▒▒ ██ ······
-··· ██ ▒▒ ▒▒ ▒▒ ██ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ▒▒ ██ ······
-··· ██ ▒▒ ▒▒ ▒▒ ▒▒ ██ ░░ ░░ ░░ ░░ ░░ ░░ ▒▒ ██ ·········
-··· ██ ▒▒ ▒▒ ▒▒ ▒▒ ██ ░░ ░░ ░░ ░░ ░░ ▒▒ ██ ██ ·········
-······ ██ ▒▒ ▒▒ ▒▒ ▒▒ ██ ▒▒ ▒▒ ▒▒ ██ ██ ▒▒ ▒▒ ██ ······
-········· ██ ▒▒ ▒▒ ██ ██ ██ ██ ██ ▒▒ ▒▒ ▒▒ ▒▒ ▒▒ ██ ···
-············ ██ ██ ██ ········ ██ ██ ██ ██ ██ ██ ······
-·····················································*/
-/* added dynamic sizing to the text. as long as it's */
-/* not too long of string, should always be visible */
-/* Controls info: https://code.google.com/p/dat-gui/ */
-/* dat.gui.js ==> https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.5/dat.gui.min.js */
 
 (function (){
   "use strict";
@@ -54,22 +30,22 @@
       // very wide, but not very tall
       this.font = '900 ' + this.textSize + 'px "Orbitron"';
       this.context.font = this.font;
-      this.text = "RESIST";
+      this.text = "varun bhandia";
       this.textWidth = (this.context.measureText(this.text)).width;
 
       this.fps = 60;
 
       this.channel = 0; // 0 = red, 1 = green, 2 = blue
       this.compOp = 'lighter'; // CompositeOperation = lighter || darker || xor
-      this.phase = 0.0;
-      this.phaseStep = 0.05; //determines how often we will change channel and amplitude
-      this.amplitude = 0.0;
-      this.amplitudeBase = 2.0;
+      this.phase = 1.0;
+      this.phaseStep = 0.02; //determines how often we will change channel and amplitude
+      this.amplitude = 3.0;
+      this.amplitudeBase = 0.1;
       this.amplitudeRange = 2.0;
-      this.alphaMin = 0.8;
+      this.alphaMin = 0.32;
 
-      this.glitchAmplitude = 20.0;
-      this.glitchThreshold = 0.9;
+      this.glitchAmplitude = 29.0;
+      this.glitchThreshold = 0.83;
       this.scanlineBase = 40;
       this.scanlineRange = 40;
       this.scanlineShift = 15;
