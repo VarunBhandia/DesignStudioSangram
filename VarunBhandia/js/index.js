@@ -17,18 +17,18 @@
 
     initOptions: function () {
       var gui = new dat.GUI(),
-        current = gui.addFolder('Current'),
+//        current = gui.addFolder('Current'),
         controls = gui.addFolder('Controls');
       this.width = document.documentElement.offsetWidth;
       this.height = document.documentElement.offsetHeight;      
       
-      this.textSize = Math.floor(this.width / 7);
+      this.textSize = Math.floor(this.width / 9);
       // sets text size based on window size
       if (this.textSize > this.height) {
-        this.textSize = Math.floor(this.height/1.5); }
+        this.textSize = Math.floor(this.height/2.0); }
       // tries to make text fit if window is
       // very wide, but not very tall
-      this.font = '900 ' + this.textSize + 'px "Orbitron"';
+      this.font = '100 ' + this.textSize + 'px "Orbitron"';
       this.context.font = this.font;
       this.text = "varun bhandia";
       this.textWidth = (this.context.measureText(this.text)).width;
@@ -50,24 +50,24 @@
       this.scanlineRange = 40;
       this.scanlineShift = 15;
 
-      current.add(this, 'channel', 0, 2).listen();
-      current.add(this, 'phase', 0, 1).listen();
-      current.add(this, 'amplitude', 0, 5).listen();
-      // comment out below to hide ability to change text string
-      var text = controls.add(this, 'text');
-      text.onChange((function (){
-        this.textWidth = (this.context.measureText(this.text)).width;
-      }).bind(this));
-      // comment out above to hide ability to change text string
-      controls.add(this, 'fps', 1, 60);
-      controls.add(this, 'phaseStep', 0, 1);
-      controls.add(this, 'alphaMin', 0, 1);
-      controls.add(this, 'amplitudeBase', 0, 5);
-      controls.add(this, 'amplitudeRange', 0, 5);
-      controls.add(this, 'glitchAmplitude', 0, 100);
-      controls.add(this, 'glitchThreshold', 0, 1);
-      controls.open();
-      gui.close(); // start the control panel cloased
+//      current.add(this, 'channel', 0, 2).listen();
+//      current.add(this, 'phase', 0, 1).listen();
+//      current.add(this, 'amplitude', 0, 5).listen();
+//      // comment out below to hide ability to change text string
+//      var text = controls.add(this, 'text');
+//      text.onChange((function (){
+//        this.textWidth = (this.context.measureText(this.text)).width;
+//      }).bind(this));
+//      // comment out above to hide ability to change text string
+//      controls.add(this, 'fps', 1, 60);
+//      controls.add(this, 'phaseStep', 0, 1);
+//      controls.add(this, 'alphaMin', 0, 1);
+//      controls.add(this, 'amplitudeBase', 0, 5);
+//      controls.add(this, 'amplitudeRange', 0, 5);
+//      controls.add(this, 'glitchAmplitude', 0, 100);
+//      controls.add(this, 'glitchThreshold', 0, 1);
+//      controls.open();
+//      gui.close(); // start the control panel cloased
     },
 
     tick: function () {

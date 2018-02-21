@@ -7,8 +7,8 @@ body {
 }
 #wrapper {
   width: 100%;
-  padding: 0;
-  margin: 0 auto;
+    padding-top: 0em;
+    margin: 0em;
   max-width: 100%;
   /*overflow: hidden;*/
   text-align: center;
@@ -18,6 +18,9 @@ img {
   display: none;
 }
 
+.dg.ac{
+    display: none;
+}
 canvas {
   box-sizing: border-box;
   padding: 0 40px 0 0;
