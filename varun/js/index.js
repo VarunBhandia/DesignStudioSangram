@@ -1,50 +1,3 @@
-<html lang="en">
-<head>
-    <title>Varun Bhandia</title>
-    <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        body {
-  background: black;
-  overflow: hidden; 
-  margin: 0;
-  padding: 0;
-  width: 100%;
-}
-#wrapper {
-  width: 100%;
-  padding: 0;
-  margin: 0 auto;
-  max-width: 100%;
-  /*overflow: hidden;*/
-  text-align: center;
-}
-
-img {
-  display: none;
-}
-
-canvas {
-  box-sizing: border-box;
-  padding: 0 40px 0 0;
-  margin: 20px auto 0;
-  text-align: center;
-  max-width: 100%;
-}
-
-  </style>
-</head>
-
-<body>
-    <!-- click gear in top right of this frame to see the links in <head> -->
-    <div id="wrapper">
-      <canvas id="stage"></canvas>
-    </div>
-<!--    <script src="dat.gui.min.js"></script>-->
-<!--    <script src="resist.js"></script>-->
-</body>
-<script>
 /* Based off of work on http://retromodular.com/ */
 /*·····················································
 ···· Paul Reny ········································
@@ -245,4 +198,3 @@ canvas {
   // return;
  // executes anonymous function onload
 })();
-</script>
