@@ -28,7 +28,6 @@ padding-left: 3em;
 .thumbnail_team{
 margin-top: 6em;
     margin-left: 4em;
-    background-color: #3f76e3;
     margin-right: 4em;
     height: 35em;
     width: 21em;}
@@ -38,7 +37,6 @@ margin-top: 6em;
     width: 23em;
     margin-top: 3em;
     margin-left: 4em;
-    background-color: #3f76e3;
     height: 37em;
     }}
 
@@ -47,6 +45,8 @@ margin-top: 6em;
 }
 
 .team_content{
+    padding-bottom: 1em;
+    background-color: #3f76e3;
      font-family: Montserrat;
   font-size: 18.1px;
   font-weight: 500;
@@ -85,7 +85,8 @@ margin-top: 6em;
     }
     
 .name_team_faculty{
-    padding-top: 2em;
+    padding-bottom: 1em;
+    padding-top: 1em;
     font-family: Montserrat;
   font-size: 1em;
   font-weight: 500;

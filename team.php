@@ -40,7 +40,7 @@
                         <img src="img/pant.png" style="width:100%;" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team_faculty" style="padding-top: 2em;">Dr. Vinay Pant</p>
+                            <p class="name_team_faculty" style="padding-top: 1em;">Dr. Vinay Pant</p>
                             <p class="post_team">Chariperson Sports Council</p>
                             
                         </div>
@@ -63,7 +63,7 @@
                         
                           <center>
                         <div class="team_content">
-                            <p class="name_team_faculty" style="padding-top: 2em;">Dr. Kiran Ambatipudi</p>
+                            <p class="name_team_faculty" style="padding-top: 1em;">Dr. Kiran Ambatipudi</p>
                             <p class="post_team">Chairperson</p>
                             
                         </div>
@@ -75,7 +75,7 @@
                         <img src="img/rn.png" style="width:100%;" class="team_image">
                         <center>
                         <div class="team_content">
-                            <p class="name_team_faculty" style="padding-top: 2em;">Dr. G. D. Ransinchung R. N.</p>
+                            <p class="name_team_faculty" style="padding-top: 1em;">Dr. G. D. Ransinchung R. N.</p>
                             <p class="post_team">Chief Sports Advisor</p>
                         
                         </div>
@@ -209,7 +209,7 @@
                         <center>
                         <div class="team_content">
                             <p class="name_team">Sumit Yadav</p>
-                            <p class="post_team">Organising Secretory</p>
+                            <p class="post_team">Organising Secretary</p>
                             <p class="post_team">+91 80064-78565</p>
                         </div>
                             </center>
