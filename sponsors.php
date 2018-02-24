@@ -39,7 +39,21 @@
              <div class="row">
         <div class="col-md-5"></div>
         <div class="col-md-2">
-            <div class="sponType">Title Sponsor</div> 
+            <div class="sponType" style="   width: 139px;
+  height: 19px;
+ 
+  font-family: Montserrat;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #222222;
+    margin-top: 7em;
+    font-weight: 500;
+    margin-left: 3em;">Title Sponsor</div> 
         </div>
         <div class="col-md-5"></div>
     </div>
