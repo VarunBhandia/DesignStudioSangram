@@ -30,7 +30,7 @@
       // very wide, but not very tall
       this.font = '100 ' + this.textSize + 'px "Orbitron"';
       this.context.font = this.font;
-      this.text = "Malvika";
+      this.text = "varun bhandia";
       this.textWidth = (this.context.measureText(this.text)).width;
 
       this.fps = 60;
