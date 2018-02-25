@@ -15,7 +15,7 @@
  
   font-family: Montserrat;
   font-size: 13px;
-  font-weight: normal;
+  
   font-style: normal;
   font-stretch: normal;
   line-height: normal;
@@ -25,4 +25,5 @@
     margin-top: 7em;
     font-weight: 500;
     margin-left: 3em;
+    font-weight: 900
 }

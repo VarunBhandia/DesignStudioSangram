@@ -144,6 +144,75 @@ var x = setInterval(function() {
         <div class="col-md-2"></div>
     
         </div>
+    <!-- hhh    
+         
+        
+        <div class="row">
+             <div class="col-md-4"></div>
+      <div class="col-md-4" style="background-color: #3f76e3;            width: 264px;
+  height: 72px;
+  
+  box-shadow: 2.1px 7.7px 16.6px 4.4px rgba(63, 63, 63, 0.1);
+            width: 160px;" id="myContainer">
+        
+          <p  class="registerButton" data-target="#registerModal" data-toggle="modal">REGISTER</p>
+      </div>
+            
+             <div class="col-md-4"></div>
+            </div>
+
+    
+      <form method="post" id="registerform">
+        <div class="modal" id="registerModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button class="close" data-dismiss="modal">
+                    &times;
+                  </button>
+                  <h4 id="myModalLabel">
+                   Register:
+                  </h4>
+              </div>
+              <div class="modal-body">
+                  
+                  Login message from PHP file
+                  <div id="registermessage"></div>
+                  
+
+                  <div class="form-group">
+                      <label for="name" class="sr-only">Name:</label>
+                      <input class="form-control" type="email" name="name" id="name" placeholder="Name" maxlength="50">
+                  </div>
+                  <div class="form-group">
+                      <label for="email" class="sr-only">Email:</label>
+                      <input class="form-control" type="email" name="email" id="email" placeholder="Email" maxlength="50">
+                  </div>
+                  <div class="form-group">
+                      <label for="phone" class="sr-only">Phone Number:</label>
+                      <input class="form-control" type="password" name="phone" id="phone" placeholder="Phone Number" maxlength="50">
+                  </div>
+                   <div class="form-group">
+                      <label for="collage" class="sr-only">Collage:</label>
+                      <input class="form-control" type="password" name="collage" id="collage" placeholder="Collage" maxlength="100">
+                  </div>
+              </div>
+              <div class="modal-footer">
+                  <input class="btn green" name="login" type="submit" value="Login">
+                <button type="button" class="btn btn-default" data-dismiss="modal">
+                  Cancel
+                </button>
+                <button type="button" class="btn btn-default pull-left" data-dismiss="modal" data-target="signupModal" data-toggle="modal">
+                  Register
+                </button>  
+              </div>
+          </div>
+      </div>
+      </div>
+      </form>
+-->
+        
+        
     <div class="about" id="about">
         <div class="row">
             <div class="col-md-5">
@@ -158,7 +227,7 @@ var x = setInterval(function() {
                 <div class="grey"></div>
 
                     <p class="aboutcontent">Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a four day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.
-                    Our IIT Roorkee teams, along with the alumni teams participate in each sport to exibit their sports skill. Sangram is devoted in creating a customized and unforgettable experience for each and every visitor, simultaneously providing unique oppurtunities to the youth for showcasing their talents in front of extremely large and enthusiastic audience and top notch judges with a behemoth footfall of more than 1500 students, comprising several IITs and NITs. An assortment of intriguing events held in venues across our campus, are something to cater to all tastes. Plethoras of events are hosted, accompanied by informal events like sports quiz , marathon becoming the abode of this ambrosial combination.
+                    Our IIT Roorkee teams, along with the alumni teams participate in each sport to exibit their sports skill. Sangram is devoted in creating a customized and unforgettable experience for each and every visitor, simultaneously providing unique opportunities to the youth for showcasing their talents in front of extremely large and enthusiastic audience and top notch judges with a behemoth footfall of more than 1500 students, comprising several IITs and NITs. An assortment of intriguing events held in venues across our campus, are something to cater to all tastes. Plethoras of events are hosted, accompanied by informal events like sports quiz , marathon becoming the abode of this ambrosial combination.
                     Sangram’18 promises to be an exhilarating experience from beginning to end.</p>
 
             </div>

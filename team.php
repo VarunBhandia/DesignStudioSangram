@@ -37,11 +37,11 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/pant.png" style="width:100%;" class="team_image">
+                        <img src="img/pant.png" style="width:100%;    height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 1em;">Dr. Vinay Pant</p>
-                            <p class="post_team">Chariperson Sports Council</p>
+                            <p class="post_team">Chairperson Sports Council</p>
                             
                         </div>
                             </center>
@@ -49,7 +49,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/chairperson.png" style="width:100%;" class="team_image">
+                        <img src="img/chairperson.png" style="width:100%;    height: 75%;" class="team_image">
 <!--
                         <center>
                         <div class="team_content">
@@ -64,7 +64,7 @@
                           <center>
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 1em;">Dr. Kiran Ambatipudi</p>
-                            <p class="post_team">Chairperson</p>
+                            <p class="post_team">Chairperson Sangram</p>
                             
                         </div>
                             </center>
@@ -72,7 +72,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail_team">
-                        <img src="img/rn.png" style="width:100%;" class="team_image">
+                        <img src="img/rn.png" style="width:100%;    height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 1em;">Dr. G. D. Ransinchung R. N.</p>
@@ -87,7 +87,7 @@
             <div class="row">
                 <div class="col-md-4">
                    <a href="https://www.facebook.com/Pavitteg26bir?ref=br_rs" target="_blank"> <div class="thumbnail_team">
-                        <img src="img/Pavit.jpg" style="width:100%;" class="team_image">
+                        <img src="img/Pavit.jpg" style="width:100%;    height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 1.3em;">Pavit Teg Bir Singh</p>
@@ -100,7 +100,7 @@
                 <div class="col-md-4">
                      <a href="https://www.facebook.com/tarandeep.singh.54966834?ref=br_rs" target="_blank"> 
                     <div class="thumbnail_team">
-                        <img src="img/Tarandeep.JPG" class="team_image">
+                        <img src="img/Tarandeep.JPG" style="width:100%;    height: 75%;"class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 1.3em;">Tarandeep Singh</p>
@@ -112,7 +112,7 @@
                 </div>
                 <div class="col-md-4">
                      <a href="https://www.facebook.com/profile.php?id=100005459568178" target="_blank"><div class="thumbnail_team">
-                        <img src="img/IMG_20180210_201005.jpg" style="width:100%;" class="team_image">
+                        <img src="img/IMG_20180210_201005.jpg" style="width:100%;height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 1.3em;">Mayank Gupta</p>
@@ -127,11 +127,11 @@
             <div class="row">
                 <div class="col-md-4">
                    <a href="https://www.facebook.com/profile.php?id=100002685997998&ref=br_rs" target="_blank"> <div class="thumbnail_team">
-                        <img src="img/bansal.png" style="width:100%;" class="team_image">
+                        <img src="img/bansal.png" style="width:100%;height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Harsh Bansal</p>
-                            <p class="post_team">Head Admin &amp;Events</p>
+                            <p class="post_team">Head Admin &amp; Events</p>
                             <p class="post_team">+91 721-725-9085</p>
                         </div>
                             </center>
@@ -153,7 +153,7 @@
                 </div>
                 <div class="col-md-4">
                      <a href="https://www.facebook.com/profile.php?id=100003709297779&ref=br_rs" target="_blank"><div class="thumbnail_team">
-                        <img src="img/" style="width:100%;" class="team_image">
+                        <img src="img/" style="width:100%;height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Vardan Bapna</p>
@@ -167,7 +167,7 @@
             <div class="row">
                 <div class="col-md-4">
                      <a href="https://www.facebook.com/profile.php?id=100007701707643&ref=br_rs" target="_blank"><div class="thumbnail_team">
-                        <img src="img/rajneesh.png"  style="width:100%;" class="team_image">
+                        <img src="img/rajneesh.png"  style="width:100%;height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Rajneesh Lodhi</p>
@@ -179,7 +179,7 @@
                 </div>
                 <div class="col-md-4">
                      <a href="https://www.facebook.com/profile.php?id=100000397565590&ref=br_rs" target="_blank"><div class="thumbnail_team">
-                        <img src="img/raunak.png"  style="width:100%;" class="team_image">
+                        <img src="img/raunak.png"  style="width:100%;height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Raunak Ravi</p>
@@ -191,7 +191,7 @@
                 </div>
                 <div class="col-md-4">
                    <a href="https://www.facebook.com/profile.php?id=100000827880265&ref=br_rs" target="_blank"> <div class="thumbnail_team">
-                        <img src="img/aby.png" style="width:100%;"  class="team_image">
+                        <img src="img/aby.png" style="width:100%;height: 75%;"  class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Aby Jose</p>
@@ -205,7 +205,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <a href=""> <div class="thumbnail_team">
-                        <img src="img/" style="width:100%;" class="team_image">
+                        <img src="img/" style="width:100%;height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Sumit Yadav</p>
@@ -217,7 +217,7 @@
                 </div>
                 <div class="col-md-4">
                     <a href="https://www.facebook.com/profile.php?id=100001520096556&ref=br_rs" target="_blank"> <div class="thumbnail_team">
-                        <img src="img/sambit.png" style="width:100%;" class="team_image">
+                        <img src="img/sambit.png" style="width:100%;height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Sambit Sarkar</p>
@@ -229,7 +229,7 @@
                 </div>
                 <div class="col-md-4">
                     <a href="https://www.facebook.com/profile.php?id=100012302794165&ref=br_rs" target="_blank"> <div class="thumbnail_team">
-                        <img src="img/vipul.png" style="width:100%;" class="team_image">
+                        <img src="img/vipul.png" style="width:100%;height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Vipul Seth</p>

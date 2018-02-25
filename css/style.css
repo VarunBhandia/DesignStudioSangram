@@ -370,7 +370,22 @@ width: 36px;
 .topnavbar{
     text-decoration: none;        
 }
+       
         
+        .registerButton{
+            
+  
+  height: 21px;
+  font-family: Montserrat;
+  font-size: 29.9px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1.5px;
+  text-align: right;
+  color: #4784ff;
+        }
         
         
         
