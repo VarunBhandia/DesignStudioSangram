@@ -38,7 +38,7 @@
 
 
 .thumbnail_events{
-    height: 51em;
+    height: 53em;
     margin-top: 6em;
     margin-left: 4em;
     background-color: white;
@@ -99,4 +99,12 @@
     line-height: 2.7;
     letter-spacing: 0.5px;
     color: #ffffff;
+}
+.event_contact{
+    font-family: Montserrat;
+
+    font-weight: bold;
+    font-stretch: normal;
+
+    color: #3f76e3;
 }
