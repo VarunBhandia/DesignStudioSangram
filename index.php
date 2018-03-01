@@ -148,7 +148,7 @@ var x = setInterval(function() {
         <div class="col-md-2"></div>
     
         </div>
-    <!-- hhh    
+     hhh    
          
         
         <div class="row">
@@ -214,7 +214,7 @@ var x = setInterval(function() {
       </div>
       </div>
       </form>
--->
+
         
         
     <div class="about" id="about">
