@@ -185,12 +185,12 @@
                         <img src="img/power-lifting.png" style = "width: 100%;" class="event_image">
                         <div class="event_content">
                             <p class="name_event">POWERLIFTING</p>
-                            <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
+                            <p class="post_event">The sport of powerlifting gets to the heart of the most fundamental of all athletic qualities-strength. An invigorating sport of strength, power, and speed, powerlifting is a recent entry into Sangram that brings to our participants more of strength athletics. Be ready to train your muscles, focus your breathing and strengthen your will and set records in squats, benches and deadlifts!</p>
                             <div class="row">
                                 <div class="col-md-8"></div>
                                 <div class="col-md-4">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1uLvGwhJXfnQ_HBcyCBMe_ScdRapE7uRdbAG3Gxn0sB0/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="https://docs.google.com/document/d/15locfFXyUZJSxix9cBZtWINITm3gheItD8f1658mLPU/edit?usp=sharing" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a> 
                                     </div>
@@ -246,7 +246,8 @@
                         <img src="img/swimming.png" style = "width: 100%;" class="event_image">
                         <div class="event_content">
                             <p class="name_event">SWIMMING</p>
-                            <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
+                            <p class="post_event">Wading through the waters, tough and revolting using careful and styled limb movements is one the most favourite competitive sports of all time. With an Olympic size pool, state-of-the-art facilities and professional coaches, Sangram is all set to hold a grand battle in the waters! 
+Regards</p>
                             <div class="row">
                                 <div class="col-md-8"></div>
                                 <div class="col-md-4">
@@ -366,7 +367,7 @@
                         <img src="img/yoga-to-wake-up.png" style = "width: 100%;" class="event_image">
                         <div class="event_content">
                             <p class="name_event">YOGA</p>
-                            <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
+                            <p class="post_event">Derived from the Sanskrit word, ‘Yuj’ which means union, yoga is the union mind and body to achieve wisdom, peace and harmony. Celebrating the Indian art and legacy of yoga in IITR, Sangram brings to its participants the well-known and world famous sport to Roorkee's grounds.</p>
                             <div class="row">
                                 <div class="col-md-8"></div>
                                 <div class="col-md-4">
