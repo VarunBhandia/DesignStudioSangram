@@ -231,7 +231,7 @@
                                 <div class="col-md-4">
                                 
                                 <p class="event_contact">Jogesh Kumar:</p>
-                                    <p class="event_contact">80064 85925</p>
+                                    <p class="event_contact">80064 64357</p>
                                 
                                 </div>
                                 <div class="col-md-4"></div>
