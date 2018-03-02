@@ -230,8 +230,8 @@
                             <div class="row" style="margin-top: 1em;">
                                 <div class="col-md-4">
                                 
-                                <p class="event_contact">Dheerendra Meena:</p>
-                                    <p class="event_contact">94563 19176</p>
+                                <p class="event_contact">Jogesh Meena:</p>
+                                    <p class="event_contact">80064 85925</p>
                                 
                                 </div>
                                 <div class="col-md-4"></div>
