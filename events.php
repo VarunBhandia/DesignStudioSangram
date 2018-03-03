@@ -320,7 +320,7 @@ Regards</p>
                                 <div class="col-md-4"></div>
                                 <div class="col-md-4">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1uLvGwhJXfnQ_HBcyCBMe_ScdRapE7uRdbAG3Gxn0sB0/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="https://docs.google.com/document/d/1KE9zI6Z5C4sXlgYa7jdgZVU4e9YxGrMqiBbOtqUJia4/edit?usp=sharing" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -449,7 +449,7 @@ Regards</p>
                                 <div class="col-md-4"></div>
                                 <div class="col-md-4">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1uLvGwhJXfnQ_HBcyCBMe_ScdRapE7uRdbAG3Gxn0sB0/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="https://drive.google.com/file/d/0BztrqQSkSJ8iRU9QYkdrLUh6Y19PQ1gyRmZtaHRSNng2cFBZ/view?usp=sharing" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
