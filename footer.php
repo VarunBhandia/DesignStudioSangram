@@ -67,7 +67,7 @@
             </div>
         </div>
         <div class="row copyright">
-                    <p class="hero"> DESIGNED BY <a href="" target="_blank">DESIGN STUDIO</a> AND DEVELOPED BY <a href="https://www.linkedin.com/in/varun-bhandia-934937134/" target="_blank">VARUN BHANDIA </a>AND <a href="https://www.linkedin.com/in/harsh-gupta-a8a7303a/" target="_blank">HARSH GUPTA </a> </p>
+                    <p class="hero"> DESIGNED BY <a href="" target="_blank">DESIGN STUDIO</a> AND DEVELOPED BY <a href="VarunBhandia/index.html" target="_blank">VARUN BHANDIA </a>AND <a href="https://www.linkedin.com/in/harsh-gupta-a8a7303a/" target="_blank">HARSH GUPTA </a> </p>
                 </div>
 
     </div>
