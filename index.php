@@ -20,7 +20,6 @@
         <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10">
-<!--
                 <nav class="navbar-fixed-top">
                     <div class="gradient-background"></div>
 
@@ -38,16 +37,16 @@
                                 </div>
                         <div class="collapse navbar-collapse" id="myNavbar">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class="nav-items"><a href="index.php#about" class="navbar_link">ABOUT US</a></li>
-                                <li class="nav-items"><a href="events.php" class="navbar_link">EVENTS</a></li>
-                                <li class="nav-items"><a href="sponsors.php" class="navbar_link">SPONSORS</a></li>
-                                <li class="nav-items"><a href="team.php" class="navbar_link">TEAM</a></li>
-                                <li class="nav-items"><a href="index.php#footer_index" class="navbar_link" style="padding-right: 14em;">CONTACT US</a></li>
+                                <li class=""><a href="index.php#about" class="navbar_link nav-items">ABOUT US</a></li>
+                                <li class=""><a href="events.php" class="navbar_link nav-items">EVENTS</a></li>
+                                <li class=""><a href="sponsors.php" class="navbar_link nav-items">SPONSORS</a></li>
+                                <li class=""><a href="team.php" class="navbar_link nav-items">TEAM</a></li>
+                                <li class=""><a href="index.php#footer_index" class="navbar_link nav-items" style="padding-right: 14em;">CONTACT US</a></li>
                             </ul>
                         </div>
                     </div>
                 </nav>
--->
+<!--
                 <nav class="navbar-fixed-top">
             <div class="container-fluid">
                 <div class="navbar-header">
@@ -59,16 +58,24 @@
                   <a class="navbar-brand" style="margin-top: -.5em; padding-left: 5vw;" href="#"><img src="img/cec-logo-c.png" class="new-logo"  />  </a>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
-                            <ul class="nav navbar-nav navbar-right">
-                                <li class="nav-items"><a href="index.php#about" class="navbar_link">ABOUT US</a></li>
-                                <li class="nav-items"><a href="events.php" class="navbar_link">EVENTS</a></li>
-                                <li class="nav-items"><a href="sponsors.php" class="navbar_link">SPONSORS</a></li>
-                                <li class="nav-items"><a href="team.php" class="navbar_link">TEAM</a></li>
-                                <li class="nav-items"><a href="index.php#footer_index" class="navbar_link" style="padding-right: 14em;">CONTACT US</a></li>
-                            </ul>
+                  <ul class="nav navbar-nav navbar-right">
+                      <li><a href="index.php" style="padding-left: 3em;padding-right: 2em;">HOME</a></li>
+                      <li><a href="recent-posts.php" style="padding-left: 3em;padding-right: 2em;">BLOG</a></li>
+                      <li><a href="events.php" style="padding-left: 3em;padding-right: 2em;">ACTIVITIES</a></li>
+                      <li><a href="" style="padding-left: 3em;padding-right: 2em;">TEAM</a></li>
+                      <li><a href="alumini-main-page.php" style="padding-left: 3em;padding-right: 2em;" >ALUMINI</a></li>
+                      <li><a href="contact-us.php" style="padding-left: 3em;padding-right: 2em;" >CONTACT</a></li>
+                      <li class="dropdown morelinks">
+                      <a class="dropdown-toggle " data-toggle="dropdown" href="#">MORE LINKS <span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                          <li><a href="#">Page 1-3</a></li>
+                      </ul>
+                    </li>
+                  </ul>
                 </div>
               </div>
         </nav>
+-->
 
             </div>
             <div class="col-md-1"></div>
