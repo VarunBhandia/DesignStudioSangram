@@ -19,6 +19,22 @@
 </head>
 <body>
     <?php include("navbar.php"); ?>
+    <script>
+var isVisible = false;
+$('#mybutton').click(function(){
+    $(window).scrollTop(0);
+});
+$(window).scroll(function(){
+     var shouldBeVisible = $(window).scrollTop()>200;
+     if (shouldBeVisible && !isVisible) {
+          isVisible = true;
+          $('.gradient-background').show();
+     } else if (isVisible && !shouldBeVisible) {
+          isVisible = false;
+          $('.gradient-background').hide();
+    }
+});</script>
+
     <div class="row">
         <div class="col-md-1"></div>
         <div class="col-md-10">
