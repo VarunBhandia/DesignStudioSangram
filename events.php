@@ -446,7 +446,7 @@ Regards</p>
                                 <div class="col-md-4"></div>
                                 <div class="col-md-4">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1uLvGwhJXfnQ_HBcyCBMe_ScdRapE7uRdbAG3Gxn0sB0/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="https://docs.google.com/document/d/1rWBNuxHHJXKH_BnSyr3MhoKvWkYeTGwwDXrcEARfVLU/edit?usp=sharing" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a> 
                                     </div>
