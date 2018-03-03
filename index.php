@@ -41,7 +41,7 @@
                                 <li class=""><a href="events.php" class="navbar_link nav-items">EVENTS</a></li>
                                 <li class=""><a href="sponsors.php" class="navbar_link nav-items">SPONSORS</a></li>
                                 <li class=""><a href="team.php" class="navbar_link nav-items">TEAM</a></li>
-                                <li class=""><a href="index.php#footer_index" class="navbar_link nav-items" style="padding-right: 14em;">CONTACT US</a></li>
+                                <li class=""><a href="index.php#footer_index" class="padding14 navbar_link nav-items">CONTACT US</a></li>
                             </ul>
                         </div>
                     </div>
