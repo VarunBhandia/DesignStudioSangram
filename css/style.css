@@ -13,14 +13,13 @@ margin-right: -.5em;
 
 @media only screen and (max-width: 500px) {
     .iitr_logo {
-        margin-top: .2em;
-        width: 4em;
+        width: 2.1em;
     }
 }
 @media only screen and (max-width: 500px) {
     .logo {
-        margin-top: 0em;
-        width: 3.7em;
+        margin-top: -1em;
+        width: 2em;
         margin-left: 2em;
     }
 }
