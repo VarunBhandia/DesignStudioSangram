@@ -3,7 +3,7 @@ html{
 }
 .logo {
     margin-left: 11em;
-margin-right: -.5em;
+    margin-right: -.5em;
     width: 3.5em;
     margin-top: -1em;}
 
@@ -13,51 +13,40 @@ margin-right: -.5em;
 
 @media only screen and (max-width: 500px) {
     .iitr_logo {
-        width: 2.1em;
+
+        margin-top: -8em;
+        width: 4em;
     }
 }
 @media only screen and (max-width: 500px) {
     .logo {
         margin-top: -1em;
-        width: 2em;
+        width: 3.7em;
         margin-left: 2em;
     }
+}
+.vl {
+  border-right: 1px solid white;
+  height: 60px;
+  margin-left: 5px;
 }
 
 .leftlogo{
     float: left;
 }
+.vl_img{
+  width: 1px;
+  height:70px;
+}
 .nav-items{
     padding-top: 1.4em;
     padding-left: 0em;
+    height: 15px;
     font-family: Montserrat;
     font-size: 1em;
     font-weight: 600;
     text-align: right;
-    padding-right: 1em;
-    margin-top: 1.1em;
-}
-
-@media only screen and (max-width: 500px) {
-.nav-items{
-    font-family: Montserrat;
-    font-size: 1em;
-    font-weight: 600;
-    text-align: right;
-    padding-right: 1em;
-}
-}
-
-.padding14{
-    margin-right: 14em;
-}
-
-@media only screen and (max-width: 500px) {
-.padding14{
-    margin-right: 0em;
-}
-}
-
+    padding-right: 1em;}
 
 .gradient{
     height: 6em;
@@ -70,22 +59,11 @@ margin-right: -.5em;
     position: fixed;
     top:0;
     width: 100%;
-    display: none;   
-    height: 6.4em;
+    display: none;
+    height: 6em;
     background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);}
 
-
-@media only screen and (max-width: 500px) {
-.gradient-background{
-    transition: 1s;
-    position: fixed;
-    top:0;
-    width: 100%;
-    display: none;   
-    height: 5.2em;
-    background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);}
 }
-
 .gradient2{
     margin-top: 8em;
     width: 100%;
@@ -120,7 +98,7 @@ height: 26em;    }
     background-color: #ffffff;
 }
 .right{
-    margin-right: 2.5em;
+margin-right: 2.5em;
     margin-top: -16em;
     float: right;
     font-family: Montserrat;
@@ -129,7 +107,7 @@ height: 26em;    }
     letter-spacing: 0.2px;
     text-align: right;
     color: #ffffff;
-}  
+}
 
 @media only screen and (max-width: 500px) {
     .right {
@@ -177,7 +155,7 @@ height: 26em;    }
 }
 
 .aboutcontent{
-    background: rgba(0, 0, 0, 0.05); 
+    background: rgba(0, 0, 0, 0.05);
     padding-right: 6em;
     padding-left: 7em;
     padding-top: 6em;
@@ -217,6 +195,7 @@ background: rgba(0, 0, 0, 0.05);
     .aboutimage {
 display: none;    }
 }
+
 
 .rectabout{
     margin-top: 3em;
@@ -281,7 +260,7 @@ font-family: Montserrat;
         .copyright{
                 background-color:#151414;
 height: 5em;
-        }        
+        }
 
 @media only screen and (max-width: 500px) {
     .copyright {
@@ -320,6 +299,17 @@ font-family: Montserrat;
     letter-spacing: 0.5px;
     color: #fefefe;
     padding-top: 2em;
+}
+.email{
+    line-height: 159%;
+    font-family: Montserrat;
+    font-size: .9em;
+    letter-spacing: 0.5px;
+    color: #fefefe;
+    padding-top: 2em;
+}
+.email:hover{
+  color:#fefefe;
 }
 
 .side2_icons{
@@ -361,7 +351,7 @@ font-family: Montserrat;
     color: #252525;
 }
 
-.timer_days_content{ 
+.timer_days_content{
     padding-top: .1em;
     font-family: Montserrat;
     font-weight: normal;
@@ -373,7 +363,7 @@ font-family: Montserrat;
 }
 
     @media only screen and (max-width: 500px) {
-        .timer_days_content{   
+        .timer_days_content{
     font-family: Montserrat;
     font-weight: normal;
     font-style: normal;
@@ -382,7 +372,7 @@ font-family: Montserrat;
     letter-spacing: 0.6px;
     color: #ababab;
 }
-    
+
 @media only screen and (max-width: 500px) {
 .timer_days{
     padding-top: .4em;
@@ -400,13 +390,13 @@ width: 36px;
 }
 
 .topnavbar{
-    text-decoration: none;        
+    text-decoration: none;
 }
-       
-        
+
+
         .registerButton{
-            
-  
+
+
   height: 21px;
   font-family: Montserrat;
   font-size: 29.9px;
@@ -418,24 +408,3 @@ width: 36px;
   text-align: right;
   color: #4784ff;
         }
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
