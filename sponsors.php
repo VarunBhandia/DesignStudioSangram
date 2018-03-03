@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="css/spons.css">
     <style>
   </style>
-  
+
 </head>
 <body>
     <?php include("navbar.php"); ?>
@@ -55,13 +55,13 @@
           </div>
         -->
         <div class="row">
-
-        <div class="col-md-12 col-xs-12">
-            <center><p class="sponType">Beverage Partner</p></center>
+          <div class="col-md-1"></div>
+          <div class="col-md-9 col-xs-12">
+              <center><p class="sponType">Beverage Partner</p></center>
+          </div>
+          <div class="col-md-3"></div>
         </div>
-
-    </div>
-            <div class="row">
+        <div class="row">
               <!--
               <div class="col-md-1"></div>
 
@@ -74,7 +74,29 @@
                     </center>
 
                 </div>
-            </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-1"></div>
+          <div class="col-md-9 col-xs-12">
+              <center><p class="sponType">Food Partner</p></center>
+          </div>
+          <div class="col-md-3"></div>
+        </div>
+        <div class="row">
+              <!--
+              <div class="col-md-1"></div>
+
+
+                <div class="col-md-1"></div>-->
+                <div class="col-md-12 col-xs-12" >
+                    <center class="spons_img">
+                        <img src="img/layer-1.png" class="image_spons">
+
+                    </center>
+
+                </div>
+        </div>
             <!--
                 <div class="row">
                   <div class="col-md-12 col-xs-12">
@@ -85,9 +107,11 @@
 
 
                      <div class="row">
-                       <div class="col-md-12 col-xs-12">
+                       <div class="col-md-1"></div>
+                       <div class="col-md-9 col-xs-12">
                            <center><p class="sponType">Footwear Partner</p></center>
                        </div>
+                       <div class="col-md-3"></div>
                       </div>
             <div class="row">
                 <div class="col-md-12 copl-xs-12">
@@ -129,10 +153,11 @@
             </div>
 
                              <div class="row">
-                               <div class="col-md-12 col-xs-12">
+                               <div class="col-md-1"></div>
+                               <div class="col-md-9 col-xs-12">
                                    <center><p class="sponType">Technology Partner</p></center>
                                </div>
-
+                               <div class="col-md-3"></div>
                              </div>
             <div class="row">
                 <div class="col-md-1">
@@ -153,9 +178,11 @@
             </div>
 
                                   <div class="row">
-                                    <div class="col-md-12 col-xs-12">
+                                    <div class="col-md-1"></div>
+                                    <div class="col-md-9 col-xs-12">
                                         <center><p class="sponType">Yoga Partner</p></center>
                                     </div>
+                                    <div class="col-md-3"></div>
                                   </div>
 
             <div class="row">
@@ -195,9 +222,9 @@
             </div>
             <div class="row">
                 <div class="col-md-4 col-xs-12">
-                     <div class="spons_img">
-                        <img src="img/layer-1.png" class="image_spons">
-                      </div>
+                  <center class="spons_img">
+                     <img src="img/51-m-vc-ldgt-l-sx-425.png" class="image_spons">
+                   </center>
                 </div>
                 <div class="col-md-4 col-xs-12">
                      <div class="spons_img">
@@ -211,13 +238,7 @@
                       </div>
                 </div>
             </div>
-            <div class="row">
-              <div class="col-md-12 col-xs-12">
-                   <center class="spons_img">
-                      <img src="img/51-m-vc-ldgt-l-sx-425.png" class="image_spons">
-                    </center>
-              </div>
-            </div>
+
 
         </div>
         <div class="col-md-1"></div>
