@@ -151,7 +151,8 @@ var x = setInterval(function() {
      hhh    
          
         
-        <div class="row">
+<!--
+<div class="row">
              <div class="col-md-4"></div>
       <div class="col-md-4" style="background-color: #3f76e3;            width: 264px;
   height: 72px;
@@ -164,8 +165,10 @@ var x = setInterval(function() {
             
              <div class="col-md-4"></div>
             </div>
+-->
 
     
+<!--
       <form method="post" id="registerform">
         <div class="modal" id="registerModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
@@ -214,6 +217,7 @@ var x = setInterval(function() {
       </div>
       </div>
       </form>
+-->
 
         
         

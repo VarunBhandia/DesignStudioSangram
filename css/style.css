@@ -71,10 +71,21 @@ margin-right: -.5em;
     top:0;
     width: 100%;
     display: none;   
-    height: 6em;
+    height: 6.4em;
     background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);}
 
+
+@media only screen and (max-width: 500px) {
+.gradient-background{
+    transition: 1s;
+    position: fixed;
+    top:0;
+    width: 100%;
+    display: none;   
+    height: 5.2em;
+    background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);}
 }
+
 .gradient2{
     margin-top: 8em;
     width: 100%;
