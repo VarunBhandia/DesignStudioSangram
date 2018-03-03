@@ -16,6 +16,33 @@
     <link rel="stylesheet" href="css/team.css">
     <style>
   </style>
+  <script>
+  $(document).ready(function(){
+    // Add smooth scrolling to all links
+    $("nav a").on('click', function(event) {
+
+      // Make sure this.hash has a value before overriding default behavior
+      if (this.hash !== "") {
+        // Prevent default anchor click behavior
+        event.preventDefault();
+
+        // Store hash
+        var hash = this.hash;
+
+        // Using jQuery's animate() method to add smooth page scroll
+        // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+        $('html, body').animate({
+          scrollTop: $(hash).offset().top
+        }, 1000, function(){
+
+          // Add hash (#) to URL when done scrolling (default click behavior)
+          window.location.hash = hash;
+        });
+      } // End if
+    });
+  });
+  </script>
+
 </head>
 <body>
     <?php include("navbar.php"); ?>
@@ -31,7 +58,7 @@
     <div class="row">
         <div class="col-md-1"></div>
         <div class="col-md-10">
-            <div class="line_team"></div> 
+            <div class="line_team"></div>
         </div>
         <div class="col-md-1"></div>
     </div>
@@ -46,7 +73,7 @@
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 1em;">Dr. Vinay Pant</p>
                             <p class="post_team">Chairperson Sports Council</p>
-                            
+
                         </div>
                             </center>
                     </div>
@@ -59,17 +86,17 @@
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 2em;">Dr. Vinay Pant</p>
                             <p class="post_team">Chariperson Sports Council</p>
-                            
+
                         </div>
                             </center>
 
 -->
-                        
+
                           <center>
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 1em;">Dr. Kiran Ambatipudi</p>
                             <p class="post_team">Chairperson Sangram</p>
-                            
+
                         </div>
                             </center>
                     </div>
@@ -81,13 +108,13 @@
                         <div class="team_content">
                             <p class="name_team_faculty" style="padding-top: 1em;">Dr. G. D. Ransinchung R. N.</p>
                             <p class="post_team">Chief Sports Advisor</p>
-                        
+
                         </div>
                             </center>
                     </div>
                 </div>
-            </div>   
-            
+            </div>
+
             <div class="row">
                 <div class="col-md-4">
                    <a href="https://www.facebook.com/Pavitteg26bir?ref=br_rs" target="_blank"> <div class="thumbnail_team">
@@ -102,7 +129,7 @@
                     </div></a>
                 </div>
                 <div class="col-md-4">
-                     <a href="https://www.facebook.com/tarandeep.singh.54966834?ref=br_rs" target="_blank"> 
+                     <a href="https://www.facebook.com/tarandeep.singh.54966834?ref=br_rs" target="_blank">
                     <div class="thumbnail_team">
                         <img src="img/Tarandeep.JPG" style="width:100%;    height: 75%;"class="team_image">
                         <center>
@@ -126,8 +153,8 @@
                             </center>
                          </div></a>
                 </div>
-            </div>       
-            
+            </div>
+
             <div class="row">
                 <div class="col-md-4">
                    <a href="https://www.facebook.com/profile.php?id=100002685997998&ref=br_rs" target="_blank"> <div class="thumbnail_team">
@@ -167,7 +194,7 @@
                             </center>
                          </div></a>
                 </div>
-            </div>       
+            </div>
             <div class="row">
                 <div class="col-md-4">
                      <a href="https://www.facebook.com/profile.php?id=100007701707643&ref=br_rs" target="_blank"><div class="thumbnail_team">
