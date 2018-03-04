@@ -244,7 +244,7 @@
                                 <div class="col-md-4"></div>
                                 <div class="col-md-4">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/15locfFXyUZJSxix9cBZtWINITm3gheItD8f1658mLPU/edit?usp=sharing" target="_BLANK"><p class="rules_button_content">
+                                         <a href="https://drive.google.com/open?id=129eEFhluWRfTWVG4CfmJn83pWDUkVAhr" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -376,7 +376,7 @@ Regards</p>
                                 <div class="col-md-4"></div>
                                 <div class="col-md-4">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/19kghrnE8z4EUKQffFEoAxe8yaz8Rx6Me7DxW9xRWmJs/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="https://drive.google.com/open?id=0BztrqQSkSJ8iZ2xWaTdwVkd0ZnJQT2R6ekRCTlVHVU55SU44" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>

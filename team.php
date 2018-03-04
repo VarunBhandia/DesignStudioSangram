@@ -176,7 +176,7 @@
                 <div class="col-md-1"></div>
                 <div class="col-md-5 col-xs-12">
                      <div class="thumbnail_team">
-                        <img src="img/bapna_false.jpg" style="width:100%;height: 75%;" class="team_image">
+                        <img src="img/bapna.jpg" style="width:100%;height: 75%;" class="team_image">
                         <center>
                         <div class="team_content">
                             <p class="name_team">Vardan Bapna</p>
@@ -263,8 +263,8 @@
             </div>
 
             <div class="row">
-                <div class="col-md-1"></div>
-                <div class="col-md-9 col-xs-12">
+                <div class="col-md-2"></div>
+                <div class="col-md-7 col-xs-12">
                   <center>
                     <div class="thumbnail_team">
                         <img src="img/sambit.png" style="width:100%;height: 75%;" class="team_image">
