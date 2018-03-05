@@ -135,9 +135,33 @@ height: 26em;    }
     height: 2px;
     background-color: #ffffff;
 }
+
+.register{
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    height: 4em;
+    width: 13em;
+    margin-right: 3.2em;
+    margin-top: -24em;
+    float: right;
+    color: black;
+    background-color: #f3f2f3;
+}
+
+.register_text{
+padding-top: .4em;
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 1.6em;
+    font-weight: 600;
+color: transparent;
+    letter-spacing: 2px;
+}
 .right{
 margin-right: 2.5em;
-    margin-top: -16em;
+    margin-top: -11em;
     float: right;
     font-family: Montserrat;
     font-size: 1.3em;

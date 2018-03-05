@@ -13,6 +13,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/hover.css">
     <script>
     $(document).ready(function(){
       // Add smooth scrolling to all links
@@ -49,6 +50,21 @@
           <source src="img/animated.mp4" type="video/mp4">
           Your browser does not support HTML5 video.
         </video>
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                    <div class="register hvr-buzz">
+            <center>
+                <p class="register_text">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfDQ76W6UQ0IcjNNvN99_qnm4C2aQ4I6xKBD7u7R1lXUbI--Q/viewform" target="_blank">
+                                REGISTER</a></p>
+            </center>
+                        
+    </div>
+
+            </div>
+            <div class="col-md-2"></div>
+        </div>
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
