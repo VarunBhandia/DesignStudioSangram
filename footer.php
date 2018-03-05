@@ -25,7 +25,7 @@
             <div class="col-md-4 black2">
                 <div class="row">
                     <div class="col-xs-2"></div>
-                    <div class="col-xs-8">
+                    <div class="col-xs-9">
                         <div class="contact">CONTACT</div>
                         <div class="contact_underline"></div>
                         <div class="row">
@@ -46,9 +46,8 @@
                             </div>
                             <div class="col-xs-9">
                                 <div class="email">
-                                    <a href="mailto:sangram18@iitr.ac.in?Subject=Query%20Regarding%20Sangram" target="_blank">sangram18@iitr.ac.in</a><br>
-                                    <a href="mailto:sangram18.iitr@gmail.com?Subject=Query%20Regarding%20Sangram" target="_blank">sangram18.iitr@gmail.com</a>
-                                </div>
+                                    sangram18@iitr.ac.in<br>
+sangram18.iitr@gmail.com                                </div>
                             </div>
                         </div>
                         <div class="row">
@@ -62,7 +61,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-2"></div>
                 </div>
             </div>
         </div>
