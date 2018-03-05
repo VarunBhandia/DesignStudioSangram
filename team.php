@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="description" content="Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a four day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.">
     <meta name="keywords" content="sports, sports fest, engineering, study, fest, engineers, technical, iit ,iit roorkee ,roorkee ,uttrakhand ,Varun Bhandia ,sangram18 ,sangramiitr.in">
-    <meta name="author" content="Varun Bhandia">
+    <meta name="author" content="Ashish Sinha | Varun Bhandia | Harsh Gupta">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -20,65 +20,50 @@
 </head>
 <body>
     <?php include("navbar.php"); ?>
-    <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-9">
+    <div class="container">
+
+        <div class="row">
             <center class="teamheader">
                 TEAM MEMBERS
             </center>
         </div>
-        <div class="col-md-2"></div>
-    </div>
-    <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-9">
-            <div class="line_team"></div>
+
+
+        <div class="row">
+          <div class="line_team"></div>
         </div>
-        <div class="col-md-2"></div>
+
     </div>
-    <div class="row">
-      <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-md-9 col-xs-12">
-                  <center><p class="teamType">Chairpersons</p></center>
-              </div>
-              <div class="col-md-2"></div>
-            </div>
+    <div class="container">
+        <div class="row">
+
+              <div class="col-md-12 col-xs-12">
+                    <center><p class="teamType">Chairpersons</p></center>
+                </div>
+
+        </div>
             <div class="row">
                 <div class="col-md-4 col-xs-12">
                     <div class="thumbnail_team">
-                        <img src="img/pant.png" style="width:100%;    height: 75%;" class="team_image">
+                        <img src="img/pant.png" style="width:100%;height: 75%;" class="team_image">
                         <center>
-                        <div class="team_content">
-                            <p class="name_team_faculty" style="padding-top: 1em;">Dr. Vinay Pant</p>
-                            <p class="post_team">Chairperson Sports Council</p>
+                            <div class="team_content">
+                                <p class="name_team_faculty" style="padding-top: 1em;">Dr. Vinay Pant</p>
+                                <p class="post_team">Chairperson Sports Council</p>
 
-                        </div>
-                            </center>
+                            </div>
+                          </center>
                     </div>
                 </div>
                 <div class="col-md-4  col-xs-12">
                     <div class="thumbnail_team">
                         <img src="img/chairperson.png" style="width:100%;    height: 75%;" class="team_image">
-<!--
-                        <center>
-                        <div class="team_content">
-                            <p class="name_team_faculty" style="padding-top: 2em;">Dr. Vinay Pant</p>
-                            <p class="post_team">Chariperson Sports Council</p>
-
-                        </div>
-                            </center>
-
--->
-
                           <center>
-                        <div class="team_content">
-                            <p class="name_team_faculty" style="padding-top: 1em;">Dr. Kiran Ambatipudi</p>
-                            <p class="post_team">Chairperson Sangram</p>
+                              <div class="team_content">
+                                  <p class="name_team_faculty" style="padding-top: 1em;">Dr. Kiran Ambatipudi</p>
+                                  <p class="post_team">Chairperson Sangram</p>
 
-                        </div>
+                              </div>
                             </center>
                     </div>
                 </div>
@@ -86,22 +71,22 @@
                     <div class="thumbnail_team">
                         <img src="img/rn.png" style="width:100%;    height: 75%;" class="team_image">
                         <center>
-                        <div class="team_content">
-                            <p class="name_team_faculty" style="padding-top: 1em;">Dr. G. D. Ransinchung R. N.</p>
-                            <p class="post_team">Chief Sports Advisor</p>
+                            <div class="team_content">
+                                <p class="name_team_faculty" style="padding-top: 1em;">Dr. G. D. Ransinchung R. N.</p>
+                                <p class="post_team">Chief Sports Advisor</p>
 
-                        </div>
-                            </center>
+                            </div>
+                        </center>
                     </div>
                 </div>
             </div>
 
             <div class="row">
-              <div class="col-md-1"></div>
-              <div class="col-md-9 col-xs-12">
+
+              <div class="col-md-12 col-xs-12">
                     <center><p class="teamType">Overall Co-ordinator</p></center>
                 </div>
-              <div class="col-md-3"></div>
+
             </div>
 
             <div class="row">
@@ -193,16 +178,16 @@
             </div>
 
             <div class="row" style="margin-top:5px;">
-              <div class="col-md-1"></div>
-              <div class="col-md-9 col-xs-12">
+
+              <div class="col-md-12 col-xs-12">
                   <br>
                     <center><p class="teamType">Head Sponsorship</p></center>
                 </div>
-              <div class="col-md-3"></div>
+
             </div>
 
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-4 col-xs-12">
                      <div class="thumbnail_team">
                         <img src="img/rajneesh.png"  style="width:100%;height: 75%;" class="team_image">
                         <center>
@@ -218,7 +203,7 @@
                         </center>
                          </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-xs-12">
                      <div class="thumbnail_team">
                         <img src="img/raunak.png"  style="width:100%;height: 75%;" class="team_image">
                         <center>
@@ -235,7 +220,7 @@
                             </center>
                          </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-xs-12">
                    <div class="thumbnail_team">
                         <img src="img/aby.png" style="width:100%;height: 75%;"  class="team_image">
                         <center>
@@ -253,18 +238,18 @@
                 </div>
             </div>
 
-            <div class="row" style="margin-top:5px;">
-              <div class="col-md-1"></div>
-              <div class="col-md-9 col-xs-12">
-                  <br>
-                    <center><p class="teamType">Treasurer</p></center>
+            <div class="row" >
+
+              <div class="col-md-12 col-xs-12">
+
+                    <center><p class="teamType"  style="margin-right:15px;">Treasurer</p></center>
                 </div>
-              <div class="col-md-3"></div>
+
             </div>
 
             <div class="row">
-                <div class="col-md-2"></div>
-                <div class="col-md-7 col-xs-12">
+
+                <div class="col-md-12 col-xs-12">
                   <center>
                     <div class="thumbnail_team">
                         <img src="img/sambit.png" style="width:100%;height: 75%;" class="team_image">
@@ -281,49 +266,52 @@
                         </div>
                       </center>
                 </div>
-                <div class="col-md-3"></div>
+
             </div>
 
-            <div class="row" style="margin-top:5px;">
-              <div class="col-md-1"></div>
-              <div class="col-md-9 col-xs-12">
+            <div class="row" >
+
+              <div class="col-md-12 col-xs-12">
                   <br>
-                    <center><p class="teamType">Co-Treasurer</p></center>
+                    <center><p class="teamType"  style="margin-right:15px;">Co-Treasurer</p></center>
                 </div>
-                <div class="col-md-3"></div>
+
             </div>
 
-            <div class="row">
-              <div class="col-md-4"></div>
-                <div class="col-md-8 col-xs-12">
+            <div class="row" >
+
+                <div class="col-md-12 col-xs-12">
+                    <center>
                     <div class="thumbnail_team">
+
                         <img src="img/vipul.png" style="width:100%;height: 75%;" class="team_image">
                         <center>
-                        <div class="team_content">
-                            <p class="name_team">Vipul Seth</p>
-                            <a href="https://www.facebook.com/profile.php?id=100012302794165&ref=br_rs" target="_blank"><img src="img/fb_logo_new.png" style="width:30px;height:30px;border-radius:50%;background-color:#fff;margin-right:20px;"></a>
-                            <a href="https://www.facebook.com/profile.php?id=100012302794165&ref=br_rs" target="_blank"><img src="img/linkedin_logo.png" style="width:30px;height:30px;border-radius:50%;background-color:#fff"></a>
-                            <div style="margin-top:10px;">
-                              <img src='img/number.png'style="float:left;margin-right:-40px;margin-left:50px;">+91 94134-08986
+                            <div class="team_content">
+                                <p class="name_team">Vipul Seth</p>
+                                <a href="https://www.facebook.com/profile.php?id=100012302794165&ref=br_rs" target="_blank"><img src="img/fb_logo_new.png" style="width:30px;height:30px;border-radius:50%;background-color:#fff;margin-right:20px;"></a>
+                                <a href="https://www.facebook.com/profile.php?id=100012302794165&ref=br_rs" target="_blank"><img src="img/linkedin_logo.png" style="width:30px;height:30px;border-radius:50%;background-color:#fff"></a>
+                                <div style="margin-top:10px;">
+                                  <img src='img/number.png'style="float:left;margin-right:-40px;margin-left:50px;">+91 94134-08986
+                                </div>
                             </div>
+                          </center>
                         </div>
-                            </center>
-                        </div>
+                      </center>
                 </div>
 
             </div>
 
-            <div class="row" style="margin-top:5px;">
-              <div class="col-md-1"></div>
-              <div class="col-md-9 col-xs-12">
+            <div class="row">
+
+              <div class="col-md-12 col-xs-12">
                   <br>
-                    <center><p class="teamType">Organising Secretary</p></center>
+                    <center><p class="teamType" style="margin-right:15px;">Organising Secretary</p></center>
                 </div>
-                <div class="col-md-3"></div>
+
             </div>
             <div class="row">
-              <div class="col-md-1"></div>
-              <div class="col-md-9 col-xs-12">
+
+              <div class="col-md-12 col-xs-12">
                 <center>
                   <div class="thumbnail_team">
                       <img src="img/sumit.png" style="width:100%;height: 75%;" class="team_image">
@@ -341,7 +329,7 @@
                       </div>
                     </center>
                     </div>
-                  <div class="col-md-3"></div>
+
             </div>
 
         </div>
