@@ -66,6 +66,7 @@
                 </div>
             </div>
         </div>
+        <!--
         <div class="row copyright">
           <div class="col-md-1"></div>
             <div class="col-md-9">
