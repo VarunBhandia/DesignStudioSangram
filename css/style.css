@@ -73,6 +73,14 @@ margin-right: -.5em;
     background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);
 }
 
+@media only screen and (max-width: 500px) {
+.gradient{
+    height: 5em;
+    width: 100%;
+    background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);
+}
+}
+
 .gradient-background{
     transition: 1s;
     position: fixed;
