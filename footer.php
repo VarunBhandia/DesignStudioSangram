@@ -10,7 +10,7 @@
                             <div class="col-xs-4">
                                 <a href="https://www.facebook.com/sangramiitr.in/"><img  src="img/fb.png" alt="Sangram facebook" class="socialicons1"></a>
                             </div>
-                            <div class="col-xs-4">
+                            <div class="col-xs-4">                        
                                 <a href="https://www.youtube.com/channel/UCuJ4t3MjYJh5hipFkYlHI_w"> <img src="img/youtube.png" alt="Sangram youtube" class="socialicons"></a>
                             </div>
                             <div class="col-xs-4">                        .
@@ -22,10 +22,10 @@
                         </center>
                 </div>
             </div>
-            <div class="col-md-4 black2">
+            <div class="col-md-4 black2">  
                 <div class="row">
                     <div class="col-xs-2"></div>
-                    <div class="col-xs-9">
+                    <div class="col-xs-8">
                         <div class="contact">CONTACT</div>
                         <div class="contact_underline"></div>
                         <div class="row">
@@ -45,9 +45,10 @@
                                 <img src="img/email.png" class="side2_icons">
                             </div>
                             <div class="col-xs-9">
-                                <div class="email">
-                                    sangram18@iitr.ac.in<br>
-sangram18.iitr@gmail.com                                </div>
+                                <div class="address">
+                                  sangram18@iitr.ac.in<br>
+                                    sangram18.iitr@gmail.com
+                                </div>
                             </div>
                         </div>
                         <div class="row">
@@ -56,24 +57,17 @@ sangram18.iitr@gmail.com                                </div>
                             </div>
                             <div class="col-xs-9">
                                 <div class="address">
-                                    <p>Sumit Yadav : +91 80064 78565</p>
+                                    +91 80064 78565                                  
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <div class="col-xs-2"></div>
                 </div>
             </div>
         </div>
-        <!--
         <div class="row copyright">
-          <div class="col-md-1"></div>
-            <div class="col-md-9">
-              <center>
-                <p class="hero"> DESIGNED BY <a href="" target="_blank">DESIGN STUDIO</a> AND DEVELOPED BY <a href="https://www.linkedin.com/in/varun-bhandia-934937134/" target="_blank">VARUN BHANDIA </a>AND <a href="https://www.linkedin.com/in/harsh-gupta-a8a7303a/" target="_blank">HARSH GUPTA </a> </p>
-              </center>
-            </div>
-            <div class="col-md-2"></div>
-
-        </div>
+                    <p class="hero"> DESIGNED BY <a href="" target="_blank">DESIGN STUDIO</a> AND DEVELOPED BY <a href="VarunBhandia/index.html" target="_blank">VARUN BHANDIA </a>AND <a href="https://www.linkedin.com/in/harsh-gupta-a8a7303a/" target="_blank">HARSH GUPTA </a> </p>
+                </div>
 
     </div>
