@@ -39,8 +39,7 @@ margin-right: -.5em;
 .nav-items{
     padding-top: 1.4em;
     padding-left: 0em;
-    font-family: Montserrat;
-    font-size: 1em;
+font-family: 'Montserrat', sans-serif;    font-size: 1em;
     font-weight: 600;
     text-align: right;
     padding-right: 1em;
@@ -49,8 +48,7 @@ margin-right: -.5em;
 
 @media only screen and (max-width: 500px) {
 .nav-items{
-    font-family: Montserrat;
-    font-size: 1em;
+font-family: 'Montserrat', sans-serif;    font-size: 1em;
     font-weight: 600;
     text-align: right;
     padding-right: 1em;
@@ -213,9 +211,8 @@ margin-right: 2.5em;
 
 .aboutheader{
     height: .9em;
-    font-family: Montserrat;
-    font-size: 6em;
-    font-weight: 999;
+font-family: 'Montserrat', sans-serif;    font-size: 6em;
+    font-weight: 900;
     line-height: normal;
     text-align: right;
     color: #222222;}
@@ -223,9 +220,8 @@ margin-right: 2.5em;
 @media only screen and (max-width: 500px) {
     .aboutheader {
     height: .9em;
-    font-family: Montserrat;
-    font-size: 3em;
-    font-weight: 999;
+font-family: 'Montserrat', sans-serif;    font-size: 3em;
+    font-weight: 900;
     line-height: normal;
     text-align: center;
     color: #222222;
@@ -239,8 +235,7 @@ margin-right: 2.5em;
     padding-top: 6em;
     margin-top: -1em;
     height: 35em;
-    font-family: Montserrat;
-    font-size: 1.1em;
+font-family: 'Montserrat', sans-serif;    font-size: 1.1em;
     letter-spacing: 0.3px;
     text-align: justify;
     color: #1f1f1f;
@@ -255,8 +250,7 @@ background: rgba(0, 0, 0, 0.05);
     padding-top: 2em;
     margin-top: -1em;
     height: 41em;
-    font-family: Montserrat;
-    font-size: .9em;
+font-family: 'Montserrat', sans-serif;    font-size: .9em;
     letter-spacing: 0.6px;
     text-align: justify;
     color: #1f1f1f;    }
@@ -281,8 +275,7 @@ display: none;    }
   background-color: #222222;
 }
 .hero{
-font-family: Montserrat;
-    font-size: 1em;
+font-family: 'Montserrat', sans-serif;    font-size: 1em;
     font-weight: 500;
     letter-spacing: 0.8px;
     color: #ffffff;
@@ -291,8 +284,7 @@ font-family: Montserrat;
 
 @media only screen and (max-width: 500px) {
 .hero{
-    font-family: Montserrat;
-    font-size: 1em;
+font-family: 'Montserrat', sans-serif;    font-size: 1em;
     font-weight: 500;
     letter-spacing: 0.8px;
     color: #ffffff;
@@ -355,8 +347,7 @@ height: 5em;
 }
 
 .contact{
-font-family: Montserrat;
-  font-size: 1.7em;
+font-family: 'Montserrat', sans-serif;  font-size: 1.7em;
   font-weight: 500;
   letter-spacing: 0.8px;
   color: #ffffff;
@@ -372,16 +363,14 @@ font-family: Montserrat;
 
 .address{
     line-height: 159%;
-    font-family: Montserrat;
-    font-size: .9em;
+font-family: 'Montserrat', sans-serif;    font-size: .9em;
     letter-spacing: 0.5px;
     color: #fefefe;
     padding-top: 2em;
 }
 .email{
     line-height: 159%;
-    font-family: Montserrat;
-    font-size: .9em;
+font-family: 'Montserrat', sans-serif;    font-size: .9em;
     letter-spacing: 0.5px;
     color: #fefefe;
     padding-top: 2em;
@@ -418,8 +407,7 @@ font-family: Montserrat;
     padding-top: .5em;
     width: 46px;
     height: 27px;
-    font-family: Montserrat;
-    font-size: 38px;
+font-family: 'Montserrat', sans-serif;    font-size: 38px;
     font-weight: 600;
     font-style: normal;
     font-stretch: normal;
@@ -431,8 +419,7 @@ font-family: Montserrat;
 
 .timer_days_content{
     padding-top: .1em;
-    font-family: Montserrat;
-    font-weight: normal;
+font-family: 'Montserrat', sans-serif;    font-weight: normal;
     font-style: normal;
     font-stretch: normal;
     line-height: 2;
@@ -442,8 +429,7 @@ font-family: Montserrat;
 
     @media only screen and (max-width: 500px) {
         .timer_days_content{
-    font-family: Montserrat;
-    font-weight: normal;
+font-family: 'Montserrat', sans-serif;    font-weight: normal;
     font-style: normal;
     font-stretch: normal;
     line-height: 2;
@@ -456,8 +442,7 @@ font-family: Montserrat;
     padding-top: .4em;
 width: 36px;
     height: 27px;
-    font-family: Montserrat;
-    font-size: 2em;
+font-family: 'Montserrat', sans-serif;    font-size: 2em;
     font-weight: 600;
     font-style: normal;
     font-stretch: normal;
@@ -476,8 +461,7 @@ width: 36px;
 
 
   height: 21px;
-  font-family: Montserrat;
-  font-size: 29.9px;
+font-family: 'Montserrat', sans-serif;  font-size: 29.9px;
   font-weight: 600;
   font-style: normal;
   font-stretch: normal;
