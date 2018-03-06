@@ -1,8 +1,7 @@
 .eventheader{
     padding-left: 3em;
     padding-top: 4em;
-    font-family: Montserrat;
-    font-size: 2.5em;
+font-family: 'Montserrat', sans-serif;    font-size: 2.5em;
     font-weight: 600;
     color: #3f76e3;
     padding-bottom: .5em;}
@@ -11,8 +10,7 @@
 .eventheader{
     padding-left: 1em;
     padding-top: 8em;
-    font-family: Montserrat;
-    font-size: 1.5em;
+font-family: 'Montserrat', sans-serif;    font-size: 1.5em;
     font-weight: 600;
     color: #3f76e3;
     padding-bottom: .5em;}
@@ -51,9 +49,11 @@
     margin-left: 1em;
     background-color: white;
     border: solid 1px #3f76e3;
+    height: 59em;
     }}
 
 .event_image{
+    width: 100%;
 
 }
 
@@ -62,8 +62,7 @@
 }
 
 .name_event{
-    font-family: Montserrat;
-    font-size: 1.3em;
+font-family: 'Montserrat', sans-serif;    font-size: 1.3em;
     font-weight: bold;
     font-stretch: normal;
     letter-spacing: 0.5px;
@@ -72,8 +71,7 @@
 
 .post_event{
     opacity: 0.72;
-    font-family: Montserrat;
-    font-size: 1em;
+font-family: 'Montserrat', sans-serif;    font-size: 1em;
     font-weight: 300;
     line-height: 1.89;
     letter-spacing: 0.4px;
@@ -94,8 +92,7 @@
 
 .rules_button_content{
     text-align: center;
-    font-family: Montserrat;
-    font-size: 1.2em;
+font-family: 'Montserrat', sans-serif;    font-size: 1.2em;
     font-weight: 500;
     line-height: 2.7;
     letter-spacing: 0.5px;
@@ -112,9 +109,8 @@
   color:#f6f6f6;
 }
 .event_contact{
-    font-family: Montserrat;
-
-    font-weight: bold;
+font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
     font-stretch: normal;
 
     color: #3f76e3;

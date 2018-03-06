@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>Team</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,900" rel="stylesheet">
     <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
     <meta charset="utf-8">
     <meta name="description" content="Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a four day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.">
@@ -20,6 +21,7 @@
 </head>
 <body>
     <?php include("navbar.php"); ?>
+<!--
     <div class="container">
 
         <div class="row">
@@ -31,6 +33,24 @@
 
         <div class="row">
           <div class="line_team"></div>
+        </div>
+
+    </div>
+-->
+    
+     <div class="container-fluid">
+
+        <div class="col-md-12 col-xs-12">
+            <center class="teamheader">
+                TEAM MEMBERS
+            </center>
+        </div>
+
+    </div>
+    <div class="container-fluid">
+
+        <div class="col-md-12 col-xs-12">
+            <div class="line"></div>
         </div>
 
     </div>
