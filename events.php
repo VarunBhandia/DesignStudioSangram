@@ -59,7 +59,7 @@
 
                                 <div class="col-md-6 col-xs-12">
                                     <div class="rules_button">
-                                        <a href="https://docs.google.com/document/d/1uLvGwhJXfnQ_HBcyCBMe_ScdRapE7uRdbAG3Gxn0sB0/edit" target="_BLANK"><p class="rules_button_content">
+                                        <a href="rules%2520pdf/Athletics%20Rules%20and%20Regulations.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -86,7 +86,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1V9DJrXracF3Kos9nkbBHedzhBlE01EHn5SZaA8Ab66w/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/Badminton%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -115,7 +115,7 @@
 
                                 <div class="col-md-6 col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1eB-uFdIyqfocJr5A0f42RVIe8MWJ-c21FwZ-5lOkAWU/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/Basketball%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -140,7 +140,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1qfZ9IfO1agkmbv-Dm6EGUew47I1zhUpbzO0_PS7cp0A/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/Chess%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -167,7 +167,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/131NMo7piq6ZEas_GJo9nA-OV7KAP4sZvURLJK-3bmNw/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/Cricket%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -192,7 +192,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1d9MFoA96yar3XcK4shVC4BZIWWIqU8MJIVJZO6M73u8/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/FOOTBALL%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -219,7 +219,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1FW4mQLOkjQOqlFHV-IR5RL8xZknnsMHLb20p_01jba4/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/Hockey%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -245,7 +245,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://drive.google.com/open?id=129eEFhluWRfTWVG4CfmJn83pWDUkVAhr" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/POWERLIFTING%20%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -272,7 +272,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1NmmBYTtdDTItK6mRHlJSvdSIUn-7s8g9InaoPcCw0no/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/Snooker%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -297,7 +297,7 @@
 
                                     <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/14yu1KJQdMd0XHavOV1zDkwTildMfndFgED42smamuVI/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/Squash%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -325,7 +325,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1KE9zI6Z5C4sXlgYa7jdgZVU4e9YxGrMqiBbOtqUJia4/edit?usp=sharing" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/Swimming%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -350,7 +350,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                        <a href="https://docs.google.com/document/d/1u-c0785G7G90C4PGwLuy3wLG3MSoDRtnAl6P0pocNsU/edit" target="_BLANK"><p class="rules_button_content">
+                                        <a href="rules%2520pdf/Table%20Tennis%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -377,7 +377,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://drive.google.com/open?id=0BztrqQSkSJ8iZ2xWaTdwVkd0ZnJQT2R6ekRCTlVHVU55SU44" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/Taekwondo%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -402,7 +402,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://docs.google.com/document/d/1-YDMRMfkCzw8JfxxX6lJl-P0vAXe5tfjLBqHzMl3IZY/edit" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/Lawn%20Tennis%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -429,7 +429,7 @@ Regards</p>
 
                                 <div class="col-md-6 col-xs-12">
                                     <div class="rules_button">
-                                        <a href="https://docs.google.com/document/d/1g0gCczmIoek9kl9KwqAD501ASwW9cg4bOw26pD6JpZk/edit" target="_BLANK"><p class="rules_button_content">
+                                        <a href="rules%2520pdf/Volleyball%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -454,7 +454,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://drive.google.com/file/d/0BztrqQSkSJ8iRU9QYkdrLUh6Y19PQ1gyRmZtaHRSNng2cFBZ/view?usp=sharing" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/WEIGHT%20LIFTING%20%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -481,7 +481,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="https://drive.google.com/open?id=0B-y8qD0vQPIQUlRsR0pOMW9UN1htM1NCamt3dHVXcE9yT0d3" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules%2520pdf/yoga_rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
