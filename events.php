@@ -59,7 +59,7 @@
 
                                 <div class="col-md-6 col-xs-12">
                                     <div class="rules_button">
-                                        <a href="rules%2520pdf/Athletics%20Rules%20and%20Regulations.pdf" target="_BLANK"><p class="rules_button_content">
+                                        <a href="rules/Athletics%20Rules%20and%20Regulations.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -86,7 +86,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/Badminton%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/Badminton%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -115,7 +115,7 @@
 
                                 <div class="col-md-6 col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/Basketball%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/Basketball%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -140,7 +140,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/Chess%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/Chess%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -167,7 +167,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/Cricket%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/Cricket%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -192,7 +192,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/FOOTBALL%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/FOOTBALL%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -219,7 +219,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/Hockey%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/Hockey%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -245,7 +245,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/POWERLIFTING%20%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/POWERLIFTING%20%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -272,7 +272,7 @@
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/Snooker%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/Snooker%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -297,7 +297,7 @@
 
                                     <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/Squash%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/Squash%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -325,7 +325,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/Swimming%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/Swimming%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -350,7 +350,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                        <a href="rules%2520pdf/Table%20Tennis%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                        <a href="rules/Table%20Tennis%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -377,7 +377,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/Taekwondo%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/Taekwondo%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -402,7 +402,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/Lawn%20Tennis%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/Lawn%20Tennis%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -429,7 +429,7 @@ Regards</p>
 
                                 <div class="col-md-6 col-xs-12">
                                     <div class="rules_button">
-                                        <a href="rules%2520pdf/Volleyball%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                        <a href="rules/Volleyball%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -454,7 +454,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/WEIGHT%20LIFTING%20%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/WEIGHT%20LIFTING%20%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
@@ -481,7 +481,7 @@ Regards</p>
 
                                 <div class="col-md-6  col-xs-12">
                                     <div class="rules_button">
-                                         <a href="rules%2520pdf/yoga_rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         <a href="rules/yoga_rules.pdf" target="_BLANK"><p class="rules_button_content">
                                          View Rules
                                         </p></a>
                                     </div>
