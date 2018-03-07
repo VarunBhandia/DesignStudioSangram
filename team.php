@@ -15,6 +15,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/team.css">
+    <link rel="stylesheet" href="css/events.css">
     <style>
   </style>
 
@@ -28,8 +29,12 @@
                 TEAM MEMBERS
             </center>
         </div>
+        <div class="col-md-12 col-xs-12">
+            <center><div class="line"></div></center>
+        </div>
 
     </div>
+<!--
     <div class="container-fluid">
 
         <div class="col-md-12 col-xs-12">
@@ -37,6 +42,7 @@
         </div>
 
     </div>
+-->
     <div class="container">
         <div class="row">
 

@@ -34,7 +34,7 @@
     <div class="container-fluid">
 
         <div class="col-md-12 col-xs-12">
-            <div class="line"></div>
+            <center><div class="line"></div></center>
         </div>
 
     </div>
@@ -54,7 +54,7 @@
                                 <div class="col-md-6 col-xs-12">
 
                                   <p class="event_contact">Harsh Jindal:</p>
-                                  <p class="event_contact">89589 01430</p>
+                                  <p class="event_contact">7253046159</p>
 
                                   </div>
 
