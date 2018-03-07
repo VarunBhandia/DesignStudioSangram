@@ -48,7 +48,7 @@
             <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10">
-                <nav class="navbar-fixed-top navbar-inverse ">
+                <nav class="navbar-fixed-top index">
                     <div class="gradient-background"></div>
 
                     <div class="container-fluid">

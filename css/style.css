@@ -64,6 +64,17 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
 }
 }
 
+.index{
+    background-color: transparent;
+}
+
+@media only screen and (max-width: 500px) {
+.index{
+    background-color: black;
+}
+}
+
+
 .gradient{
         height: 5.2em;
 
