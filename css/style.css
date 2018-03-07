@@ -443,12 +443,14 @@ font-family: 'Montserrat', sans-serif;    font-size: 38px;
 
     @media only screen and (max-width: 500px) {
         .timer_days_content{
-font-family: 'Montserrat', sans-serif;    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: 2;
-    letter-spacing: 0.6px;
-    color: #ababab;
+            font-family: 'Montserrat', sans-serif;    
+            font-weight: normal;
+            font-size: 1em;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 2;
+            letter-spacing: 0.6px;
+            color: #ababab;
 }
 
 @media only screen and (max-width: 500px) {
