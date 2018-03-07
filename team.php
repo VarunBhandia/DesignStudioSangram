@@ -21,23 +21,6 @@
 </head>
 <body>
     <?php include("navbar.php"); ?>
-<!--
-    <div class="container">
-
-        <div class="row">
-            <center class="teamheader">
-                TEAM MEMBERS
-            </center>
-        </div>
-
-
-        <div class="row">
-          <div class="line_team"></div>
-        </div>
-
-    </div>
--->
-    
      <div class="container-fluid">
 
         <div class="col-md-12 col-xs-12">
