@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>Sangram | 2018</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,900" rel="stylesheet">
     <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -40,7 +41,6 @@
       });
     });
     </script>
-
 
 
 </head>
@@ -239,6 +239,149 @@ var x = setInterval(function() {
         </div>
     </div>
 </div>
+        
+       <div class="container-fluid">
+
+        <div class="col-md-12 col-xs-12">
+            <div class="line"></div>
+        </div>
+
+    </div>
+ <div id="map" style="height:600px;width:100%;margin-bottom:-15em"></div>
+   
+     <script>
+
+      // This example displays a marker at the center of Australia.
+      // When the user clicks the marker, an info window opens.
+
+      function initMap() {
+          var india = {lat:24.92629    , lng: 78.44238};
+          var iitd = { lat:28.54498 , lng:77.19262 };
+          var iitk = { lat:26.51232 , lng:80.23285 };
+          var iitkgp ={ lat:22.31458 , lng: 87.3089};
+          var mitindore = { lat:22.75825 , lng: 75.93828};
+        var uluru = {lat: -25.363, lng: 131.044};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 5,
+          center: india
+        });
+
+        var desc_iitd = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">IIT Delhi</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 120+ </p>'+
+            
+            '</div>'+
+            '</div>';
+          
+      var desc_iitk = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">IIT Kanpur</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 60+ </p>'+
+            
+            '</div>'+
+            '</div>';
+      var desc_iitkgp = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">IIT Kharagpur</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 45+ </p>'+
+            
+            '</div>'+
+            '</div>';
+      var desc_mitindore = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">MIT Indore</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 25+ </p>'+
+            
+            '</div>'+
+            '</div>';
+
+        var info1 = new google.maps.InfoWindow({
+          content: desc_iitd
+        });
+
+        var marker1 = new google.maps.Marker({
+          position: iitd,
+          map: map,
+          title: 'IIT Delhi'
+        });
+        marker1.addListener('click', function() {
+          info1.open(map, marker1);
+        });
+          
+          
+          
+      ///////////////////////////////////////////////////////////////////
+          
+          
+          var info2 = new google.maps.InfoWindow({
+          content: desc_iitk
+        });
+
+        var marker2 = new google.maps.Marker({
+          position: iitk,
+          map: map,
+          title: 'IIT Kanpur'
+        });
+        marker2.addListener('click', function() {
+          info2.open(map, marker2);
+        });
+          
+          
+          
+      /////////////////////////////////////////////////////////////////
+          
+          
+          
+          var info3 = new google.maps.InfoWindow({
+          content: desc_iitkgp
+        });
+
+        var marker3 = new google.maps.Marker({
+          position: iitkgp,
+          map: map,
+          title: 'IIT Kharagpur'
+        });
+        marker3.addListener('click', function() {
+          info3.open(map, marker3);
+        });
+       //////////////////////////////////////////////////////////////////
+          
+          var info4 = new google.maps.InfoWindow({
+          content: desc_mitindore
+        });
+
+        var marker4 = new google.maps.Marker({
+          position: mitindore,
+          map: map,
+          title: 'MIT Indore'
+        });
+        marker4.addListener('click', function() {
+          info4.open(map, marker4);
+        });
+          
+          
+     /////////////////////////////////////////////////////////////////////
+          
+          
+         
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5dzfrK39AYwDeI-WHMCeG2it8lTUllmk&callback=initMap">
+    </script>
     <div id="footer_index">
     <?php include("footer.php"); ?>
          </div>
