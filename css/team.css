@@ -33,19 +33,12 @@ font-family: 'Montserrat', sans-serif;    font-size: 2em;
 }
 
 .thumbnail_team{
-/*
-margin-top: 4em;
-    margin-left: 2em;
-    margin-right:2em;
-    height: 30em;
-    width: 20em;}
-    */
-margin-top: 6em;
+    margin-top: 6em;
     margin-left: 4em;
     margin-right: 4em;
     height: 35em;
     width: 21em;}
-}
+
 
 @media only screen and (max-width: 500px){
 .thumbnail_team {

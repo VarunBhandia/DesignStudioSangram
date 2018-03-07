@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="description" content="Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a four day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.">
     <meta name="keywords" content="sports, sports fest, engineering, study, fest, engineers, technical, iit ,iit roorkee ,roorkee ,uttrakhand ,Varun Bhandia ,sangram18 ,sangramiitr.in">
-    <meta name="author" content="Ashish Sinha | Varun Bhandia | Harsh Gupta">
+    <meta name="author" content="Varun Bhandia">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -15,29 +15,13 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/team.css">
+    <link rel="stylesheet" href="css/events.css">
     <style>
   </style>
 
 </head>
 <body>
     <?php include("navbar.php"); ?>
-<!--
-    <div class="container">
-
-        <div class="row">
-            <center class="teamheader">
-                TEAM MEMBERS
-            </center>
-        </div>
-
-
-        <div class="row">
-          <div class="line_team"></div>
-        </div>
-
-    </div>
--->
-    
      <div class="container-fluid">
 
         <div class="col-md-12 col-xs-12">
@@ -45,8 +29,12 @@
                 TEAM MEMBERS
             </center>
         </div>
+        <div class="col-md-12 col-xs-12">
+            <center><div class="line"></div></center>
+        </div>
 
     </div>
+<!--
     <div class="container-fluid">
 
         <div class="col-md-12 col-xs-12">
@@ -54,6 +42,7 @@
         </div>
 
     </div>
+-->
     <div class="container">
         <div class="row">
 
@@ -334,7 +323,7 @@
               <div class="col-md-12 col-xs-12">
                 <center>
                   <div class="thumbnail_team">
-                      <img src="img/sumit.png" style="width:100%;height: 75%;" class="team_image">
+                      <img src="img/sumit.png" style="width:100%;height: 60%;" class="team_image">
                       <center>
                       <div class="team_content">
                           <p class="name_team">Sumit Yadav</p>
