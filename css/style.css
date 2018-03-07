@@ -408,7 +408,7 @@ font-family: 'Montserrat', sans-serif;    font-size: .9em;
 @media only screen and (max-width: 500px) {
 .timer_div{
     margin-top: -5.5em;
-    height: 7em;
+    height: 5.2em;
     border-radius: 4px;
     background-color: #ffffff;
     box-shadow: 8px 1px 38px 5px rgba(0, 0, 0, .20);
@@ -431,7 +431,9 @@ font-family: 'Montserrat', sans-serif;    font-size: 38px;
 
 .timer_days_content{
     padding-top: .1em;
-font-family: 'Montserrat', sans-serif;    font-weight: normal;
+    font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif;    
+    font-weight: normal;
     font-style: normal;
     font-stretch: normal;
     line-height: 2;
@@ -452,9 +454,10 @@ font-family: 'Montserrat', sans-serif;    font-weight: normal;
 @media only screen and (max-width: 500px) {
 .timer_days{
     padding-top: .4em;
-width: 36px;
-    height: 27px;
-font-family: 'Montserrat', sans-serif;    font-size: 2em;
+    width: 36px;
+    height: 0em;
+    font-family: 'Montserrat', sans-serif;    
+    font-size: 1.5em;
     font-weight: 600;
     font-style: normal;
     font-stretch: normal;
