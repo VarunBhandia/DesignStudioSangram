@@ -15,6 +15,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/hover.css">
+    <link rel="stylesheet" href="css/events.css">
     <script>
     $(document).ready(function(){
       // Add smooth scrolling to all links
@@ -290,11 +291,16 @@ var x = setInterval(function() {
        <div class="container-fluid">
 
         <div class="col-md-12 col-xs-12">
-            <div class="line"></div>
+            <div style="width: 120%;margin-top:2em;
+    height: 3px;
+    opacity: 1;
+    background-color: #3f76e3;
+    margin-left: -3em;"></div>
         </div>
 
     </div>
- <div id="map" style="height:600px;width:100%;margin-bottom:-15em"></div>
+ <div id="map" style="height:600px;width:100%;margin-bottom:-15em;"></div>
+        
    
      <script>
 
