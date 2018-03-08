@@ -370,8 +370,12 @@ var x = setInterval(function() {
           map: map,
           title: 'IIT Delhi'
         });
-        marker1.addListener('click', function() {
+        marker1.addListener('mouseover', function() {
           info1.open(map, marker1);
+        });
+          
+           marker1.addListener('mouseout', function() {
+          info1.close(map, marker1);
         });
           
           
@@ -388,8 +392,11 @@ var x = setInterval(function() {
           map: map,
           title: 'IIT Kanpur'
         });
-        marker2.addListener('click', function() {
+        marker2.addListener('mouseover', function() {
           info2.open(map, marker2);
+        });
+           marker2.addListener('mouseout', function() {
+          info2.close(map, marker2);
         });
           
           
@@ -407,8 +414,12 @@ var x = setInterval(function() {
           map: map,
           title: 'IIT Kharagpur'
         });
-        marker3.addListener('click', function() {
+        marker3.addListener('mouseover', function() {
           info3.open(map, marker3);
+        });
+          
+           marker3.addListener('mouseout', function() {
+          info3.close(map, marker3);
         });
        //////////////////////////////////////////////////////////////////
           
@@ -421,8 +432,12 @@ var x = setInterval(function() {
           map: map,
           title: 'MIT Indore'
         });
-        marker4.addListener('click', function() {
+        marker4.addListener('mouseover', function() {
           info4.open(map, marker4);
+        });
+          
+           marker4.addListener('mouseout', function() {
+          info4.close(map, marker4);
         });
           
           
