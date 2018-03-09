@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/team.css">
     <link rel="stylesheet" href="css/spons.css">
+    <link rel="stylesheet" href="css/events.css">
     <style>
   </style>
 
