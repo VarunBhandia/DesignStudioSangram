@@ -35,11 +35,11 @@ font-family: 'Montserrat', sans-serif;    font-size: 1.5em;
 
 .thumbnail_events{
     height: 53em;
+    padding-bottom: 1em;
     margin-top: 6em;
     margin-left: 4em;
     background-color: white;
-    border: solid 1px #3f76e3;
-}
+    border: solid 1px #3f76e3;}
 
 @media only screen and (max-width: 500px) {
 .thumbnail_events{
@@ -112,4 +112,12 @@ font-family: 'Montserrat', sans-serif;
     font-stretch: normal;
 
     color: #3f76e3;
+}
+
+.view_rules{
+/*    position: absolute;*/
+    margin-bottom: 0em;
+    bottom: 0em;
+    padding-left: 1em;
+    padding-right: 2em;
 }
