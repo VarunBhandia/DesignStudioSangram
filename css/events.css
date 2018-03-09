@@ -57,7 +57,8 @@ font-family: 'Montserrat', sans-serif;    font-size: 1.5em;
 }
 
 .event_content{
-    padding: 2em;
+    height: 22em;
+    padding: 1em;
 }
 
 .name_event{
@@ -108,12 +109,14 @@ font-family: 'Montserrat', sans-serif;    font-size: 1.2em;
   color:#f6f6f6;
 }
 .event_contact{
-font-family: 'Montserrat', sans-serif;
+    opacity: 0.72;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
     font-weight: 600;
-    font-stretch: normal;
-
-    color: #3f76e3;
-}
+    line-height: 1.89;
+    letter-spacing: 0.4px;
+    text-align: justify;
+    color: rgba(0, 0, 0, 0.72);}
 
 .view_rules{
 /*    position: absolute;*/
