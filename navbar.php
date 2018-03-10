@@ -8,13 +8,13 @@
                     <div class="container-fluid">
                         <div class="navbar-header" style="margin-top: 1em;">
                           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                            <span class="icon-bar" style="background-color:white;"></span>
-                            <span class="icon-bar" style="background-color:white;"></span>
-                            <span class="icon-bar" style="background-color:white;"></span>                        
+                            <span class="icon-bar" style="background-color:black;"></span>
+                            <span class="icon-bar" style="background-color:black;"></span>
+                            <span class="icon-bar" style="background-color:black;"></span>                        
                           </button>
                             <ul class="nav navbar-nav">
-                            <li class="leftlogo"><a href="index.php"><img src="img/logo.png" alt="Sangram'18 Logo" class="logo"> </a></li>
-                            <li class="leftlogo"><a href="#"><img src="img/iitr_logo.png" alt="Sangram'18 Logo" class="iitr_logo"> </a></li>
+                            <li class="leftlogo"><a href="index.php"><img src="img/vector-smart-object-5.png" alt="Sangram'18 Logo" class="logo"> </a></li>
+                            <li class="leftlogo"><a href="#"><img src="img/untitled-1-copy-2.png" alt="Sangram'18 Logo" class="iitr_logo"> </a></li>
                         </ul>
                                 </div>
                         <div class="collapse navbar-collapse" id="myNavbar">

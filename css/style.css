@@ -76,17 +76,17 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
 
 
 .gradient{
-        height: 5.2em;
-
+    background-color: white;
+    transition: .5s;
+    height: 5.2em;
     width: 100%;
-    background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);
 }
 
 @media only screen and (max-width: 500px) {
 .gradient{
     height: 5.2em;
     width: 100%;
-    background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);
+    background-color: white;
 }
 }
 
@@ -97,7 +97,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
     width: 100%;
     display: none;   
     height: 5.2em;
-    background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);}
+    }
 
 
 @media only screen and (max-width: 500px) {
@@ -108,7 +108,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
     width: 100%;
     display: none;   
     height: 5.2em;
-    background-image: radial-gradient(circle at 0 , #67b9ff, #1863f9 100%);}
+    }
 }
 
 .gradient2{
@@ -122,11 +122,11 @@ height: 26em;    }
 }
 
 .navbar_link{
-    color: white;
+    color: rgba(0, 0, 0, 0.4);
     text-decoration: none;}
 
 .navbar_link:hover{
-    background-color: transparent;
+    background-color: black;
 }
 .myVideo{
     margin-top: -1em;
