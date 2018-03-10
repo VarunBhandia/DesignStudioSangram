@@ -356,15 +356,15 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
     }
 
 .footerlogo{
-    padding-bottom: 4em;
-    width: 75%;
-}
+    padding-top: 1em;
+    padding-left: 8em;
+    width: 95%;}
 
 .black1{
     padding-top: 6em;
     padding-bottom: 6em;
     background-color: #080808;
-    height: 31em;
+    height: 22em;
 }
 
 @media only screen and (max-width: 500px) {
@@ -378,7 +378,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
 
     padding-top: 6em;
     background-color:#000000;
-    height: 31em;
+    height: 22fem;
 }
 
 @media only screen and (max-width: 500px) {
@@ -422,9 +422,9 @@ font-family: 'Montserrat', sans-serif;  font-size: 1.7em;
 }
 
 .address{
-    line-height: 159%;
-font-family: 'Montserrat', sans-serif;    font-size: .9em;
-    letter-spacing: 0.5px;
+    line-height: 150%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: .9em;
     color: #fefefe;
     padding-top: 2em;
 }

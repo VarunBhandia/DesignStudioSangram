@@ -1,14 +1,21 @@
     <div class="footer">
         <div class="row">
-            <div class="col-md-4 black1">
-                <img src="img/combined.png" alt="sangram'18" class="footerlogo">
-            </div>
-            <div class="col-md-3 black2">  
+            <div class="col-md-5 black2">
                 <div class="row">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-10">
+                        <img src="img/combined.png" alt="sangram'18" class="footerlogo">
+                    </div>
+                    <div class="col-md-1"></div>
+                </div>
+            </div>
+            <div class="col-md-3 black1">  
+                <div class="row">                            
+                    <div class="col-xs-1"></div>
                             <div class="col-xs-1">
                                 <img src="img/location.png" class="side2_icons">
                             </div>
-                            <div class="col-xs-10">
+                            <div class="col-xs-9">
                                 <div class="address">
                                     Sangram Office, Hobbies Club<br>
                                     IIT Roorkee, Roorkee<br>
@@ -17,7 +24,7 @@
                             </div>                    
                 </div>
             </div>
-            <div class="col-md-3 black2">  
+            <div class="col-md-2 black1">  
                 <div class="row">
                     <div class="col-xs-1">
                         <img src="img/email.png" class="side2_icons">
@@ -41,7 +48,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-2 black2">  
+            <div class="col-md-2 black1">  
                 <div class="row">
                     <div class="col-xs-4">
                         <a href="https://www.facebook.com/sangramiitr.in/"><img  src="img/fb.png" alt="Sangram facebook" class="socialicons1"></a>
