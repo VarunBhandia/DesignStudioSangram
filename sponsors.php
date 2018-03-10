@@ -23,43 +23,6 @@
 </head>
 <body>
     <?php include("navbar.php"); ?>
-<!--
-    <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-            <div class="teamheader">
-                <center>
-               SPONSORS
-                    </center>
-            </div>
-        </div>
-        <div class="col-md-1"></div>
-    </div>
-    <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-            <div class="line_team"></div> 
-        </div>
-        <div class="col-md-1"></div>
-    </div>
--->
-     <div class="container-fluid">
-
-        <div class="col-md-12 col-xs-12">
-            <center class="teamheader">
-                SPONSORS
-            </center>
-        </div>
-
-    </div>
-    <div class="container-fluid">
-
-        <div class="col-md-12 col-xs-12">
-            <div class="line"></div>
-        </div>
-
-    </div>
-   
     <div class="row" style="margin-top: 20px;">
         <div class="col-md-1"></div>
         <div class="col-md-10">

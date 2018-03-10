@@ -111,6 +111,46 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
     }
 }
 
+.gradient_index{
+    background-image: radial-gradient(circle at 0 0, #3ba5ff, #4784ff 98%);
+    transition: .5s;
+    height: 5.2em;
+    width: 100%;
+}
+
+@media only screen and (max-width: 500px) {
+.gradient_index{
+    height: 5.2em;
+    width: 100%;
+    background-image: radial-gradient(circle at 0 0, #3ba5ff, #4784ff 98%);
+    }
+}
+
+.gradient-background_index{
+        background-image: radial-gradient(circle at 0 0, #3ba5ff, #4784ff 98%);
+
+    transition: 1s;
+    position: fixed;
+    top:0;
+    width: 100%;
+    display: none;   
+    height: 5.2em;
+    }
+
+
+@media only screen and (max-width: 500px) {
+.gradient-background_index{
+        background-image: radial-gradient(circle at 0 0, #3ba5ff, #4784ff 98%);
+
+    transition: 1s;
+    position: fixed;
+    top:0;
+    width: 100%;
+    display: none;   
+    height: 5.2em;
+    }
+}
+
 .gradient2{
     margin-top: 8em;
     width: 100%;
@@ -128,6 +168,15 @@ height: 26em;    }
 .navbar_link:hover{
     background-color: black;
 }
+
+.navbar_link_index{
+    color: white;
+    text-decoration: none;}
+
+.navbar_link_index:hover{
+    background-color: white;
+}
+
 .myVideo{
     margin-top: -1em;
     width: 100%;

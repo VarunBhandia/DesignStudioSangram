@@ -50,7 +50,7 @@
             <div class="col-md-1"></div>
             <div class="col-md-10">
                 <nav class="navbar-fixed-top index">
-                    <div class="gradient-background"></div>
+                    <div class="gradient-background_index"></div>
 
                     <div class="container-fluid">
                         <div class="navbar-header" style="margin-top: 1em;">
@@ -66,11 +66,11 @@
                                 </div>
                         <div class="collapse navbar-collapse" id="myNavbar">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class=""><a href="index.php#about" class="navbar_link nav-items">ABOUT US</a></li>
-                                <li class=""><a href="events.php" class="navbar_link nav-items">EVENTS</a></li>
-                                <li class=""><a href="sponsors.php" class="navbar_link nav-items">SPONSORS</a></li>
-                                <li class=""><a href="team.php" class="navbar_link nav-items">TEAM</a></li>
-                                <li class=""><a href="index.php#footer_index" class="padding14 navbar_link nav-items">CONTACT US</a></li>
+                                <li class=""><a href="index.php#about" class="navbar_link_index nav-items">ABOUT US</a></li>
+                                <li class=""><a href="events.php" class="navbar_link_index nav-items">EVENTS</a></li>
+                                <li class=""><a href="sponsors.php" class="navbar_link_index nav-items">SPONSORS</a></li>
+                                <li class=""><a href="team.php" class="navbar_link_index nav-items">TEAM</a></li>
+                                <li class=""><a href="index.php#footer_index" class="padding14 navbar_link_index nav-items">CONTACT US</a></li>
                             </ul>
                         </div>
                     </div>
@@ -87,10 +87,10 @@ $(window).scroll(function(){
      var shouldBeVisible = $(window).scrollTop()>200;
      if (shouldBeVisible && !isVisible) {
           isVisible = true;
-          $('.gradient-background').show();
+          $('.gradient-background_index').show();
      } else if (isVisible && !shouldBeVisible) {
           isVisible = false;
-          $('.gradient-background').hide();
+          $('.gradient-background_index').hide();
     }
 });</script>
 
