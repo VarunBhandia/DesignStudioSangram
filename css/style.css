@@ -364,7 +364,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
     padding-top: 6em;
     padding-bottom: 6em;
     background-color: #080808;
-    height: 22em;
+    height: 20em;
 }
 
 @media only screen and (max-width: 500px) {
@@ -378,7 +378,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
 
     padding-top: 6em;
     background-color:#000000;
-    height: 22fem;
+    height: 20em;
 }
 
 @media only screen and (max-width: 500px) {
@@ -399,11 +399,17 @@ height: 5em;
 }
 
 .socialicons1{
-/*    width: 1.2em;*/
+    padding-top: 2em;
+    width: 1em;
 }
 
-.socialicons{
-/*    width: 2.6em;*/
+.socialicons2{
+    padding-top: 2em;
+    width: 2.6em;
+}
+
+.socialicons3{
+    width: 2.6em;
 }
 
 .contact{
@@ -416,7 +422,6 @@ font-family: 'Montserrat', sans-serif;  font-size: 1.7em;
 .contact_underline{
       width: 29px;
   height: 3px;
-  mix-blend-mode: undefined;
   background-color: #ffffff;
 
 }

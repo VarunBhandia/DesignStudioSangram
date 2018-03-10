@@ -15,7 +15,7 @@
                             <div class="col-xs-1">
                                 <img src="img/location.png" class="side2_icons">
                             </div>
-                            <div class="col-xs-9">
+                            <div class="col-xs-8">
                                 <div class="address">
                                     Sangram Office, Hobbies Club<br>
                                     IIT Roorkee, Roorkee<br>
@@ -54,10 +54,10 @@
                         <a href="https://www.facebook.com/sangramiitr.in/"><img  src="img/fb.png" alt="Sangram facebook" class="socialicons1"></a>
                     </div>
                     <div class="col-xs-4">                        
-                        <a href="https://www.youtube.com/channel/UCuJ4t3MjYJh5hipFkYlHI_w"> <img src="img/youtube.png" alt="Sangram youtube" class="socialicons"></a>
+                        <a href="https://www.youtube.com/channel/UCuJ4t3MjYJh5hipFkYlHI_w"> <img src="img/youtube.png" alt="Sangram youtube" class="socialicons2"></a>
                     </div>
                     <div class="col-xs-4">                        .
-                        <a href="https://www.instagram.com/explore/locations/1032655554/sangram-iit-roorkee/"> <img src="img/insta.png" alt="Sangram instagram" class="socialicons"></a>
+                        <a href="https://www.instagram.com/explore/locations/1032655554/sangram-iit-roorkee/"> <img src="img/insta.png" alt="Sangram instagram" class="socialicons3"></a>
                     </div>
                 </div>
             </div>
