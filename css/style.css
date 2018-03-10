@@ -127,8 +127,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
 }
 
 .gradient-background_index{
-        background-image: radial-gradient(circle at 0 0, #3ba5ff, #4784ff 98%);
-
+    background-image: radial-gradient(circle at 0 0, #3ba5ff, #4784ff 98%);
     transition: 1s;
     position: fixed;
     top:0;
