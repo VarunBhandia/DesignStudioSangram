@@ -126,7 +126,7 @@
 -->
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/patiala.png" class="image_spons">
+                        <a href="plb.php"><img src="img/patiala.png" class="image_spons"></a>
                        
                     </div>
                 </div>
