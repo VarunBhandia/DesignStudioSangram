@@ -107,7 +107,7 @@ receiving love from patrons.</p>
             
             <p>PLB as a brand stands for: <br>
 Taste, Quality, Being Natural and Health partner.</p>
-            
+            <center><p> <img src="img/patiala-pdf2.PNG"></p></center>
             <p>Every Indian once in their life have had at
 least a glass of lassi but they still don’t know
 how good a glass of Lassi can be that’s why
@@ -122,7 +122,7 @@ immune system, helps with weight loss, and helps Lower Blood Pressure.</p>
 Choco badam, banana, khoa badam, Dry fruit, Fruity, Kulhad malai, Mango
 Lassi etc. So a true Lassi lover can enjoy the favourite variant and get
 energized by a single glass of lassi.</p>
-            
+           <center><p> <img src="img/patiala-pdf.PNG"></p></center>
             <p>PLB cares about the health and fitness
 that’s why we are always looking
 forward to sponsor events like
