@@ -126,7 +126,7 @@
 -->
                 <div class="col-md-4">
                     <div class="spons_img">
-                        <img src="img/patiala.png" class="image_spons">
+                        <a href="https://drive.google.com/open?id=0B-y8qD0vQPIQVGFGU1ptaF95UG5QYV9zdDdnT0gzMU9HcnBj"><img src="img/patiala.png" class="image_spons"></a>
                        
                     </div>
                 </div>
