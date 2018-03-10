@@ -22,6 +22,7 @@
 </head>
 <body>
     <?php include("navbar.php"); ?>
+<!--
      <div class="container-fluid">
 
         <div class="col-md-12 col-xs-12">
@@ -34,6 +35,7 @@
         </div>
 
     </div>
+-->
 <!--
     <div class="container-fluid">
 

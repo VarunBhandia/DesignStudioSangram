@@ -101,7 +101,7 @@ $(window).scroll(function(){
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
-                    <div class="register hvr-buzz">
+                    <div class="register">
             <center>
                 <p class="register_text">
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfDQ76W6UQ0IcjNNvN99_qnm4C2aQ4I6xKBD7u7R1lXUbI--Q/viewform" target="_blank">
