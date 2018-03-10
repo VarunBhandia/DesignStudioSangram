@@ -51,7 +51,7 @@
 <<<<<<< HEAD
                         <div class="event_image"><img src="img/web/ath.jpg" style="width: 100%;"></div>
 =======
-                        <img src="img/atheletics.png" style = "width: 100%;" class="event_image">
+                        <img src="img/web/Athi.jpg" style = "width: 100%;" class="event_image">
 >>>>>>> dcb4e37bc176ed22784b3b56ef7328b42bba7a0f
                         <div class="event_content">
                             <p class="name_event">ATHLETICS</p>
