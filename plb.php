@@ -72,12 +72,22 @@ amazing and unique idea of providing a healthy drink called Lassi (Indian
 drinkable yogurt) in an organized and hygienic manner.
 Lassi is one of the most loved drinks of India because of its yummy taste and
 health properties.</p>
-            
+             <div class="row" style="margin-left: -15px;">
+                <div class="col-md-4 col-xs-12" style="margin-top: 10px;">
+           
             <p>Lassi is the best source for protein, calcium and
 other nutrients for our daily life. It’s one of the
 primary reasons we have come up with this
 amazing idea of giving Lassi a whole new concept
 by adding some fruity and exotic twist.</p>
+                     </div>
+                     
+                    <div class="col-md-6 col-xs-12">
+                     <center><p> <img src="img/patiala-3.PNG"></p></center>
+                     </div>
+                     <div class="col-md-2 col-xs-12"></div>
+                </div>
+            
             
             <p>At PLB, Lassi is prepared in the most hygienic
 manner and environment and we believe that customer satisfaction is the most
@@ -107,12 +117,21 @@ receiving love from patrons.</p>
             
             <p>PLB as a brand stands for: <br>
 Taste, Quality, Being Natural and Health partner.</p>
-            <center><p> <img src="img/patiala-pdf2.PNG"></p></center>
+                 <div class="row" style="margin-left: -15px;">
+                <div class="col-md-4 col-xs-12" style="margin-top: 50px;">
+           
             <p>Every Indian once in their life have had at
 least a glass of lassi but they still don’t know
 how good a glass of Lassi can be that’s why
 here at PLB we are also trying to educate the
 benefits of consuming lassi in day to day life.</p>
+                     </div>
+                     
+                    <div class="col-md-6 col-xs-12">
+                     <center><p> <img src="img/patiala-pdf2.PNG"></p></center>
+                     </div>
+                     <div class="col-md-2 col-xs-12"></div>
+                </div>
             
             <p>Few Key Benefits of lassi are that it helps to
 fight body heat, Improves Digestion, helps in acidity control, strengthens
@@ -122,12 +141,24 @@ immune system, helps with weight loss, and helps Lower Blood Pressure.</p>
 Choco badam, banana, khoa badam, Dry fruit, Fruity, Kulhad malai, Mango
 Lassi etc. So a true Lassi lover can enjoy the favourite variant and get
 energized by a single glass of lassi.</p>
-           <center><p> <img src="img/patiala-pdf.PNG"></p></center>
-            <p>PLB cares about the health and fitness
+                  <div class="row">
+                <div class="col-md-6 col-xs-12">
+           
+          <center><p> <img src="img/patiala-pdf.PNG"></p></center>
+                     </div>
+                     
+                    <div class="col-md-6 col-xs-12" style="margin-top: 70px;">
+                     
+                        <p>PLB cares about the health and fitness
 that’s why we are always looking
 forward to sponsor events like
 Sports Fest (Sangram etc.), body
 building events and fitness events.</p>
+                     </div>
+<!--                     <div class="col-md-2 col-xs-12"></div>-->
+                </div>
+           
+            
             <p>We have happily served over 1.5 million people and created millions of
 yummilicious moments till now and looking forward for more in future.</p>
             
