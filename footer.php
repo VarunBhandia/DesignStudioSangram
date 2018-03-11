@@ -1,6 +1,6 @@
     <div class="footer">
         <div class="row">
-            <div class="col-md-5 black2">
+            <div class="col-md-5 col-xs-12 black2">
                 <div class="row">
                     <div class="col-md-1"></div>
                     <div class="col-md-10">
@@ -9,13 +9,13 @@
                     <div class="col-md-1"></div>
                 </div>
             </div>
-            <div class="col-md-3 black1">  
+            <div class="col-md-3 col-xs-12 black1">  
                 <div class="row">                            
-                    <div class="col-xs-1"></div>
-                            <div class="col-xs-1">
+                    <div class="col-xs-1 aboutimage"></div>
+                    <div class="col-xs-1">
                                 <img src="img/location.png" class="side2_icons">
                             </div>
-                            <div class="col-xs-8">
+                    <div class="col-xs-8">
                                 <div class="address">
                                     Sangram Office, Hobbies Club<br>
                                     IIT Roorkee, Roorkee<br>
@@ -24,7 +24,7 @@
                             </div>                    
                 </div>
             </div>
-            <div class="col-md-2 black1">  
+            <div class="col-md-2 col-xs-12 black1">  
                 <div class="row">
                     <div class="col-xs-1">
                         <img src="img/email.png" class="side2_icons">
@@ -48,16 +48,22 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-2 black1">  
+            <div class="col-md-2 col-xs-12 black1">  
                 <div class="row">
                     <div class="col-xs-4">
+                        <center>
                         <a href="https://www.facebook.com/sangramiitr.in/"><img  src="img/fb.png" alt="Sangram facebook" class="socialicons1"></a>
+                            </center>
                     </div>
-                    <div class="col-xs-4">                        
+                    <div class="col-xs-4">  
+                        <center>
                         <a href="https://www.youtube.com/channel/UCuJ4t3MjYJh5hipFkYlHI_w"> <img src="img/youtube.png" alt="Sangram youtube" class="socialicons2"></a>
+                        </center>
                     </div>
-                    <div class="col-xs-4">                        .
+                    <div class="col-xs-4">   
+                        <center>
                         <a href="https://www.instagram.com/explore/locations/1032655554/sangram-iit-roorkee/"> <img src="img/insta.png" alt="Sangram instagram" class="socialicons3"></a>
+                        </center>
                     </div>
                 </div>
             </div>
