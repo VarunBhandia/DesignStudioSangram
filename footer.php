@@ -11,7 +11,7 @@
             </div>
             <div class="col-md-3 col-xs-12 black1">  
                 <div class="row">                            
-                    <div class="col-xs-1 aboutimage"></div>
+                    <div class="col-xs-1"></div>
                     <div class="col-xs-1">
                                 <img src="img/location.png" class="side2_icons">
                             </div>
@@ -26,10 +26,11 @@
             </div>
             <div class="col-md-2 col-xs-12 black1">  
                 <div class="row">
+                    <div class="col-xs-1"></div>
                     <div class="col-xs-1">
                         <img src="img/email.png" class="side2_icons">
                     </div>
-                    <div class="col-xs-10">
+                    <div class="col-xs-8">
                         <div class="address">
                             sangram18@iitr.ac.in<br>
                             sangram18.iitr@gmail.com
@@ -38,10 +39,11 @@
                 </div>
                 
                 <div class="row">
+                    <div class="col-xs-1"></div>
                     <div class="col-xs-1">
                         <img src="img/number.png" class="side2_icons">
                     </div>
-                    <div class="col-xs-10">
+                    <div class="col-xs-8">
                         <div class="address">
                             Sumit Yadav<br> +91 80064 78565                                  
                         </div>
