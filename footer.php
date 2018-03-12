@@ -73,7 +73,7 @@
         </div>
         <div class="row copyright">
             <center>
-                <p class="hero"> DESIGNED BY <a href="" target="_blank" style="color:  cornflowerblue;">DESIGN STUDIO</a> AND DEVELOPED BY <a href="https://www.linkedin.com/in/varunbhandia/" target="_blank" style="color:  cornflowerblue;">VARUN BHANDIA </a>AND <a href="https://www.linkedin.com/in/harsh-gupta-a8a7303a/" target="_blank" style="color:  cornflowerblue;">HARSH GUPTA </a> </p>
+                <p class="hero"> DESIGNED BY <a href="https://designstudio.cc" target="_blank" style="color:  cornflowerblue;">DESIGN STUDIO</a> AND DEVELOPED BY <a href="https://www.linkedin.com/in/varunbhandia/" target="_blank" style="color:  cornflowerblue;">VARUN BHANDIA </a>AND <a href="https://www.linkedin.com/in/harsh-gupta-a8a7303a/" target="_blank" style="color:  cornflowerblue;">HARSH GUPTA </a> </p>
             </center>
         </div>
     </div>

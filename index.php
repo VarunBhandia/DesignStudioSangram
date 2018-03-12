@@ -64,7 +64,7 @@
                             <li class="leftlogo"><a href="#"><img src="img/iitr_logo.png" alt="Sangram'18 Logo" class="iitr_logo"> </a></li>
                         </ul>
                                 </div>
-                        <div class="collapse navbar-collapse" id="myNavbar">
+                        <div class="collapse1 navbar-collapse1" id="myNavbar">
                             <ul class="nav navbar-nav navbar-right">
                                 <li class=""><a href="index.php#about" class="navbar_link_index nav-items">ABOUT US</a></li>
                                 <li class=""><a href="events.php" class="navbar_link_index nav-items">EVENTS</a></li>
