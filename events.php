@@ -22,26 +22,6 @@
 </head>
 <body>
     <?php include("navbar.php"); ?>
-<!--
-    <div class="container-fluid">
-
-        <div class="col-md-12 col-xs-12">
-            <center class="eventheader">
-                ALL EVENTS
-            </center>
-        </div>
-
-    </div>
-    <div class="container-fluid">
-
-        <div class="col-md-12 col-xs-12">
-            <center><div class="line"></div></center>
-        </div>
-
-    </div>
--->
-
-
         <div class="container">
 
 
@@ -286,7 +266,7 @@
                 </div>
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/squash.jpg" style="width: 100%;height: 43.5%;"></div>
+                        <div class="event_image"><img src="img/web/squash.jpg" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">SQUASH</p>
                             <p class="post_event">The “jet propelled chess”- squash. The sports complex holds 4 indoor squash courts. Recently our team won the Uttarakhand Opens. Even in national events, they have made us proud and have won laurels. With well experienced and knowledgeable coaches, we provide a great opportunity for the students to learn this unique sport.</p>
@@ -313,7 +293,7 @@
             <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/swimming.jpg" style="width: 100%;height: 98%;"></div>
+                        <div class="event_image"><img src="img/web/swimming.jpg" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">SWIMMING</p>
                             <p class="post_event">Wading through the waters, tough and revolting using careful and styled limb movements is one the most favourite competitive sports of all time. With an Olympic size pool, state-of-the-art facilities and professional coaches, Sangram is all set to hold a grand battle in the waters!
@@ -339,7 +319,7 @@ Regards</p>
                 </div>
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/tt.jpg" style="width: 100%;height: 98%;"></div>
+                        <div class="event_image"><img src="img/web/tt.jpg" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">TABLE TENNIS</p>
                             <p class="post_event">Where timing is everything, table tennis is a game of agility and precision. The institute has a wide array of table tennis facilities ranging from the indoor tennis halls to the tables provided at the UG students club. Apart from this, each hostel consists of amenities to play the game.</p>
