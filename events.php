@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/Ath.jpg" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/ath.jpg" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">ATHLETICS</p>
                             <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
