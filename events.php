@@ -109,7 +109,7 @@
                 </div>
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/ap-128067600157.png" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/FB_IMG_1520500176536.jpg" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">CHESS</p>
                             <p class="post_event">Chess is one of the most strategical battle among all the sports. Being a board game for two players, It is played on a square board, made of 64 smaller squares, with eight squares on each side. The goal of the game is for each player to try and checkmate the king of the opponent. At IITR we have different chess clubs and the Inter IIT team has always dominated the sport.</p>
@@ -346,7 +346,7 @@ Regards</p>
             <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/taekwondo.png" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/IMG_1661.JPG" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">TAEKWONDO</p>
                             <p class="post_event">They say, the more you sweat in practice the less you bleed in the battlefield. Our martial trainees here toil in the vigorous training. Clad in white uniforms and tight belts they can be seen landing hammer fists and flying kicks to their opponents during practice. Martial arts certainly provide a great advantage off the playing field as well!</p>
@@ -371,7 +371,7 @@ Regards</p>
                 </div>
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/tennis.png" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/DSC_0740.JPG" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">TENNIS</p>
                             <p class="post_event">Tennis- the downright smashing game . IIT Roorkee is perhaps the only IIT that boasts of both grass and synthetic courts. We have the best synthetic courts in the northern India. The courts are floodlit. The institute team has grown leaps and bounds and has bagged many medals at the Inter IIT Sports Meet.</p>
