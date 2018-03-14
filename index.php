@@ -313,6 +313,14 @@ var x = setInterval(function() {
           var iitk = { lat:26.51232 , lng:80.23285 };
           var iitkgp ={ lat:22.31458 , lng: 87.3089};
           var mitindore = { lat:22.75825 , lng: 75.93828};
+          
+           var pilani = { lat:28.36402  , lng: 75.58692};
+           var kurukshetra = { lat:29.94896  , lng: 76.81727};
+           var dtu = { lat:28.75003  , lng: 77.11765};
+           var ymca = { lat:28.36719  , lng: 77.31566};
+           var jalandharNit = { lat:31.39611  , lng: 75.53535};
+           var IITjodhpur = { lat:26.47235  , lng: 73.11451};
+           var IITmandi = { lat:31.77539  , lng: 76.98607};
         var uluru = {lat: -25.363, lng: 131.044};
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 5,
@@ -357,6 +365,85 @@ var x = setInterval(function() {
             
             '<div id="bodyContent">'+
             '<p>Participants: 25+ </p>'+
+            
+            '</div>'+
+            '</div>';
+          
+          
+          
+           var desc_pilani = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">BITS Pilani</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 180+ </p>'+
+            
+            '</div>'+
+            '</div>';
+          
+           var desc_kurukshetra = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">NIT Kurukshetra</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 120+ </p>'+
+            
+            '</div>'+
+            '</div>';
+          
+           var desc_dtu = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">DTU</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 130+ </p>'+
+            
+            '</div>'+
+            '</div>';
+          
+           var desc_ymca = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">YMCA</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 30+ </p>'+
+            
+            '</div>'+
+            '</div>';
+          
+           var desc_jalandhar = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">NIT Jalandhar</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 35+ </p>'+
+            
+            '</div>'+
+            '</div>';
+          
+           var desc_jodhpur = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">IIT Jodhpur</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 90+ </p>'+
+            
+            '</div>'+
+            '</div>';
+          
+           var desc_mandi = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h1 id="firstHeading" class="firstHeading">IIT Mandi</h1>'+
+            
+            '<div id="bodyContent">'+
+            '<p>Participants: 45+ </p>'+
             
             '</div>'+
             '</div>';
@@ -430,7 +517,7 @@ var x = setInterval(function() {
         var marker4 = new google.maps.Marker({
           position: mitindore,
           map: map,
-          title: 'MIT Indore'
+//          title: 'MIT Indore'
         });
         marker4.addListener('mouseover', function() {
           info4.open(map, marker4);
@@ -438,6 +525,127 @@ var x = setInterval(function() {
           
            marker4.addListener('mouseout', function() {
           info4.close(map, marker4);
+        });
+        /////////////////////////////////////////////////////////////////  
+          
+           var info5 = new google.maps.InfoWindow({
+          content: desc_pilani
+        });
+
+        var marker5 = new google.maps.Marker({
+          position: pilani,
+          map: map,
+//          title: 'MIT Indore'
+        });
+        marker5.addListener('mouseover', function() {
+          info5.open(map, marker5);
+        });
+          
+           marker5.addListener('mouseout', function() {
+          info5.close(map, marker5);
+        });
+          
+          ///////////////////////////////////////////////////////////////
+           var info6 = new google.maps.InfoWindow({
+          content: desc_kurukshetra
+        });
+
+        var marker6 = new google.maps.Marker({
+          position: kurukshetra,
+          map: map,
+//          title: 'MIT Indore'
+        });
+        marker6.addListener('mouseover', function() {
+          info6.open(map, marker6);
+        });
+          
+           marker6.addListener('mouseout', function() {
+          info6.close(map, marker6);
+        });
+        //////////////////////////////////////////////////////////////////////  
+           var info7 = new google.maps.InfoWindow({
+          content: desc_dtu
+        });
+
+        var marker7 = new google.maps.Marker({
+          position: dtu,
+          map: map,
+//          title: 'MIT Indore'
+        });
+        marker7.addListener('mouseover', function() {
+          info7.open(map, marker7);
+        });
+          
+           marker7.addListener('mouseout', function() {
+          info7.close(map, marker7);
+        });
+        ///////////////////////////////////////////////////////////////////////  
+           var info8 = new google.maps.InfoWindow({
+          content: desc_ymca
+        });
+
+        var marker8 = new google.maps.Marker({
+          position: ymca,
+          map: map,
+//          title: 'MIT Indore'
+        });
+        marker8.addListener('mouseover', function() {
+          info8.open(map, marker8);
+        });
+          
+           marker8.addListener('mouseout', function() {
+          info8.close(map, marker8);
+        });
+        ////////////////////////////////////////////////////////////////////  
+           var info9 = new google.maps.InfoWindow({
+          content: desc_jalandhar
+        });
+
+        var marker9 = new google.maps.Marker({
+          position: jalandharNit,
+          map: map,
+//          title: 'MIT Indore'
+        });
+        marker9.addListener('mouseover', function() {
+          info9.open(map, marker9);
+        });
+          
+           marker9.addListener('mouseout', function() {
+          info9.close(map, marker9);
+        });
+        ///////////////////////////////////////////////////////////////////  
+           var info11 = new google.maps.InfoWindow({
+          content: desc_jodhpur
+        });
+
+        var marker11 = new google.maps.Marker({
+          position: IITjodhpur,
+          map: map,
+//          title: 'MIT Indore'
+        });
+        marker11.addListener('mouseover', function() {
+          info11.open(map, marker11);
+        });
+          
+           marker11.addListener('mouseout', function() {
+          info11.close(map, marker11);
+        });
+        ////////////////////////////////////////////////////////////////////  
+           var info10 = new google.maps.InfoWindow({
+          content: desc_mandi
+        });
+
+        var marker10 = new google.maps.Marker({
+          position: IITmandi,
+          map: map,
+//          title: 'MIT Indore'
+        });
+        marker10.addListener('mouseover', function() {
+          info10.open(map, marker10);
+        });
+          
+           marker10.addListener('mouseout', function() {
+          info10.close(map, marker10);
         });
           
           

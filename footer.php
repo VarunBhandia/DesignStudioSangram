@@ -17,7 +17,7 @@
                             </div>
                     <div class="col-xs-8">
                                 <div class="address">
-                                    Sangram Office, Hobbies Club<br>
+                                    Sangram Office, Institute Sports Council<br>
                                     IIT Roorkee, Roorkee<br>
                                     Uttarakhand, 247667
                                 </div>

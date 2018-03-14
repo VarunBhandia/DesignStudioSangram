@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/ath.jpg" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/Athi.jpg" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">ATHLETICS</p>
                             <p class="post_event">Here at IIT Roorkee the runners run to live and live to run! This is one of the first sport to be started here since its inception. Athletics here generates a lot of buzz. We have several professional and well trained athletes in the institute. The professional tracks along with resources have always been helpful in grooming the talents of our students. In the 50th Inter IIT Sports Meet over 150 students consisting of both boys and girls participated and brought us honour.</p>
@@ -55,7 +55,7 @@
                 </div>
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/badi.jpg" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/badi.jpg" style="width: 100%;height: 43.5%;"></div>
                         <div class="event_content">
                             <p class="name_event">BADMINTON</p>
                             <p class="post_event">They say,”The war is just a racket.” The institute boasts of a well equipped indoor badminton hall along with the badmiton courts in various hostels. The hostel courts are well lit and the students utilize them often to play throughout the evenings. The badminton team has been constantly bringing laurels to the institute in the Inter IIT sports meet and is provided with the best resources by the institute.</p>
@@ -109,7 +109,7 @@
                 </div>
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/ap-128067600157.png" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/FB_IMG_1520500176536.jpg" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">CHESS</p>
                             <p class="post_event">Chess is one of the most strategical battle among all the sports. Being a board game for two players, It is played on a square board, made of 64 smaller squares, with eight squares on each side. The goal of the game is for each player to try and checkmate the king of the opponent. At IITR we have different chess clubs and the Inter IIT team has always dominated the sport.</p>
@@ -241,7 +241,7 @@
             <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/snooker.png" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/FB_IMG_1520500721700.jpg" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">SNOOKER</p>
                             <p class="post_event">Snooker - the most popular parlor game requires tremendous concentration and considerable precision and along with that, its complex rules makes it even harder to master.Students club regularly conducts open tournaments for the students to showcase their talent. Here at IITR we have world class snooker facilities</p>
@@ -346,7 +346,7 @@ Regards</p>
             <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/taekwondo.png" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/IMG_1661.JPG" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">TAEKWONDO</p>
                             <p class="post_event">They say, the more you sweat in practice the less you bleed in the battlefield. Our martial trainees here toil in the vigorous training. Clad in white uniforms and tight belts they can be seen landing hammer fists and flying kicks to their opponents during practice. Martial arts certainly provide a great advantage off the playing field as well!</p>
@@ -371,7 +371,7 @@ Regards</p>
                 </div>
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/tennis.png" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/DSC_1742.jpg" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">TENNIS</p>
                             <p class="post_event">Tennis- the downright smashing game . IIT Roorkee is perhaps the only IIT that boasts of both grass and synthetic courts. We have the best synthetic courts in the northern India. The courts are floodlit. The institute team has grown leaps and bounds and has bagged many medals at the Inter IIT Sports Meet.</p>
@@ -423,7 +423,7 @@ Regards</p>
                 </div>
                 <div class="col-md-6  col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/weightlifting.png" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/DSC_0740.JPG" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">WEIGHTLIFTING</p>
                             <p class="post_event">Go heavy or go home. IITR has seen may legendary weightlifters of all time. The team here dedicates hours and hours with sweat and iron and makes the institute proud each and every time.Various events are held under different categories by weight and the standard rules are followed. We have all the required facilities, trainers and apparels. Weightlifting is an event that supports no surrogates for grit, determination and power.</p>
