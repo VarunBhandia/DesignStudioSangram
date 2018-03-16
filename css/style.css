@@ -348,7 +348,23 @@ display: none;    }
 }
 }
 
+.participants{
+    font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+ letter-spacing: 0.4px;
+  color: #000000;
+      font-weight: 600;
 
+}
+    
+#firstHeading{
+
+    font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  color: #3f76e3;
+}
 .rectabout{
     margin-top: 3em;
   height: 23px;

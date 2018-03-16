@@ -266,7 +266,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">IIT Delhi</h1>'+
             
             '<div id="bodyContent">'+
-            '<p class="participants">Participants: 120+ </p>'+
+            '<p class="participants" id="participants">Participants: 120+ </p>'+
             
             '</div>'+
             '</div>';
