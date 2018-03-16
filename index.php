@@ -220,8 +220,9 @@ var x = setInterval(function() {
 </div>
         
        <div class="container-fluid">
-
         <div class="col-md-12 col-xs-12">
+            <p class="participants1">Participants across India</p>
+
             <div style="width: 120%;margin-top:2em;
     height: 3px;
     opacity: 1;
@@ -230,7 +231,8 @@ var x = setInterval(function() {
         </div>
 
     </div>
- <div id="map" style="height:600px;width:100%;margin-bottom:-15em;"></div>
+ <div id="map" style="height:600px;width:100%;margin-bottom:-15em;">
+        </div>
         
    
      <script>
