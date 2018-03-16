@@ -560,3 +560,16 @@ font-family: 'Montserrat', sans-serif;  font-size: 29.9px;
   text-align: right;
   color: #4784ff;
         }
+
+        .participants{
+            font-family: 'Montserrat', sans-serif;
+            font-size: .7em;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1.5px;
+  text-align: right;
+  color: #4784ff;
+
+        }

@@ -194,75 +194,6 @@ var x = setInterval(function() {
         <div class="col-md-2"></div>
 
         </div>
-    <!-- hhh
-
-
-        <div class="row">
-             <div class="col-md-4"></div>
-      <div class="col-md-4" style="background-color: #3f76e3;            width: 264px;
-  height: 72px;
-
-  box-shadow: 2.1px 7.7px 16.6px 4.4px rgba(63, 63, 63, 0.1);
-            width: 160px;" id="myContainer">
-
-          <p  class="registerButton" data-target="#registerModal" data-toggle="modal">REGISTER</p>
-      </div>
-
-             <div class="col-md-4"></div>
-            </div>
-
-
-      <form method="post" id="registerform">
-        <div class="modal" id="registerModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <button class="close" data-dismiss="modal">
-                    &times;
-                  </button>
-                  <h4 id="myModalLabel">
-                   Register:
-                  </h4>
-              </div>
-              <div class="modal-body">
-
-                  Login message from PHP file
-                  <div id="registermessage"></div>
-
-
-                  <div class="form-group">
-                      <label for="name" class="sr-only">Name:</label>
-                      <input class="form-control" type="email" name="name" id="name" placeholder="Name" maxlength="50">
-                  </div>
-                  <div class="form-group">
-                      <label for="email" class="sr-only">Email:</label>
-                      <input class="form-control" type="email" name="email" id="email" placeholder="Email" maxlength="50">
-                  </div>
-                  <div class="form-group">
-                      <label for="phone" class="sr-only">Phone Number:</label>
-                      <input class="form-control" type="password" name="phone" id="phone" placeholder="Phone Number" maxlength="50">
-                  </div>
-                   <div class="form-group">
-                      <label for="collage" class="sr-only">Collage:</label>
-                      <input class="form-control" type="password" name="collage" id="collage" placeholder="Collage" maxlength="100">
-                  </div>
-              </div>
-              <div class="modal-footer">
-                  <input class="btn green" name="login" type="submit" value="Login">
-                <button type="button" class="btn btn-default" data-dismiss="modal">
-                  Cancel
-                </button>
-                <button type="button" class="btn btn-default pull-left" data-dismiss="modal" data-target="signupModal" data-toggle="modal">
-                  Register
-                </button>
-              </div>
-          </div>
-      </div>
-      </div>
-      </form>
--->
-
-
     <div class="about" id="about">
         <div class="row">
             <div class="col-md-5 col-xs-8 ">
@@ -333,7 +264,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">IIT Delhi</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 120+ </p>'+
+            '<p class="participants">Participants: 120+ </p>'+
             
             '</div>'+
             '</div>';
@@ -344,7 +275,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">IIT Kanpur</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 60+ </p>'+
+            '<p class="participants">Participants: 60+ </p>'+
             
             '</div>'+
             '</div>';
@@ -354,7 +285,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">IIT Kharagpur</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 45+ </p>'+
+            '<p class="participants">Participants: 45+ </p>'+
             
             '</div>'+
             '</div>';
@@ -364,7 +295,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">MIT Indore</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 25+ </p>'+
+            '<p class="participants">Participants: 25+ </p>'+
             
             '</div>'+
             '</div>';
@@ -377,7 +308,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">BITS Pilani</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 180+ </p>'+
+            '<p class="participants">Participants: 180+ </p>'+
             
             '</div>'+
             '</div>';
@@ -388,7 +319,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">NIT Kurukshetra</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 120+ </p>'+
+            '<p class="participants">Participants: 120+ </p>'+
             
             '</div>'+
             '</div>';
@@ -399,7 +330,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">DTU</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 130+ </p>'+
+            '<p class="participants">Participants: 130+ </p>'+
             
             '</div>'+
             '</div>';
@@ -410,7 +341,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">YMCA</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 30+ </p>'+
+            '<p class="participants">Participants: 30+ </p>'+
             
             '</div>'+
             '</div>';
@@ -421,7 +352,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">NIT Jalandhar</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 35+ </p>'+
+            '<p class="participants">Participants: 35+ </p>'+
             
             '</div>'+
             '</div>';
@@ -429,10 +360,10 @@ var x = setInterval(function() {
            var desc_jodhpur = '<div id="content">'+
             '<div id="siteNotice">'+
             '</div>'+
-            '<h1 id="firstHeading" class="firstHeading">IIT Jodhpur</h1>'+
+            '<h1 id="firstHeading" class="">IIT Jodhpur</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 90+ </p>'+
+            '<p class="participants">Participants: 90+ </p>'+
             
             '</div>'+
             '</div>';
@@ -443,7 +374,7 @@ var x = setInterval(function() {
             '<h1 id="firstHeading" class="firstHeading">IIT Mandi</h1>'+
             
             '<div id="bodyContent">'+
-            '<p>Participants: 45+ </p>'+
+            '<p class="participants">Participants: 45+ </p>'+
             
             '</div>'+
             '</div>';
@@ -467,7 +398,6 @@ var x = setInterval(function() {
           
           
           
-      ///////////////////////////////////////////////////////////////////
           
           
           var info2 = new google.maps.InfoWindow({
@@ -488,7 +418,6 @@ var x = setInterval(function() {
           
           
           
-      /////////////////////////////////////////////////////////////////
           
           
           
