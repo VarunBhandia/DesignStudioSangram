@@ -333,7 +333,6 @@ display: none;    }
     font-weight: 600;
     color: black;
     margin-bottom: -1em;
-    padding-left: 5em;
 }
     
 @media only screen and (max-width: 500px) {
@@ -371,7 +370,8 @@ display: none;    }
   background-color: #222222;
 }
 .hero{
-font-family: 'Montserrat', sans-serif;    font-size: 1em;
+font-family: 'Montserrat', sans-serif;    
+    font-size: 1em;
     font-weight: 600;
     letter-spacing: 0.8px;
     color: #ffffff;
