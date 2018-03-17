@@ -22,29 +22,6 @@
 </head>
 <body>
     <?php include("navbar.php"); ?>
-<!--
-     <div class="container-fluid">
-
-        <div class="col-md-12 col-xs-12">
-            <center class="teamheader">
-                TEAM MEMBERS
-            </center>
-        </div>
-        <div class="col-md-12 col-xs-12">
-            <center><div class="line"></div></center>
-        </div>
-
-    </div>
--->
-<!--
-    <div class="container-fluid">
-
-        <div class="col-md-12 col-xs-12">
-            <div class="line"></div>
-        </div>
-
-    </div>
--->
     <div class="container">
         <div class="row">
 
@@ -343,7 +320,7 @@
 
             </div>
 
-        </div>
+            </div>
 
     </div>
     <?php include("footer.php"); ?>
