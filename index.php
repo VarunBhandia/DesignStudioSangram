@@ -219,6 +219,14 @@ var x = setInterval(function() {
     </div>
 </div>
         
+<!--
+<video width="50%" class="trailor">
+          <source src="img/trailor.mp4" type="video/mp4">
+          Your browser does not support HTML5 video.
+        </video>
+-->
+        <center>
+<iframe width="70%" height="500" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
        <div class="container-fluid">
         <div class="col-md-12 col-xs-12">
             <p class="participants1">Participants across India</p>
@@ -592,6 +600,6 @@ var x = setInterval(function() {
     <div id="footer_index">
     <?php include("footer.php"); ?>
          </div>
-
+    </div>
 </body>
 </html>
