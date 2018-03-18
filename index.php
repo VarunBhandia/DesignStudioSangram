@@ -220,8 +220,8 @@ var x = setInterval(function() {
 </div>
         <p class="trailorheader">SANGRAM 2K16 | TRAILER</p>
         <center>
-<iframe width="75%" height="700" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="aboutimage"></iframe>
-            <iframe width="90%" height="200" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen ></iframe>
+<iframe width="75%" height="700" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="desktop"></iframe>
+            <iframe width="90%" height="200" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="mobile"></iframe>
         </center>
        <div class="container-fluid">
            <p class="participants1">PARTICIPANTS ACROSS INDIA</p>

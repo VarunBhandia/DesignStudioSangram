@@ -327,6 +327,24 @@ font-family: 'Montserrat', sans-serif;
 display: none;    }
 }
 
+.desktop{
+    
+}
+
+@media only screen and (max-width: 500px) {
+    .desktop {
+display: none;    }
+}
+
+.mobile{
+    
+}
+
+@media only screen and (min-width: 500px) {
+    .mobile {
+display: none;    }
+}
+
 .participants1{
        padding-left: 5.6em;
     padding-top: 3em;
@@ -367,7 +385,10 @@ padding-top: 2em;
     margin-bottom: 1em;
     padding-left: 1em;
 
-}.participants{
+}
+    
+}
+.participants{
     font-family: 'Montserrat', sans-serif;
   font-size: 1em;
  letter-spacing: 0.4px;
@@ -375,6 +396,7 @@ padding-top: 2em;
       font-weight: 600;
 
 }
+z
 
 @media only screen and (max-width: 500px) {
 .iframe{
