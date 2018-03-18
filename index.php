@@ -218,30 +218,20 @@ var x = setInterval(function() {
         </div>
     </div>
 </div>
-        
-<!--
-<video width="50%" class="trailor">
-          <source src="img/trailor.mp4" type="video/mp4">
-          Your browser does not support HTML5 video.
-        </video>
--->
+        <p class="trailorheader">Sangram 2K16 | Trailor</p>
         <center>
-<iframe width="70%" height="500" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<iframe width="80%" height="500" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
        <div class="container-fluid">
         <div class="col-md-12 col-xs-12">
             <p class="participants1">Participants across India</p>
 
-            <div style="width: 120%;margin-top:2em;
-    height: 3px;
-    opacity: 1;
-    background-color: #3f76e3;
-    margin-left: -3em;"></div>
         </div>
 
     </div>
- <div id="map" style="height:600px;width:100%;margin-bottom:-15em;">
+        <center>
+    <div id="map" style="height:600px;width:80%;margin-bottom:-15em;">
         </div>
-        
+        </center>
    
      <script>
 
