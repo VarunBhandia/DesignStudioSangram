@@ -218,18 +218,21 @@ var x = setInterval(function() {
         </div>
     </div>
 </div>
-        <p class="trailorheader">Sangram 2K16 | Trailor</p>
+        <p class="trailorheader">SANGRAM 2K16 | TRAILER</p>
         <center>
-<iframe width="80%" height="500" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<iframe width="75%" height="700" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="aboutimage"></iframe>
+            <iframe width="90%" height="200" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen ></iframe>
+        </center>
        <div class="container-fluid">
+           <p class="participants1">PARTICIPANTS ACROSS INDIA</p>
         <div class="col-md-12 col-xs-12">
-            <p class="participants1">Participants across India</p>
+            
 
         </div>
 
     </div>
         <center>
-    <div id="map" style="height:600px;width:80%;margin-bottom:-15em;">
+    <div id="map" class="map1">
         </div>
         </center>
    
