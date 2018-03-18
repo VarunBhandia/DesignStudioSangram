@@ -512,17 +512,17 @@ height: 5em;
 
 .socialicons1{
     padding-top: 2em;
-    width: 1em;
+    width: .7em;
 }
 
 .socialicons2{
     padding-top: 2em;
-    width: 2.6em;
+    width: 2em;
 }
 
 .socialicons3{
-    padding-top: 2em;
-    width: 2.6em;
+    padding-top: 1.5em;
+    width: 2em;
 }
 
 @media only screen and (max-width: 500px) {
