@@ -291,6 +291,33 @@
                 </div>
             </div>
             <div class="row">
+                                <div class="col-md-6 col-xs-12">
+                    <div class="thumbnail_events">
+                        <div class="event_image"><img src="img/yoga-to-wake-up.png" style="width: 100%;"></div>
+                        <div class="event_content">
+                            <p class="name_event">YOGA</p>
+                            <p class="post_event">Derived from the Sanskrit word, ‘Yuj’ which means union, yoga is the union mind and body to achieve wisdom, peace and harmony. Celebrating the Indian art and legacy of yoga in IITR, Sangram brings to its participants the well-known and world famous sport to Roorkee's grounds.</p>
+                        </div>
+                            <div class="row view_rules">
+                                <div class="col-md-6  col-xs-12">
+
+                                <p class="event_contact">Shubham Gupta:</p>
+                                    <p class="event_contact">80066 39074</p>
+
+                                </div>
+
+                                <div class="col-md-6  col-xs-12">
+                                    <div class="rules_button">
+                                         <a href="rules/yoga_rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                         View Rules
+                                        </p></a>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+
+<!--
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
                         <div class="event_image"><img src="img/web/swimming.jpg" style="width: 100%;"></div>
@@ -317,6 +344,7 @@ Regards</p>
                             </div>
                     </div>
                 </div>
+-->
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
                         <div class="event_image"><img src="img/web/tt.jpg" style="width: 100%;"></div>
@@ -447,6 +475,7 @@ Regards</p>
                     </div>
                 </div>
             </div>
+<!--
             <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
@@ -474,6 +503,7 @@ Regards</p>
                     </div>
                 </div>
             </div>
+-->
     </div>
     <?php include("footer.php"); ?>
 </body>
