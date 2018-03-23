@@ -22,10 +22,10 @@
 </head>
 <body>
     <?php include("navbar.php"); ?>
-        <div class="container">
+    <div class="container">
 
 
-            <div class="row">
+        <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
                         <div class="event_image"><img src="img/web/ath.jpg" style="width: 100%;"></div>
@@ -81,7 +81,7 @@
                 </div>
 
             </div>
-              <div class="row">
+        <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
                         <div class="event_image"><img src="img/web/baski1.jpg" style="width: 100%;"></div>
@@ -133,7 +133,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+        <div class="row">
                 <div class="col-md-6 col-xs-12" >
                     <div class="thumbnail_events">
                         <div class="event_image"><img src="img/web/cric.jpg" style="width: 100%;"></div>
@@ -185,246 +185,191 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-6 col-xs-12">
-                    <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/hockey_pic.jpg" style="width: 100%;" ></div>
-                        <div class="event_content">
-                            <p class="name_event">HOCKEY</p>
-                            <p class="post_event">Hockey- the original extreme sport. The sport has always been encouraged and promoted by IITR. We have a separate hockey stadium with professional stand for the spectators. The institute provides the students all the necessary gear. Inter year and Inter hostel tournaments are routinely organised which always leads to the discovery of new talent for the Inter IIT sports meet. The sport has constantly brought medals for the institute every year and is one of the most prominent sports at the campus</p>
-                            <div class="row view_rules">
-                               <div class="col-md-6  col-xs-12">
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <div class="thumbnail_events">
+                    <div class="event_image"><img src="img/web/hockey_pic.jpg" style="width: 100%;" ></div>
+                    <div class="event_content">
+                        <p class="name_event">HOCKEY</p>
+                        <p class="post_event">Hockey- the original extreme sport. The sport has always been encouraged and promoted by IITR. We have a separate hockey stadium with professional stand for the spectators. The institute provides the students all the necessary gear. Inter year and Inter hostel tournaments are routinely organised which always leads to the discovery of new talent for the Inter IIT sports meet. The sport has constantly brought medals for the institute every year and is one of the most prominent sports at the campus</p>
+                        <div class="row view_rules">
+                           <div class="col-md-6  col-xs-12">
 
-                                <p class="event_contact">Vishvendra:</p>
-                                    <p class="event_contact">82187 21281</p>
+                            <p class="event_contact">Vishvendra:</p>
+                                <p class="event_contact">82187 21281</p>
 
-                                </div>
+                            </div>
 
-                                <div class="col-md-6  col-xs-12">
-                                    <div class="rules_button">
-                                         <a href="rules/Hockey%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
-                                         View Rules
-                                        </p></a>
-                                    </div>
+                            <div class="col-md-6  col-xs-12">
+                                <div class="rules_button">
+                                     <a href="rules/Hockey%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                     View Rules
+                                    </p></a>
                                 </div>
                             </div>
                         </div>
-                        <br>
                     </div>
-                </div>
-                <div class="col-md-6 col-xs-12">
-                    <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/weight.jpg" style="width: 100%;"></div>
-                        <div class="event_content">
-                            <p class="name_event">POWERLIFTING</p>
-                            <p class="post_event">The sport of powerlifting gets to the heart of the most fundamental of all athletic qualities-strength. An invigorating sport of strength, power, and speed, powerlifting is a recent entry into Sangram that brings to our participants more of strength athletics. Be ready to train your muscles, focus your breathing and strengthen your will and set records in squats, benches and deadlifts!</p>
-                        </div>
-                            <div class="row view_rules">
-                                <div class="col-md-6  col-xs-12">
-
-                                <p class="event_contact">Jogesh Kumar:</p>
-                                    <p class="event_contact">80064 64357</p>
-
-                                </div>
-
-                                <div class="col-md-6  col-xs-12">
-                                    <div class="rules_button">
-                                         <a href="rules/POWERLIFTING%20%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
-                                         View Rules
-                                        </p></a>
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
+                    <br>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-6 col-xs-12">
-                    <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/FB_IMG_1520500721700.jpg" style="width: 100%;"></div>
-                        <div class="event_content">
-                            <p class="name_event">SNOOKER</p>
-                            <p class="post_event">Snooker - the most popular parlor game requires tremendous concentration and considerable precision and along with that, its complex rules makes it even harder to master.Students club regularly conducts open tournaments for the students to showcase their talent. Here at IITR we have world class snooker facilities</p>
-                        </div>
-                            <div class="row view_rules">
-                                <div class="col-md-6  col-xs-12">
+            <div class="col-md-6 col-xs-12">
+                <div class="thumbnail_events">
+                    <div class="event_image"><img src="img/web/weight.jpg" style="width: 100%;"></div>
+                    <div class="event_content">
+                        <p class="name_event">POWERLIFTING</p>
+                        <p class="post_event">The sport of powerlifting gets to the heart of the most fundamental of all athletic qualities-strength. An invigorating sport of strength, power, and speed, powerlifting is a recent entry into Sangram that brings to our participants more of strength athletics. Be ready to train your muscles, focus your breathing and strengthen your will and set records in squats, benches and deadlifts!</p>
+                    </div>
+                        <div class="row view_rules">
+                            <div class="col-md-6  col-xs-12">
 
-                                <p class="event_contact">Surya Dev Laroia:</p>
-                                    <p class="event_contact">81717 81255</p>
+                            <p class="event_contact">Jogesh Kumar:</p>
+                                <p class="event_contact">80064 64357</p>
 
-                                </div>
+                            </div>
 
-                                <div class="col-md-6  col-xs-12">
-                                    <div class="rules_button">
-                                         <a href="rules/Snooker%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
-                                         View Rules
-                                        </p></a>
-                                    </div>
+                            <div class="col-md-6  col-xs-12">
+                                <div class="rules_button">
+                                     <a href="rules/POWERLIFTING%20%20RULES.pdf" target="_BLANK"><p class="rules_button_content">
+                                     View Rules
+                                    </p></a>
                                 </div>
                             </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xs-12">
-                    <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/squash.jpg" style="width: 100%;"></div>
-                        <div class="event_content">
-                            <p class="name_event">SQUASH</p>
-                            <p class="post_event">The “jet propelled chess”- squash. The sports complex holds 4 indoor squash courts. Recently our team won the Uttarakhand Opens. Even in national events, they have made us proud and have won laurels. With well experienced and knowledgeable coaches, we provide a great opportunity for the students to learn this unique sport.</p>
                         </div>
-                            <div class="row view_rules">
-                                <div class="col-md-4 col-xs-12">
-
-                                <p class="event_contact">Ronak:</p>
-                                    <p class="event_contact">87551 44159</p>
-
-                                </div>
-
-                                    <div class="col-md-6  col-xs-12">
-                                    <div class="rules_button">
-                                         <a href="rules/Squash%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
-                                         View Rules
-                                        </p></a>
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
                 </div>
             </div>
-            <div class="row">
-                                <div class="col-md-6 col-xs-12">
-                    <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/yoga-to-wake-up.png" style="width: 100%;"></div>
-                        <div class="event_content">
-                            <p class="name_event">YOGA</p>
-                            <p class="post_event">Derived from the Sanskrit word, ‘Yuj’ which means union, yoga is the union mind and body to achieve wisdom, peace and harmony. Celebrating the Indian art and legacy of yoga in IITR, Sangram brings to its participants the well-known and world famous sport to Roorkee's grounds.</p>
-                        </div>
-                            <div class="row view_rules">
-                                <div class="col-md-6  col-xs-12">
+</div>
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <div class="thumbnail_events">
+                    <div class="event_image"><img src="img/web/FB_IMG_1520500721700.jpg" style="width: 100%;"></div>
+                    <div class="event_content">
+                        <p class="name_event">SNOOKER</p>
+                        <p class="post_event">Snooker - the most popular parlor game requires tremendous concentration and considerable precision and along with that, its complex rules makes it even harder to master.Students club regularly conducts open tournaments for the students to showcase their talent. Here at IITR we have world class snooker facilities</p>
+                    </div>
+                        <div class="row view_rules">
+                            <div class="col-md-6  col-xs-12">
 
-                                <p class="event_contact">Shubham Gupta:</p>
-                                    <p class="event_contact">80066 39074</p>
+                            <p class="event_contact">Surya Dev Laroia:</p>
+                                <p class="event_contact">81717 81255</p>
 
-                                </div>
+                            </div>
 
-                                <div class="col-md-6  col-xs-12">
-                                    <div class="rules_button">
-                                         <a href="rules/yoga_rules.pdf" target="_BLANK"><p class="rules_button_content">
-                                         View Rules
-                                        </p></a>
-                                    </div>
+                            <div class="col-md-6  col-xs-12">
+                                <div class="rules_button">
+                                     <a href="rules/Snooker%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                     View Rules
+                                    </p></a>
                                 </div>
                             </div>
-                    </div>
-                </div>
-
-<!--
-                <div class="col-md-6 col-xs-12">
-                    <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/swimming.jpg" style="width: 100%;"></div>
-                        <div class="event_content">
-                            <p class="name_event">SWIMMING</p>
-                            <p class="post_event">Wading through the waters, tough and revolting using careful and styled limb movements is one the most favourite competitive sports of all time. With an Olympic size pool, state-of-the-art facilities and professional coaches, Sangram is all set to hold a grand battle in the waters!
-Regards</p>
                         </div>
-                            <div class="row view_rules">
-                                <div class="col-md-6  col-xs-12">
-
-                                <p class="event_contact">Kashish Verma:</p>
-                                    <p class="event_contact">80063 60362</p>
-
-                                </div>
-
-                                <div class="col-md-6  col-xs-12">
-                                    <div class="rules_button">
-                                         <a href="rules/Swimming%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
-                                         View Rules
-                                        </p></a>
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
-                </div>
--->
-                <div class="col-md-6 col-xs-12">
-                    <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/tt.jpg" style="width: 100%;"></div>
-                        <div class="event_content">
-                            <p class="name_event">TABLE TENNIS</p>
-                            <p class="post_event">Where timing is everything, table tennis is a game of agility and precision. The institute has a wide array of table tennis facilities ranging from the indoor tennis halls to the tables provided at the UG students club. Apart from this, each hostel consists of amenities to play the game.</p>
-                        </div>
-                            <div class="row view_rules">
-                                 <div class="col-md-6  col-xs-12">
-
-                                <p class="event_contact">Madhvendra Pratap:</p>
-                                    <p class="event_contact">81920 11020</p>
-
-                                </div>
-
-                                <div class="col-md-6  col-xs-12">
-                                    <div class="rules_button">
-                                        <a href="rules/Table%20Tennis%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
-                                         View Rules
-                                        </p></a>
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-6 col-xs-12">
-                    <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/IMG_1661.JPG" style="width: 100%;"></div>
-                        <div class="event_content">
-                            <p class="name_event">TAEKWONDO</p>
-                            <p class="post_event">They say, the more you sweat in practice the less you bleed in the battlefield. Our martial trainees here toil in the vigorous training. Clad in white uniforms and tight belts they can be seen landing hammer fists and flying kicks to their opponents during practice. Martial arts certainly provide a great advantage off the playing field as well!</p>
-                        </div>
-                            <div class="row view_rules">
-                               <div class="col-md-6  col-xs-12">
+            <div class="col-md-6 col-xs-12">
+                <div class="thumbnail_events">
+                    <div class="event_image"><img src="img/web/squash.jpg" style="width: 100%;"></div>
+                    <div class="event_content">
+                        <p class="name_event">SQUASH</p>
+                        <p class="post_event">The “jet propelled chess”- squash. The sports complex holds 4 indoor squash courts. Recently our team won the Uttarakhand Opens. Even in national events, they have made us proud and have won laurels. With well experienced and knowledgeable coaches, we provide a great opportunity for the students to learn this unique sport.</p>
+                    </div>
+                        <div class="row view_rules">
+                            <div class="col-md-4 col-xs-12">
 
-                                <p class="event_contact">Sanjay Mishra:</p>
-                                    <p class="event_contact">73517 71241</p>
+                            <p class="event_contact">Ronak:</p>
+                                <p class="event_contact">87551 44159</p>
 
-                                </div>
+                            </div>
 
                                 <div class="col-md-6  col-xs-12">
-                                    <div class="rules_button">
-                                         <a href="rules/Taekwondo%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
-                                         View Rules
-                                        </p></a>
-                                    </div>
+                                <div class="rules_button">
+                                     <a href="rules/Squash%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                     View Rules
+                                    </p></a>
                                 </div>
                             </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xs-12">
-                    <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/DSC_1742.jpg" style="width: 100%;"></div>
-                        <div class="event_content">
-                            <p class="name_event">TENNIS</p>
-                            <p class="post_event">Tennis- the downright smashing game . IIT Roorkee is perhaps the only IIT that boasts of both grass and synthetic courts. We have the best synthetic courts in the northern India. The courts are floodlit. The institute team has grown leaps and bounds and has bagged many medals at the Inter IIT Sports Meet.</p>
                         </div>
-                            <div class="row view_rules">
-                                <div class="col-md-6  col-xs-12">
-
-                                <p class="event_contact">Praveen:</p>
-                                    <p class="event_contact">87551 55007</p>
-
-                                </div>
-
-                                <div class="col-md-6  col-xs-12">
-                                    <div class="rules_button">
-                                         <a href="rules/Lawn%20Tennis%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
-                                         View Rules
-                                        </p></a>
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-6 col-xs-12">
+</div>
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <div class="thumbnail_events">
+                    <div class="event_image"><img src="img/web/tt.jpg" style="width: 100%;"></div>
+                    <div class="event_content">
+                        <p class="name_event">TABLE TENNIS</p>
+                        <p class="post_event">Where timing is everything, table tennis is a game of agility and precision. The institute has a wide array of table tennis facilities ranging from the indoor tennis halls to the tables provided at the UG students club. Apart from this, each hostel consists of amenities to play the game.</p>
+                    </div>
+                        <div class="row view_rules">
+                             <div class="col-md-6  col-xs-12">
+
+                            <p class="event_contact">Madhvendra Pratap:</p>
+                                <p class="event_contact">81920 11020</p>
+
+                            </div>
+
+                            <div class="col-md-6  col-xs-12">
+                                <div class="rules_button">
+                                    <a href="rules/Table%20Tennis%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                     View Rules
+                                    </p></a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <div class="thumbnail_events">
+                    <div class="event_image"><img src="img/web/IMG_1661.JPG" style="width: 100%;"></div>
+                    <div class="event_content">
+                        <p class="name_event">TAEKWONDO</p>
+                        <p class="post_event">They say, the more you sweat in practice the less you bleed in the battlefield. Our martial trainees here toil in the vigorous training. Clad in white uniforms and tight belts they can be seen landing hammer fists and flying kicks to their opponents during practice. Martial arts certainly provide a great advantage off the playing field as well!</p>
+                    </div>
+                        <div class="row view_rules">
+                           <div class="col-md-6  col-xs-12">
+
+                            <p class="event_contact">Sanjay Mishra:</p>
+                                <p class="event_contact">73517 71241</p>
+
+                            </div>
+
+                            <div class="col-md-6  col-xs-12">
+                                <div class="rules_button">
+                                     <a href="rules/Taekwondo%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                     View Rules
+                                    </p></a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+</div>
+        <div class="row">
+
+            <div class="col-md-6 col-xs-12">
+                <div class="thumbnail_events">
+                    <div class="event_image"><img src="img/web/DSC_1742.jpg" style="width: 100%;"></div>
+                    <div class="event_content">
+                        <p class="name_event">TENNIS</p>
+                        <p class="post_event">Tennis- the downright smashing game . IIT Roorkee is perhaps the only IIT that boasts of both grass and synthetic courts. We have the best synthetic courts in the northern India. The courts are floodlit. The institute team has grown leaps and bounds and has bagged many medals at the Inter IIT Sports Meet.</p>
+                    </div>
+                        <div class="row view_rules">
+                            <div class="col-md-6  col-xs-12">
+
+                            <p class="event_contact">Praveen:</p>
+                                <p class="event_contact">87551 55007</p>
+
+                            </div>
+
+                            <div class="col-md-6  col-xs-12">
+                                <div class="rules_button">
+                                     <a href="rules/Lawn%20Tennis%20Rules.pdf" target="_BLANK"><p class="rules_button_content">
+                                     View Rules
+                                    </p></a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
                         <div class="event_image"><img src="img/web/IMG_1584.JPG" style="width: 100%;"></div>
                         <div class="event_content">
@@ -449,6 +394,9 @@ Regards</p>
                             </div>
                     </div>
                 </div>
+</div>
+        <div class="row">
+
                 <div class="col-md-6  col-xs-12">
                     <div class="thumbnail_events">
                         <div class="event_image"><img src="img/web/DSC_0740.JPG" style="width: 100%;"></div>
@@ -474,9 +422,6 @@ Regards</p>
                             </div>
                     </div>
                 </div>
-            </div>
-<!--
-            <div class="row">
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
                         <div class="event_image"><img src="img/yoga-to-wake-up.png" style="width: 100%;"></div>
@@ -503,7 +448,7 @@ Regards</p>
                     </div>
                 </div>
             </div>
--->
+
     </div>
     <?php include("footer.php"); ?>
 </body>
