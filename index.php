@@ -70,7 +70,7 @@
                                 <li class=""><a href="events.php" class="navbar_link_index nav-items">EVENTS</a></li>
                                 <li class=""><a href="sponsors.php" class="navbar_link_index nav-items">SPONSORS</a></li>
                                 <li class=""><a href="team.php" class="navbar_link_index nav-items">TEAM</a></li>
-                                <li class=""><a href="liveScores.php" class="navbar_link_index nav-items">LIVE SCORE</a></li>
+<!--                                <li class=""><a href="liveScores.php" class="navbar_link_index nav-items">LIVE SCORE</a></li>-->
                                 <li class=""><a href="index.php#footer_index" class="padding14 navbar_link_index nav-items">CONTACT US</a></li>
                             </ul>
                         </div>
@@ -99,6 +99,7 @@ $(window).scroll(function(){
           <source src="img/animated.mp4" type="video/mp4">
           Your browser does not support HTML5 video.
         </video>
+<!--
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
@@ -114,6 +115,7 @@ $(window).scroll(function(){
             </div>
             <div class="col-md-2"></div>
         </div>
+-->
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
@@ -191,6 +193,7 @@ var x = setInterval(function() {
 </script>
 </div>
         </div>
+    </div>
 <div>
         <div class="col-md-2"></div>
 
