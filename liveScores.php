@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/team.css">
     <link rel="stylesheet" href="css/events.css">
+    <link rel="stylesheet" href="css/hover2.css">
     <style>
   </style>
 
@@ -28,32 +29,32 @@
             <div class="row">
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "atheletics.php"><img src="img/live/athletics-01.png"  class="liveIcons"></a>
+                        <a href = "atheletics.php"><img src="img/live/athletics-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Badminton.php"><img src="img/live/badminton-01.png"  class="liveIcons"></a>
+                        <a href = "Badminton.php"><img src="img/live/badminton-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Basketball.php"><img src="img/live/basketball-01.png"  class="liveIcons"></a>
+                        <a href = "Basketball.php"><img src="img/live/basketball-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Chess.php"><img src="img/live/chess-01.png"  class="liveIcons"></a>
+                        <a href = "Chess.php"><img src="img/live/chess-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Cricket.php"><img src="img/live/cricket-01.png"  class="liveIcons"></a>
+                        <a href = "Cricket.php"><img src="img/live/cricket-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Football.php"><img src="img/live/football.png"  class="liveIcons"></a>
+                        <a href = "Football.php"><img src="img/live/football.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
             </div>
@@ -61,32 +62,32 @@
             <div class="row">
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Hockey.php"><img src="img/live/hockeyy-01.png"  class="liveIcons"></a>
+                        <a href = "Hockey.php"><img src="img/live/hockeyy-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Powerlifting.php"><img src="img/live/POWERLIFT-01.png"  class="liveIcons"></a>
+                        <a href = "Powerlifting.php"><img src="img/live/POWERLIFT-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Snooker.php"><img src="img/live/snoker-01.png"  class="liveIcons"></a>
+                        <a href = "Snooker.php"><img src="img/live/snoker-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Squash.php"><img src="img/live/squash-01.png"  class="liveIcons"></a>
+                        <a href = "Squash.php"><img src="img/live/squash-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "TableTennis.php"><img src="img/live/TABLE%20TENNIS-01.png"  class="liveIcons"></a>
+                        <a href = "TableTennis.php"><img src="img/live/TABLE%20TENNIS-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Taekwondo.php"><img src="img/live/taekwondo-01.png"  class="liveIcons"></a>
+                        <a href = "Taekwondo.php"><img src="img/live/taekwondo-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
             </div>
@@ -95,17 +96,17 @@
                 <div class="col-md-3"></div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Tennis.php"><img src="img/live/l%20tennis-01.png"  class="liveIcons"></a>
+                        <a href = "Tennis.php"><img src="img/live/l%20tennis-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Volleyball.php"><img src="img/live/volley-01.png"  class="liveIcons"></a>
+                        <a href = "Volleyball.php"><img src="img/live/volley-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Weightlifting.php"><img src="img/live/weightlift-01.png"  class="liveIcons"></a>
+                        <a href = "Weightlifting.php"><img src="img/live/weightlift-01.png"  class="liveIcons hvr-bob"></a>
                     </center>
                 </div>
                 <div class="col-md-3"></div>
