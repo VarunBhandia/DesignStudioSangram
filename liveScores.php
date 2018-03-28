@@ -24,22 +24,54 @@
     <?php include("navbar.php"); ?>
     <div class="container">
         <div style="margin-top:10em;">
-            <p><a href = "atheletics.php">Athletics</a></p>
-        <p><a href = "badminton.php">Badminton</a></p>
-        <p><a href = "Basketball.php">Basketball</a></p>
-        <p><a href = "Chess.php">Chess</a></p>
-        <p><a href = "Cricket.php">Cricket</a></p>
-        <p><a href = "Football.php">Football</a></p>
-        <p><a href = "Hockey.php">Hockey</a></p>
-        <p><a href = "Powerlifting.php">Powerlifting</a></p>
-        <p><a href = "Snooker.php">Snooker</a></p>
-        <p><a href = "Squash.php">Squash</a></p>
-        <p><a href = "TableTennis.php">Table Tennis</a></p>
-        <p><a href = "Taekwondo.php">Taekwondo</a></p>
-        <p><a href = "Tennis.php">Tennis</a></p>
-        <p><a href = "Volleyball.php">Volleyball</a></p>
-        <p><a href = "Weightlifting.php">Weightlifting</a></p>
-        <p><a href = "Yoga.php">Yoga</a></p>
+            <div class="row">
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "atheletics.php"><img src="img/live/athletics-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Badminton.php"><img src="img/live/badminton-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Basketball.php"><img src="img/live/basketball-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Chess.php"><img src="img/live/chess-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Cricket.php"><img src="img/live/cricket-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                                        <center></center>
+
+                    <a href = "Football.php"><img src="img/live/football.png"  class="liveIcons"></a>
+                </div>
+            </div>
+            <p></p>
+            <p><a href = "Badminton.php">Badminton</a></p>
+            <p><a href = "Basketball.php">Basketball</a></p>
+            <p><a href = "Chess.php">Chess</a></p>
+            <p><a href = "Cricket.php">Cricket</a></p>
+            <p><a href = "Football.php">Football</a></p>
+            <p><a href = "Hockey.php">Hockey</a></p>
+            <p><a href = "Powerlifting.php">Powerlifting</a></p>
+            <p><a href = "Snooker.php">Snooker</a></p>
+            <p><a href = "Squash.php">Squash</a></p>
+            <p><a href = "TableTennis.php">Table Tennis</a></p>
+            <p><a href = "Taekwondo.php">Taekwondo</a></p>
+            <p><a href = "Tennis.php">Tennis</a></p>
+            <p><a href = "Volleyball.php">Volleyball</a></p>
+            <p><a href = "Weightlifting.php">Weightlifting</a></p>
+            <p><a href = "Yoga.php">Yoga</a></p>
         </div>
 
         
