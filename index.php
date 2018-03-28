@@ -70,7 +70,7 @@
                                 <li class=""><a href="events.php" class="navbar_link_index nav-items">EVENTS</a></li>
                                 <li class=""><a href="sponsors.php" class="navbar_link_index nav-items">SPONSORS</a></li>
                                 <li class=""><a href="team.php" class="navbar_link_index nav-items">TEAM</a></li>
-<!--                                <li class=""><a href="liveScores.php" class="navbar_link_index nav-items">LIVE SCORE</a></li>-->
+                                <li class=""><a href="liveScores.php" class="navbar_link_index nav-items">LIVE SCORE</a></li>
                                 <li class=""><a href="index.php#footer_index" class="padding14 navbar_link_index nav-items">CONTACT US</a></li>
                             </ul>
                         </div>
