@@ -70,6 +70,7 @@
                                 <li class=""><a href="events.php" class="navbar_link_index nav-items">EVENTS</a></li>
                                 <li class=""><a href="sponsors.php" class="navbar_link_index nav-items">SPONSORS</a></li>
                                 <li class=""><a href="team.php" class="navbar_link_index nav-items">TEAM</a></li>
+                                <li class=""><a href="liveScores.php" class="navbar_link_index nav-items">LIVE SCORE</a></li>
                                 <li class=""><a href="index.php#footer_index" class="padding14 navbar_link_index nav-items">CONTACT US</a></li>
                             </ul>
                         </div>
@@ -104,8 +105,8 @@ $(window).scroll(function(){
                     <div class="register">
             <center>
                 <p class="register_text">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfDQ76W6UQ0IcjNNvN99_qnm4C2aQ4I6xKBD7u7R1lXUbI--Q/viewform" target="_blank">
-                                REGISTER</a></p>
+                            <a href="../liveScores.php" target="_blank">
+                                LIVE SCORE</a></p>
             </center>
                         
     </div>

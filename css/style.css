@@ -224,12 +224,12 @@ height: 26em;    }
 
 
 .register_text{
-padding-top: .4em;
+    padding-top: .6em;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;    
-    font-size: 1.6em;
+    font-size: 1.4em;
     font-weight: 600;
-color: transparent;
+    color: transparent;
     letter-spacing: 2px;
 }
 .right{
