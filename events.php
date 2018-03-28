@@ -424,7 +424,7 @@
                 </div>
                 <div class="col-md-6 col-xs-12">
                     <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/yoga-to-wake-up.png" style="width: 100%;"></div>
+                        <div class="event_image"><img src="img/web/yoga-to-wake-up.png" style="width: 100%;"></div>
                         <div class="event_content">
                             <p class="name_event">YOGA</p>
                             <p class="post_event">Derived from the Sanskrit word, ‘Yuj’ which means union, yoga is the union mind and body to achieve wisdom, peace and harmony. Celebrating the Indian art and legacy of yoga in IITR, Sangram brings to its participants the well-known and world famous sport to Roorkee's grounds.</p>

@@ -24,6 +24,7 @@
     <?php include("navbar.php"); ?>
     <div class="container">
         <div style="margin-top:10em;">
+            
             <div class="row">
                 <div class="col-md-2 col-xs-6">
                     <center>
@@ -51,17 +52,44 @@
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
-                                        <center></center>
-
-                    <a href = "Football.php"><img src="img/live/football.png"  class="liveIcons"></a>
+                    <center>
+                        <a href = "Football.php"><img src="img/live/football.png"  class="liveIcons"></a>
+                    </center>
                 </div>
             </div>
-            <p></p>
-            <p><a href = "Badminton.php">Badminton</a></p>
-            <p><a href = "Basketball.php">Basketball</a></p>
-            <p><a href = "Chess.php">Chess</a></p>
-            <p><a href = "Cricket.php">Cricket</a></p>
-            <p><a href = "Football.php">Football</a></p>
+            
+            <div class="row">
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Hockey.php"><img src="img/live/hockeyy-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Powerlifting.php"><img src="img/live/badminton-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Snooker.php"><img src="img/live/snoker-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Squash.php"><img src="img/live/squash-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "TableTennis.php"><img src="img/live/TABLE%20TENNIS-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Taekwondo.php"><img src="img/live/taekwondo-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+            </div>
             <p><a href = "Hockey.php">Hockey</a></p>
             <p><a href = "Powerlifting.php">Powerlifting</a></p>
             <p><a href = "Snooker.php">Snooker</a></p>
