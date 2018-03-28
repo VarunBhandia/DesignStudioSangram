@@ -66,7 +66,7 @@
                 </div>
                 <div class="col-md-2 col-xs-6">
                     <center>
-                        <a href = "Powerlifting.php"><img src="img/live/badminton-01.png"  class="liveIcons"></a>
+                        <a href = "Powerlifting.php"><img src="img/live/POWERLIFT-01.png"  class="liveIcons"></a>
                     </center>
                 </div>
                 <div class="col-md-2 col-xs-6">
@@ -90,16 +90,27 @@
                     </center>
                 </div>
             </div>
-            <p><a href = "Hockey.php">Hockey</a></p>
-            <p><a href = "Powerlifting.php">Powerlifting</a></p>
-            <p><a href = "Snooker.php">Snooker</a></p>
-            <p><a href = "Squash.php">Squash</a></p>
-            <p><a href = "TableTennis.php">Table Tennis</a></p>
-            <p><a href = "Taekwondo.php">Taekwondo</a></p>
-            <p><a href = "Tennis.php">Tennis</a></p>
-            <p><a href = "Volleyball.php">Volleyball</a></p>
-            <p><a href = "Weightlifting.php">Weightlifting</a></p>
-            <p><a href = "Yoga.php">Yoga</a></p>
+            
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Tennis.php"><img src="img/live/l%20tennis-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Volleyball.php"><img src="img/live/volley-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-2 col-xs-6">
+                    <center>
+                        <a href = "Weightlifting.php"><img src="img/live/weightlift-01.png"  class="liveIcons"></a>
+                    </center>
+                </div>
+                <div class="col-md-3"></div>
+
+            </div>
         </div>
 
         
