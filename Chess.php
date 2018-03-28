@@ -24,7 +24,7 @@
     <?php include("navbar.php"); ?>
     <div class="container">
         <div style="margin-top:10em;">
-          
+          <iframe src="https://worldatsports.appspot.com/widget_tournament/6702135051812864" width="100%" height="800px"></iframe>
         </div>
 
         

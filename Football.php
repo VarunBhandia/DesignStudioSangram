@@ -25,7 +25,7 @@
     <div class="container">
         <div style="margin-top:10em;">
       <center>
-            <iframe src="https://worldatsports.appspot.com/widget_tournament/6207634260623360"width="100%" height="600em"></iframe>
+            <iframe src="https://worldatsports.appspot.com/widget_tournament/6207634260623360" width="100%" height="600em"></iframe>
             </center>
         </div>
 
