@@ -246,15 +246,13 @@ margin-right: 2.5em;
 
 @media only screen and (max-width: 500px) {
     .right {
-        margin-top: 0em;
-    padding-right: 4em;
-    float: right;
-    font-family: 'Montserrat', sans-serif;    
+    margin-top: 0em;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1.3em;
     font-weight: 500;
     letter-spacing: 0.2px;
-    text-align: right;
-    color: #ffffff;
+    text-align: center;
+    color: black;
     }
 }
 

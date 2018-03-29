@@ -106,7 +106,7 @@ $(window).scroll(function(){
             <center>
                 <p class="register_text">
                             <a href="https://drive.google.com/drive/u/0/folders/1GZaJa1MhhIcqWN8DASv7fQhz2gyXd2LK" target="_blank">
-                                FIXTURE</a></p>
+                                FIXTURES</a></p>
             </center>
                         
     </div>
