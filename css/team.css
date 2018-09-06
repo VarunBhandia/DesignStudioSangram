@@ -1,35 +1,35 @@
 .teamheader{
- 
-  padding-top: 4em;
-font-family: 'Montserrat', sans-serif;  font-size: 2.5em;
-  font-weight: 600;
-  color: #3f76e3;
-  padding-bottom: .5em;}
 
-  .teamType{
-    padding-left: 1em;
-    padding-top: 6em;
-font-family: 'Montserrat', sans-serif;    font-size: 2em;
+    padding-top: 4em;
+    font-family: 'Montserrat', sans-serif;  font-size: 2.5em;
     font-weight: 600;
     color: #3f76e3;
-  }
+    padding-bottom: .5em;}
+
+.teamType{
+    padding-left: 1em;
+    padding-top: 6em;
+    font-family: 'Montserrat', sans-serif;    font-size: 2em;
+    font-weight: 600;
+    color: #3f76e3;
+}
 
 .line_team{
 
-  width: 96%;
-  height: 2px;
-  opacity: 0.7;
-  background-color: #3f76e3;
+    width: 96%;
+    height: 2px;
+    opacity: 0.7;
+    background-color: #3f76e3;
 }
 
 @media only screen and (max-width: 500px) {
-.line_team{
-  margin-left: 4em;
-  width: 78%;
-  height: 2px;
-  opacity: 0.7;
-  background-color: #3f76e3;
-}
+    .line_team{
+        margin-left: 4em;
+        width: 78%;
+        height: 2px;
+        opacity: 0.7;
+        background-color: #3f76e3;
+    }
 }
 
 .thumbnail_team{
@@ -41,70 +41,70 @@ font-family: 'Montserrat', sans-serif;    font-size: 2em;
 
 
 @media only screen and (max-width: 500px){
-.thumbnail_team {
-    width: 20em;
-    margin-top: 3em;
-    margin-left: 1em;
-    height: 30em;
+    .thumbnail_team {
+        width: 20em;
+        margin-top: 3em;
+        margin-left: 1em;
+        height: 30em;
     }}
 
 .team_image{
     width: 100%;
     height: 75%;
     border: 2px solid #3f76e3;
-/*    border-radius: 50%;*/
+    /*    border-radius: 50%;*/
 }
 
 .team_content{
     padding-bottom: 1em;
     background-color: #3f76e3;
-font-family: 'Montserrat', sans-serif;  font-size: 18.1px;
-  font-weight: 500;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: 0.5px;
-  color: #ffffff;
+    font-family: 'Montserrat', sans-serif;  font-size: 18.1px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #ffffff;
 }
 
 .post_team{
-font-family: 'Montserrat', sans-serif;  font-size: .8em;
-  font-weight: 500;
-  letter-spacing: 0.5px;
-  color: #ffffff;
+    font-family: 'Montserrat', sans-serif;  font-size: .8em;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    color: #ffffff;
 }
 
 .name_team{
     padding-top: 1em;
-font-family: 'Montserrat', sans-serif;  font-size: 1em;
-  font-weight: 500;
-  letter-spacing: 0.5px;
-  color: #ffffff;
-}
-
-@media only screen and (max-width: 500px){
-.name_team {
-    padding-top: 1em;
-font-family: 'Montserrat', sans-serif;    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;  font-size: 1em;
     font-weight: 500;
     letter-spacing: 0.5px;
     color: #ffffff;
-    }
-
-.name_team_faculty{
-    padding-bottom: 1em;
-    padding-top: 1em;
-font-family: 'Montserrat', sans-serif;  font-size: 1em;
-  font-weight: 500;
-  letter-spacing: 0.5px;
-  color: #ffffff;
 }
 
 @media only screen and (max-width: 500px){
-.name_team_faculty {
-    padding-top: 2em;
-font-family: 'Montserrat', sans-serif;    font-size: 1em;
-    font-weight: 500;
-    letter-spacing: 0.5px;
-    color: #ffffff;
+    .name_team {
+        padding-top: 1em;
+        font-family: 'Montserrat', sans-serif;    font-size: 1em;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
     }
+
+    .name_team_faculty{
+        padding-bottom: 1em;
+        padding-top: 1em;
+        font-family: 'Montserrat', sans-serif;  font-size: 1em;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        color: #ffffff;
+    }
+
+    @media only screen and (max-width: 500px){
+        .name_team_faculty {
+            padding-top: 2em;
+            font-family: 'Montserrat', sans-serif;    font-size: 1em;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            color: #ffffff;
+        }
