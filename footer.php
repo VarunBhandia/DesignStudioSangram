@@ -4,7 +4,7 @@
                 <div class="row">
                     <div class="col-md-1"></div>
                     <div class="col-md-10">
-                        <img src="img/combined.png" alt="sangram'18" class="footerlogo">
+                        <img src="img/combined.png" alt="sangram'19" class="footerlogo">
                     </div>
                     <div class="col-md-1"></div>
                 </div>
@@ -33,8 +33,8 @@
                     </div>
                     <div class="col-xs-8">
                         <div class="address">
-                            sangram18@iitr.ac.in<br>
-<!--                            sangram18.iitr@gmail.com-->
+                            sangram19@iitr.ac.in<br>
+<!--                            sangram19.iitr@gmail.com-->
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                     </div>
                     <div class="col-xs-8">
                         <div class="address">
-                            Sumit Yadav<br> +91 80064 78565                                  
+                           Abhinav Chillar <br> +91 74550 53340                                 
                         </div>
                     </div>
                 </div>

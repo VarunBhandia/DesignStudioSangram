@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Sangram | 2018</title>
+        <title>Sangram | 2019</title>
         <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,900" rel="stylesheet">
         <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a four day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.">
-        <meta name="keywords" content="sports, sports fest, engineering, study, fest, engineers, technical, iit ,iit roorkee ,roorkee ,uttrakhand ,Varun Bhandia ,sangram18 ,sangramiitr.in">
+        <meta name="keywords" content="sports, sports fest, engineering, study, fest, engineers, technical, iit ,iit roorkee ,roorkee ,uttrakhand ,Varun Bhandia ,sangram19 ,sangramiitr.in">
         <meta name="author" content="Varun Bhandia">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -60,8 +60,8 @@
                                 <span class="icon-bar" style="background-color:white;"></span>                        
                             </button>
                             <ul class="nav navbar-nav">
-                                <li class="leftlogo"><a href="index.php"><img src="img/logo.png" alt="Sangram'18 Logo" class="logo"> </a></li>
-                                <li class="leftlogo"><a href="#"><img src="img/iitr_logo.png" alt="Sangram'18 Logo" class="iitr_logo"> </a></li>
+                                <li class="leftlogo"><a href="index.php"><img src="img/logo.png" alt="Sangram'19 Logo" class="logo"> </a></li>
+                                <li class="leftlogo"><a href="#"><img src="img/iitr_logo.png" alt="Sangram'19 Logo" class="iitr_logo"> </a></li>
                             </ul>
                         </div>
                         <div class="collapse1 navbar-collapse1" id="myNavbar">
@@ -118,7 +118,7 @@
             <div class="col-md-2"></div>
             <div class="col-md-8">
                 <div class="right">
-                    29th March - 1st April<br>
+                    1st March - 3rd April<br>
                     Annual Sports Fest IIT Roorkee
                 </div>
             </div>
@@ -144,7 +144,7 @@
                     <div class="aboutcontent">
                         Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a four day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.
                         Our IIT Roorkee teams, along with the alumni teams participate in each sport to exhibit their sports skill. Sangram is devoted in creating a customized and unforgettable experience for each and every visitor, simultaneously providing unique opportunities to the youth for showcasing their talents in front of extremely large and enthusiastic audience and top notch judges with a behemoth footfall of more than 1500 students, comprising several IITs and NITs. An assortment of intriguing events held in venues across our campus, is something to cater to all tastes. Plethoras of events are hosted, accompanied by informal events like sports quiz , marathon becoming the abode of this ambrosial combination.
-                        Sangram’18 promises to be an exhilarating experience from beginning to end.
+                        Sangram’19 promises to be an exhilarating experience from beginning to end.
                     </div>
 
                 </div>
@@ -152,7 +152,7 @@
                 </div>
             </div>
         </div>
-        <p class="trailorheader">SANGRAM 2K18 | TRAILER</p>
+        <p class="trailorheader">SANGRAM 2K19 | TRAILER</p>
         <center>
             <iframe width="75%" height="700" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="desktop"></iframe>
             <iframe width="90%" height="200" src="https://www.youtube.com/embed/HqiB6Vl-T-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="mobile"></iframe>
