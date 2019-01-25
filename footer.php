@@ -33,8 +33,8 @@
                     </div>
                     <div class="col-xs-8">
                         <div class="address">
-                            sangram19@iitr.ac.in<br>
-<!--                            sangram19.iitr@gmail.com-->
+<!--                            sangram19@iitr.ac.in<br>-->
+                            sangram19.iitr@gmail.com
                         </div>
                     </div>
                 </div>
