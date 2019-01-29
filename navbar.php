@@ -14,17 +14,16 @@
                           </button>
                             <ul class="nav navbar-nav">
                             <li class="leftlogo"><a href="index.php"><img src="img/vector-smart-object-5.png" alt="Sangram'19 Logo" class="logo"> </a></li>
-                            <li class="leftlogo"><a href="#"><img src="img/untitled-1-copy-2.png" alt="Sangram'19 Logo" class="iitr_logo"> </a></li>
+                            <li class="leftlogo"><a href="index.php"><img src="img/untitled-1-copy-2.png" alt="Sangram'19 Logo" class="iitr_logo"> </a></li>
                         </ul>
                                 </div>
                         <div class="collapse navbar-collapse" id="myNavbar">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class=""><a href="index.php#about" class="navbar_link nav-items">ABOUT US</a></li>
+                                <li class=""><a href="about_us.php" class="navbar_link nav-items">ABOUT US</a></li>
                                 <li class=""><a href="events.php" class="navbar_link nav-items">EVENTS</a></li>
                                 <li class=""><a href="sponsors.php" class="navbar_link nav-items">SPONSORS</a></li>
                                 <li class=""><a href="team.php" class="navbar_link nav-items">TEAM</a></li>
-                                <!-- <li class=""><a href="liveScores.php" class="navbar_link nav-items">LIVE SCORE</a></li> -->
-                                <li class=""><a href="index.php#footer_index" class="padding14 navbar_link nav-items">CONTACT US</a></li>
+                                <li class=""><a href="contact_us.php" class="padding14 navbar_link nav-items">CONTACT US</a></li>
                             </ul>
                         </div>
                     </div>
