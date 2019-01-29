@@ -34,8 +34,6 @@
 
         <script>
 
-            // This example displays a marker at the center of Australia.
-            // When the user clicks the marker, an info window opens.
 
             function initMap() {
                 var india = {lat:24.92629    , lng: 78.44238};
@@ -236,7 +234,6 @@
                 marker3.addListener('mouseout', function() {
                     info3.close(map, marker3);
                 });
-                //////////////////////////////////////////////////////////////////
 
                 var info4 = new google.maps.InfoWindow({
                     content: desc_mitindore
@@ -245,7 +242,6 @@
                 var marker4 = new google.maps.Marker({
                     position: mitindore,
                     map: map,
-                    //          title: 'MIT Indore'
                 });
                 marker4.addListener('mouseover', function() {
                     info4.open(map, marker4);
@@ -254,7 +250,6 @@
                 marker4.addListener('mouseout', function() {
                     info4.close(map, marker4);
                 });
-                /////////////////////////////////////////////////////////////////  
 
                 var info5 = new google.maps.InfoWindow({
                     content: desc_pilani
@@ -263,7 +258,6 @@
                 var marker5 = new google.maps.Marker({
                     position: pilani,
                     map: map,
-                    //          title: 'MIT Indore'
                 });
                 marker5.addListener('mouseover', function() {
                     info5.open(map, marker5);
@@ -273,7 +267,6 @@
                     info5.close(map, marker5);
                 });
 
-                ///////////////////////////////////////////////////////////////
                 var info6 = new google.maps.InfoWindow({
                     content: desc_kurukshetra
                 });
@@ -281,7 +274,6 @@
                 var marker6 = new google.maps.Marker({
                     position: kurukshetra,
                     map: map,
-                    //          title: 'MIT Indore'
                 });
                 marker6.addListener('mouseover', function() {
                     info6.open(map, marker6);
@@ -290,7 +282,6 @@
                 marker6.addListener('mouseout', function() {
                     info6.close(map, marker6);
                 });
-                //////////////////////////////////////////////////////////////////////  
                 var info7 = new google.maps.InfoWindow({
                     content: desc_dtu
                 });
@@ -298,7 +289,6 @@
                 var marker7 = new google.maps.Marker({
                     position: dtu,
                     map: map,
-                    //          title: 'MIT Indore'
                 });
                 marker7.addListener('mouseover', function() {
                     info7.open(map, marker7);
@@ -307,7 +297,6 @@
                 marker7.addListener('mouseout', function() {
                     info7.close(map, marker7);
                 });
-                ///////////////////////////////////////////////////////////////////////  
                 var info8 = new google.maps.InfoWindow({
                     content: desc_ymca
                 });
@@ -315,7 +304,6 @@
                 var marker8 = new google.maps.Marker({
                     position: ymca,
                     map: map,
-                    //          title: 'MIT Indore'
                 });
                 marker8.addListener('mouseover', function() {
                     info8.open(map, marker8);
@@ -324,7 +312,6 @@
                 marker8.addListener('mouseout', function() {
                     info8.close(map, marker8);
                 });
-                ////////////////////////////////////////////////////////////////////  
                 var info9 = new google.maps.InfoWindow({
                     content: desc_jalandhar
                 });
@@ -332,7 +319,6 @@
                 var marker9 = new google.maps.Marker({
                     position: jalandharNit,
                     map: map,
-                    //          title: 'MIT Indore'
                 });
                 marker9.addListener('mouseover', function() {
                     info9.open(map, marker9);
@@ -341,7 +327,6 @@
                 marker9.addListener('mouseout', function() {
                     info9.close(map, marker9);
                 });
-                ///////////////////////////////////////////////////////////////////  
                 var info11 = new google.maps.InfoWindow({
                     content: desc_jodhpur
                 });
@@ -349,7 +334,6 @@
                 var marker11 = new google.maps.Marker({
                     position: IITjodhpur,
                     map: map,
-                    //          title: 'MIT Indore'
                 });
                 marker11.addListener('mouseover', function() {
                     info11.open(map, marker11);
@@ -358,7 +342,7 @@
                 marker11.addListener('mouseout', function() {
                     info11.close(map, marker11);
                 });
-                ////////////////////////////////////////////////////////////////////  
+
                 var info10 = new google.maps.InfoWindow({
                     content: desc_mandi
                 });
@@ -366,7 +350,6 @@
                 var marker10 = new google.maps.Marker({
                     position: IITmandi,
                     map: map,
-                    //          title: 'MIT Indore'
                 });
                 marker10.addListener('mouseover', function() {
                     info10.open(map, marker10);
@@ -377,7 +360,7 @@
                 });
 
 
-                /////////////////////////////////////////////////////////////////////
+
 
 
 
