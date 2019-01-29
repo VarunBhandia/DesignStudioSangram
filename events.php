@@ -63,8 +63,8 @@
                             <div class="row view_rules">
                                 <div class="col-md-6 col-xs-12">
 
-                                <p class="event_contact">Saurav Sharma:</p>
-                                    <p class="event_contact">81261 54266</p>
+                                <p class="event_contact"> </p>
+                                    <p class="event_contact"> </p>
 
                                 </div>
 
@@ -92,8 +92,8 @@
                             <div class="row view_rules">
                                 <div class="col-md-6  col-xs-12" >
 
-                                <p class="event_contact">Samriddh:</p>
-                                    <p class="event_contact">87551 43769</p>
+                                <p class="event_contact"> </p>
+                                    <p class="event_contact"> </p>
 
                                 </div>
 
@@ -117,8 +117,8 @@
                             <div class="row view_rules">
                                 <div class="col-md-6  col-xs-12">
 
-                                <p class="event_contact">Vivek Verma:</p>
-                                    <p class="event_contact">94105 63495</p>
+                                <p class="event_contact"> </p>
+                                    <p class="event_contact"> </p>
 
                                 </div>
 
@@ -144,8 +144,8 @@
                             <div class="row view_rules">
                                 <div class="col-md-6">
 
-                                <p class="event_contact">Ashish Kumar:</p>
-                                    <p class="event_contact">98892 27228</p>
+                                <p class="event_contact"> </p>
+                                    <p class="event_contact"> </p>
 
                                 </div>
 
@@ -169,8 +169,8 @@
                             <div class="row view_rules">
                                 <div class="col-md-6  col-xs-12">
 
-                                <p class="event_contact">Rishabh:</p>
-                                    <p class="event_contact">72172 16228</p>
+                                <p class="event_contact"> </p>
+                                    <p class="event_contact"> </p>
 
                                 </div>
 
@@ -195,8 +195,8 @@
                         <div class="row view_rules">
                            <div class="col-md-6  col-xs-12">
 
-                            <p class="event_contact">Vishvendra:</p>
-                                <p class="event_contact">82197 21281</p>
+                            <p class="event_contact"> </p>
+                                <p class="event_contact"> </p>
 
                             </div>
 
@@ -222,8 +222,8 @@
                         <div class="row view_rules">
                             <div class="col-md-6  col-xs-12">
 
-                            <p class="event_contact">Jogesh Kumar:</p>
-                                <p class="event_contact">80064 64357</p>
+                            <p class="event_contact"> </p>
+                                <p class="event_contact"> </p>
 
                             </div>
 
@@ -249,8 +249,8 @@
                         <div class="row view_rules">
                             <div class="col-md-6  col-xs-12">
 
-                            <p class="event_contact">Surya Dev Laroia:</p>
-                                <p class="event_contact">81717 81255</p>
+                            <p class="event_contact"> </p>
+                                <p class="event_contact"> </p>
 
                             </div>
 
@@ -274,8 +274,8 @@
                         <div class="row view_rules">
                             <div class="col-md-4 col-xs-12">
 
-                            <p class="event_contact">Ronak:</p>
-                                <p class="event_contact">87551 44159</p>
+                            <p class="event_contact"> </p>
+                                <p class="event_contact"> </p>
 
                             </div>
 
@@ -301,8 +301,8 @@
                         <div class="row view_rules">
                              <div class="col-md-6  col-xs-12">
 
-                            <p class="event_contact">Madhvendra Pratap:</p>
-                                <p class="event_contact">81920 11020</p>
+                            <p class="event_contact"> </p>
+                                <p class="event_contact"> </p>
 
                             </div>
 
@@ -326,8 +326,8 @@
                         <div class="row view_rules">
                            <div class="col-md-6  col-xs-12">
 
-                            <p class="event_contact">Sanjay Mishra:</p>
-                                <p class="event_contact">73517 71241</p>
+                            <p class="event_contact"> </p>
+                                <p class="event_contact"> </p>
 
                             </div>
 
@@ -354,8 +354,8 @@
                         <div class="row view_rules">
                             <div class="col-md-6  col-xs-12">
 
-                            <p class="event_contact">Praveen:</p>
-                                <p class="event_contact">87551 55007</p>
+                            <p class="event_contact"> </p>
+                                <p class="event_contact"> </p>
 
                             </div>
 
@@ -379,8 +379,8 @@
                             <div class="row view_rules">
                                 <div class="col-md-6 col-xs-12">
 
-                                <p class="event_contact">Sandeep:</p>
-                                    <p class="event_contact">95579 10567</p>
+                                <p class="event_contact"> </p>
+                                    <p class="event_contact"> </p>
 
                                 </div>
 
@@ -407,8 +407,8 @@
                             <div class="row view_rules">
                                 <div class="col-md-6  col-xs-12">
 
-                                <p class="event_contact">Dheerendra Meena:</p>
-                                    <p class="event_contact">94563 19176</p>
+                                <p class="event_contact"> </p>
+                                    <p class="event_contact"> </p>
 
                                 </div>
 
@@ -422,31 +422,7 @@
                             </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-xs-12">
-                    <div class="thumbnail_events">
-                        <div class="event_image"><img src="img/web/yoga-to-wake-up.png" style="width: 100%;"></div>
-                        <div class="event_content">
-                            <p class="name_event">YOGA</p>
-                            <p class="post_event">Derived from the Sanskrit word, ‘Yuj’ which means union, yoga is the union mind and body to achieve wisdom, peace and harmony. Celebrating the Indian art and legacy of yoga in IITR, Sangram brings to its participants the well-known and world famous sport to Roorkee's grounds.</p>
-                        </div>
-                            <div class="row view_rules">
-                                <div class="col-md-6  col-xs-12">
-
-                                <p class="event_contact">Shubham Gupta:</p>
-                                    <p class="event_contact">80066 39074</p>
-
-                                </div>
-
-                                <div class="col-md-6  col-xs-12">
-                                    <div class="rules_button">
-                                         <a href="rules/yoga_rules.pdf" target="_BLANK"><p class="rules_button_content">
-                                         View Rules
-                                        </p></a>
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
-                </div>
+             
             </div>
 
     </div>
