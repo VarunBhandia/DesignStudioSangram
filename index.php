@@ -121,15 +121,8 @@
                     Annual Sports Fest IIT Roorkee
                 </div>
             </div>
-            <div class="col-md-2"></div>
-        </div>
-        <div>
-            <div class="col-md-2"></div>
-
-        </div>
-        <div id="footer_index">
-            <?php include("footer.php"); ?>
-        </div>
+            
+        
         </div>
     </body>
 </html>

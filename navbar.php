@@ -13,7 +13,7 @@
                             <span class="icon-bar" style="background-color:black;"></span>                        
                           </button>
                             <ul class="nav navbar-nav">
-                            <li class="leftlogo"><a href="index.php"><img src="img/vector-smart-object-5.png" alt="Sangram'19 Logo" class="logo"> </a></li>
+                            <li class="leftlogo"><a href="index.php"><img src="img/Sangram19.1 black logo.png" alt="Sangram'19 Logo" class="logo"> </a></li>
                             <li class="leftlogo"><a href="index.php"><img src="img/untitled-1-copy-2.png" alt="Sangram'19 Logo" class="iitr_logo"> </a></li>
                         </ul>
                                 </div>

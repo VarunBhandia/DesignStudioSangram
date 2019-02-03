@@ -3,7 +3,7 @@
 <head>
     <title>Events</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,900" rel="stylesheet">
-    <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="img/Sangram19.1 black logo.png" type="image/x-icon">
     <meta charset="utf-8">
     <meta name="description" content="Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a four day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.">
     <meta name="keywords" content="sports, sports fest, engineering, study, fest, engineers, technical, iit ,iit roorkee ,roorkee ,uttrakhand ,Varun Bhandia ,sangram19 ,sangramiitr.in">
@@ -37,8 +37,8 @@
                             <div class="row view_rules">
                                 <div class="col-md-6 col-xs-12">
 
-                                  <p class="event_contact">Harsh Jindal:</p>
-                                  <p class="event_contact">7253046159</p>
+                                  <p class="event_contact"> </p>
+                                  <p class="event_contact"> </p>
 
                                   </div>
 

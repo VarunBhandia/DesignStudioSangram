@@ -344,7 +344,7 @@ display: none;    }
 }
 
 .participants1{
-       padding-left: 5.6em;
+    padding-left: 5.6em;
     padding-top: 3em;
     font-family: 'Montserrat', sans-serif;
     font-size: 2em;
@@ -354,7 +354,7 @@ display: none;    }
     
 @media only screen and (max-width: 500px) {
 .participants1{
-        padding-top: 2em;
+    padding-top: 2em;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.3em;
     font-weight: 600;
@@ -407,7 +407,7 @@ padding-top: 2em;
 }
 
     .map1{
-        height:600px;
+        height:400px;
         width:75%;
     }
     
