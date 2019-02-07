@@ -18,6 +18,7 @@
     </head>
     <body>
         <?php include("navbar.php"); ?>
+        <?php include("footer.php"); ?>
         <div class="container-fluid">
             <p class="participants1">PARTICIPANTS ACROSS INDIA</p>
             <div class="col-md-12 col-xs-12">
@@ -27,7 +28,7 @@
 
         </div>
         <center>
-            <div id="map" class="map1">
+            <div id="map" class="map1" >
             </div>
         </center>
 
@@ -290,8 +291,9 @@
                 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5dzfrK39AYwDeI-WHMCeG2it8lTUllmk&callback=initMap">
         </script>
 </div>
+<div style ="margin-top :30em;"></div>
        
-        <?php include("footer.php"); ?>
+
     </body>
 </html>
 

@@ -45,7 +45,7 @@
 
 
     </head>
-    <body >
+    <body style="overflow:hidden;" >
         <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10">
@@ -94,11 +94,11 @@
                 }
             });</script>
 
-        <video autoplay muted loop class="myVideo">
+        <video autoplay muted loop class="myVideo" style="background-size: 100%; background-position: cover; min-height: 100%">
             <source src="img/animated.mp4" type="video/mp4">
             Your browser does not support HTML5 video.
         </video>
-        <div class="row">
+        <div class="row" style="margin-top: -30px;">
             <div class="col-md-2"></div>
             <div class="col-md-8">
                 <div class="register">
@@ -113,16 +113,18 @@
             </div>
             <div class="col-md-2"></div>
         </div>
-        <div class="row">
+        <div class="row" >
             <div class="col-md-2"></div>
             <div class="col-md-8">
                 <div class="right">
                     1st March - 3rd March <br>
                     Annual Sports Fest IIT Roorkee
                 </div>
+                
             </div>
             
         
         </div>
+ 
     </body>
 </html>

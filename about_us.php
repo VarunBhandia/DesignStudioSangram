@@ -19,14 +19,14 @@
     <body>
         <?php include("navbar.php"); ?>
 
-        <div class="about">
+        <div class="about" style="margin-top:10em;">
             <div class="row">
                 <div class="col-md-5 col-xs-8 ">
                     <img src="img/group-25-new.jpg" class="aboutimage">
                 </div>
                 <div class="col-md-7 col-xs-12">
                     <div class="row">
-                        <div class="col-md-8 col-xs-12 aboutheader">
+                        <div class="col-md-8 col-xs-12 aboutheader" >
                             <b>ABOUT US</b></div>
                         <div class="col-md-4 col-xs-12 rectabout"></div>
                     </div>

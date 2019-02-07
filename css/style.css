@@ -179,6 +179,7 @@ height: 26em;    }
 .myVideo{
     margin-top: -1em;
     width: 100%;
+    background-size: 0%;
 }
 
 @media only screen and (max-width: 500px) {

@@ -27,7 +27,7 @@
         <div class="row" style="margin-top:1.5em;">
             <div class="col-md-1"></div>
             <div class="col-md-10">
-                <div class="teamheader">
+                <div class="teamheader" style="color: #FF7F50;">
                     PREVIOUS SPONSORS
                 </div>
             </div>
@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10">
-                <div class="line_team"></div> 
+                <div class="line_team" ></div> 
             </div>
             <div class="col-md-1"></div>
         </div>
@@ -45,7 +45,7 @@
                 <div class="row">
                     <div class="col-md-5"></div>
                     <div class="col-md-2">
-                        <div class="sponType" style ="font-size:25px;margin-left:-150px;" >Beverage Partner</div> 
+                        <div class="sponType" style ="font-size:25px;margin-left:-150px;color: #FF7F50" >Beverage Partner</div> 
                     </div>
                     <div class="col-md-5"></div>
                 </div>
@@ -69,7 +69,7 @@
                 <div class="row">
                     <div class="col-md-5"></div>
                     <div class="col-md-2">
-                        <div class="sponType" style ="font-size:25px; margin-left:-150px;">Social Initiatives Partner</div> 
+                        <div class="sponType" style ="font-size:25px; margin-left:-150px; color: #FF7F50">Social Initiatives Partner</div> 
                     </div>
                     <div class="col-md-5"></div>
                 </div>
@@ -97,7 +97,7 @@
                 <div class="row">
                     <div class="col-md-5"></div>
                     <div class="col-md-2">
-                        <div class="sponType"  style ="font-size:25px;margin-left:-150px;">Technology Partner</div> 
+                        <div class="sponType"  style ="font-size:25px;margin-left:-150px; color: #FF7F50">Technology Partner</div> 
                     </div>
                     <div class="col-md-5"></div>
                 </div>
@@ -162,7 +162,7 @@
                 <div class="row">
                     <div class="col-md-5"></div>
                     <div class="col-md-2">
-                        <div class="sponType"  style ="font-size:25px;margin-left:-150px;">Food Partners</div> 
+                        <div class="sponType"  style ="font-size:25px;margin-left:-150px;color: #FF7F50">Food Partners</div> 
                     </div>
                     <div class="col-md-5"></div>
                 </div>
