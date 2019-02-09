@@ -19,7 +19,8 @@
     font-size: 32px;
     color: #FF7F50;
     font-display: bold;
-    padding-left: 30px;
+ 
+    text-align: center;
 }
 
 .line_team{
@@ -43,6 +44,7 @@
 .thumbnail_team{
     margin-top: 6em;
     margin-left: 4em;
+    margin-right: 1em;
     height: 35em;
     width: 21em;}
 

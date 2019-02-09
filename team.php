@@ -246,9 +246,7 @@
               <div class="col-md-4 col-xs-12">
                 
                   <div class="thumbnail_team">
-                  <div class="col-md-12 col-xs-12">
                     <p class="head_type"> Head Promotion</p>
-                    </div>
                   <img src="img/saurav_.jpg"  class="team_image">
                       <center>
                       <div class="team_content" >
@@ -267,9 +265,7 @@
                     <div class="col-md-4 col-xs-12">
                 
                   <div class="thumbnail_team">
-                  <div class="col-md-12 col-xs-12">
                   <p class="head_type"> Head Design</p>
-                  </div>
                   <img src="img/vipin12_.jpg"  class="team_image">
                       <center>
                       <div class="team_content">
