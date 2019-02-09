@@ -246,7 +246,7 @@
               <div class="col-md-4 col-xs-12">
                 
                   <div class="thumbnail_team">
-                    <p class="head_type"> Head Promotion</p>
+                 
                   <img src="img/saurav_.jpg"  class="team_image">
                       <center>
                       <div class="team_content" >
@@ -265,7 +265,7 @@
                     <div class="col-md-4 col-xs-12">
                 
                   <div class="thumbnail_team">
-                  <p class="head_type"> Head Design</p>
+                 
                   <img src="img/vipin12_.jpg"  class="team_image">
                       <center>
                       <div class="team_content">
@@ -284,7 +284,7 @@
                     <div class="col-md-4 col-xs-12">
                 
                   <div class="thumbnail_team">
-                  <p class="head_type"> Head Sponser</p>
+                
                   <img src="img/sumitj12_.jpg" class="team_image">
                       <center>
                       <div class="team_content">
