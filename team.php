@@ -107,7 +107,7 @@
                           <div class="team_content" >
                             <p class="name_team" >Vardan Bapna</p>
                             <a href="https://www.facebook.com/vardan.bapna" target="_blank"> <img src="img/fb_new.png" class="fb_image"></a>
-                            <a href="https://www.facebook.com/vardan.bapna" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
+                            <a href="https://www.linkedin.com/in/vardanbapna/" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
                             <div class="phone" >
                               <img src='img/number.png'class="phone_image" >+91 97608-35380
                               <!--<p class="post_team">+91 976-083-5380</p>-->
@@ -138,7 +138,7 @@
                         <div class="team_content" >
                             <p class="name_team">Arbab Zohaib</p>
                             <a href="https://www.facebook.com/arban.zohaib" target="_blank"><img src="img/fb_new.png" class="fb_image"></a>
-                            <a href="https://www.facebook.com/arban.zohaib" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
+                            <a href="https://www.linkedin.com/in/arbab-zohaib-24aa3913b/" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
                             <!--<p class="post_team">+91 721-725-9085</p>-->
                             <div class="phone" >
                               <img src='img/number.png'class="phone_image" >+91 99345-00286
@@ -186,7 +186,7 @@
                          
                               <p class="name_team">Mahipal Singh Bhati</p>
                               <a href="https://www.facebook.com/mahipalsingh.bhati.50" target="_blank"><img src="img/fb_new.png" class="fb_image"></a>
-                              <a href="https://www.facebook.com/mahipalsingh.bhati.50" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
+                              <a href="https://www.linkedin.com/in/mahipal-singh-bhati-615330128/" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
                               <div class="phone" >
                                 <img src='img/number.png'class="phone_image" >+91 81710-32109
                               </div>
@@ -213,7 +213,7 @@
                 <div class="col-md-12 col-xs-12">
                   <center>
                     <div class="thumbnail_team">
-                    <img src="img/abhinav12_.jpg" class="team_image">
+                    <img src="img/chillar12_.jpg" class="team_image">
                         <center>
                         <div class="team_content" >
                             <p class="name_team">Abhinav Chillar</p>
@@ -247,7 +247,7 @@
                 
                   <div class="thumbnail_team">
                  
-                  <img src="img/saurav_.jpg"  class="team_image">
+                  <img src="img/saurav_new12_.jpg"  class="team_image">
                       <center>
                       <div class="team_content" >
                           <p class="name_team">Saurav Sharma</p>
@@ -271,7 +271,7 @@
                       <div class="team_content">
                           <p class="name_team">Vipin Meena</p>
                           <a href="https://www.facebook.com/vipin.meena1468" target="_blank"><img src="img/fb_new.png" class="fb_image"></a>
-                          <a href="https://www.facebook.com/vipin.meena1468" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
+                          <a href="https://www.linkedin.com/in/vipin-meena-52bb0b144/" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
                           <div class="phone" >
                             <img src='img/number.png'class="phone_image" >+91 81717-82069
                           </div>
