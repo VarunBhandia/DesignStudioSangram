@@ -16,34 +16,32 @@
         <link rel="stylesheet" href="css/style.css">
 
     </head>
-    <body>
+    <body class="blackBody">
         <?php include("navbar.php"); ?>
 
-        <div class="about" style="margin-top:10em;">
+<div class="container messi">
+        <div class="about">
             <div class="row">
-                <div class="col-md-5 col-xs-8 ">
-                    <img src="img/group-25-new.jpg" class="aboutimage">
-                </div>
-                <div class="col-md-7 col-xs-12">
-                    <div class="row">
-                        <div class="col-md-8 col-xs-12 aboutheader" >
-                            <b>ABOUT US</b></div>
-                        <div class="col-md-4 col-xs-12 rectabout"></div>
-                    </div>
-                    <div class="grey"></div>
+                        <div class="col-md-6 col-xs-12 aboutheader" >
+                            <b>ABOUT US</b>
+                        </div>
+                        <div class="col-md-6 col-xs-12 rectabout"></div>
 
-                    <div class="aboutcontent">
+                    </div>
+                    </div>
+
+<div class="row">
+
+<div class="col-md-8">                    
+    <div class="aboutcontent">
                         Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a four day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.
                         Our IIT Roorkee teams, along with the alumni teams participate in each sport to exhibit their sports skill. Sangram is devoted in creating a customized and unforgettable experience for each and every visitor, simultaneously providing unique opportunities to the youth for showcasing their talents in front of extremely large and enthusiastic audience and top notch judges with a behemoth footfall of more than 1500 students, comprising several IITs and NITs. An assortment of intriguing events held in venues across our campus, is something to cater to all tastes. Plethoras of events are hosted, accompanied by informal events like sports quiz , marathon becoming the abode of this ambrosial combination.
                         Sangram’19 promises to be an exhilarating experience from beginning to end.
                     </div>
 
-                </div>
-                <div>
-                </div>
-            </div>
-        </div>
-       
+       </div>
+       </div>
+       </div>
         <?php include("footer.php"); ?>
     </body>
 </html>

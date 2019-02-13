@@ -34,20 +34,31 @@ font-family: 'Montserrat', sans-serif;    font-size: 1.5em;
 
 
 .thumbnail_events{
+    transition: .2s;
     height: 53em;
     padding-bottom: 1em;
     margin-top: 6em;
     margin-left: 4em;
-    background-color: white;
-    border: solid 1px	#FF7F50;}
+    background-color: #000000;
+   }
+
+   .thumbnail_events:hover{
+       box-shadow: 1px 0px 20px 15px rgba(237, 233, 233, 0.06);
+    height: 53em;
+    padding-bottom: 1em;
+    margin-top: 6em;
+    margin-left: 4em;
+    background-color: #000000;
+   }
 
 @media only screen and (max-width: 500px) {
 .thumbnail_events{
     margin-top: 3em;
     margin-left: 1em;
     background-color: white;
-    border: solid 1px #FF7F50;
+    border: solid 1px #3f76e3;
     height: 59em;
+
     }}
 
 .event_image{
@@ -82,7 +93,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 1.3em;
     font-weight: bold;
     font-stretch: normal;
     letter-spacing: 0.5px;
-    color: #FF7F50;
+    color: #3f76e3;
 }
 
 .post_event{
@@ -92,7 +103,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
     line-height: 1.89;
     letter-spacing: 0.4px;
     text-align: justify;
-    color: rgba(0, 0, 0, 0.72);
+    color: #ebefef;
 }
 
 .rules_button{
@@ -101,9 +112,9 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
     bottom: 0;
 */
     height: 48px;
-    background-color: #fefefe;
+    background-color: black;
     box-shadow: 0px 8px 16.6px 4.4px rgba(64, 63, 63, 0.06);
-    border:1px solid #FF7F50;
+    border:1px solid #3f76e3;
 }
 
 .rules_button_content{
@@ -112,16 +123,16 @@ font-family: 'Montserrat', sans-serif;    font-size: 1.2em;
     font-weight: 500;
     line-height: 2.7;
     letter-spacing: 0.5px;
-    color: #FF7F50;
+    color: #3f76e3;
 }
 .rules_button:hover{
-  border:1px solid  #FF7F50;
-  background-color:  #FF7F50;
+  border:1px solid  #3f76e3;
+  background-color:  #3f76e3;
 
 }
 .rules_button_content:hover{
-  border:1px solid  #FF7F50;
-  background-color:  #FF7F50;
+  border:1px solid  #3f76e3;
+  background-color:  #3f76e3;
   color:#f6f6f6;
 }
 .event_contact{
@@ -132,7 +143,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 1.2em;
     line-height: 1.89;
     letter-spacing: 0.4px;
     text-align: justify;
-    color: rgba(0, 0, 0, 0.72);}
+    color: #ebefef;}
 
 .view_rules{
 /*    position: absolute;*/

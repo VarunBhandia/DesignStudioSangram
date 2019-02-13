@@ -1,6 +1,9 @@
 html{
     overflow-x: hidden;
 }
+.blackBody{
+    background-color: black;
+}
 .logo {
     margin-left: 11em;
 margin-right: -.5em;
@@ -58,6 +61,9 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
     margin-right: 16em;
 }
 
+.aboutImg{
+    width: 100%;
+}
 @media only screen and (max-width: 500px) {
 .padding14{
     margin-right: 0em;
@@ -262,7 +268,9 @@ margin-right: 2.5em;
     }
 }
 
-
+.messi{
+    background-image: url('http://localhost/sangram19/img/Messi.jpg');
+}
 .about{
     margin-top: 7em;
 }
@@ -274,11 +282,12 @@ margin-right: 2.5em;
 
 .aboutheader{
     height: .9em;
-font-family: 'Montserrat', sans-serif;    font-size: 6em;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5.9em;
     font-weight: 900;
     line-height: normal;
-    text-align: right;
-    color: #222222;}
+    color: #222222;
+}
 
 @media only screen and (max-width: 500px) {
     .aboutheader {
@@ -300,7 +309,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 3em;
     height: 35em;
 font-family: 'Montserrat', sans-serif;    font-size: 1.1em;
     text-align: justify;
-    color: #1f1f1f;
+    color: #999999;
     line-height: 165%;
 }
 
@@ -494,7 +503,7 @@ font-family: 'Montserrat', sans-serif;
 .black2{
     padding-bottom: 6em;
     padding-top: 6em;
-    background-color:#000000;
+    background-color:#080808;
     height: 20em;
 }
 
@@ -502,7 +511,7 @@ font-family: 'Montserrat', sans-serif;
     .black2 {
     padding-bottom: 1em;
     padding-top: 4em;
-    background-color:#000000;
+    background-color:#080808;
     height: 15em;
     }
 }

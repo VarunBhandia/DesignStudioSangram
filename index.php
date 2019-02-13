@@ -16,7 +16,7 @@
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/hover.css">
     </head>
-    <body style="overflow:hidden;" >
+    <body>
         <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10">

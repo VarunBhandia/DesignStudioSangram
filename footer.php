@@ -1,4 +1,4 @@
-    <div class="footer" style="margin-top:0em;">
+    <div class="footer" style="margin-top:0em;" id="contact_us">
         <div class="row">
             <div class="col-md-5 col-xs-12 black2">
                 <div class="row">

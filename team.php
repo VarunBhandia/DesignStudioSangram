@@ -20,7 +20,7 @@
   </style>
 
 </head>
-<body>
+<body class="blackBody">
     <?php include("navbar.php"); ?>
     <div class="container">
         <div class="row">
