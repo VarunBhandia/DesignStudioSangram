@@ -199,6 +199,7 @@
                
             </div>
 
+
             <div class="row" >
 
               <div class="col-md-12 col-xs-12">
@@ -229,6 +230,38 @@
                 </div>
 
             </div>
+            <div class="row">
+
+<div class="col-md-12 col-xs-12">
+<center><p class="teamType" >Joint Treasurer</p></center>
+  </div>
+
+</div>
+
+
+<div class="row">
+
+  <div class="col-md-12  col-xs-12">
+    <center>
+     <div class="thumbnail_team">
+     <img src="img/pratyush12_.jpg"  class="team_image">
+          <center>
+            <div class="team_content" >
+              <p class="name_team" >Pratyush Sinha</p>
+              <a href="https://www.facebook.com/pratyush.kumar.5249" target="_blank"> <img src="img/fb_new.png" class="fb_image"></a>
+              <a href="https://www.facebook.com/pratyush.kumar.5249" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
+              <div class="phone" >
+                <img src='img/number.png'class="phone_image" >+91 89865-66155
+                <!--<p class="post_team">+91 976-083-5380</p>-->
+              </div>
+            </div>
+
+          </center>
+      </div>
+      </center>
+  </div>
+  
+</div>
 
           
 
