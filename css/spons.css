@@ -1,33 +1,9 @@
 .spons_img{
-
-    margin-top: 50px;
-    margin-bottom: 50px;
+width: 100%;
 
 }
 
-
-.image_spons{
-    width: 90%;
-    width: 270px;
-    margin-left: 1em;
-    margin-right: 1em;
-
-}
-
-.sponType{
-/*  padding-left: 3em;*/
-  padding-top: 4em;
-  font-family: 'Montserrat', sans-serif;
- text-align: center;
-  font-weight: 600;
-  color: #3f76e3;
-  padding-bottom: .5em;
-  margin-left:0px;
-  font-size:25px;
-
-}
-.plb{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
-    font-size: 21px;
+.sponsCont{
+    padding-top: 10em;
+    padding-bottom: 10em;
 }
