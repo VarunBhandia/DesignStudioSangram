@@ -7,3 +7,8 @@ width: 100%;
     padding-top: 10em;
     padding-bottom: 10em;
 }
+@media only screen and (max-width: 500px) {
+    .spons_img{
+        padding: 3em;
+    }
+}

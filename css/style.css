@@ -275,6 +275,26 @@ margin-right: 2.5em;
     margin-top: 7em;
 }
 
+.desktop{
+    display: block;
+}
+
+.mobile{
+    display: none;
+}
+@media only screen and (max-width: 600px) {
+    .desktop{
+        display: none;
+    }
+    
+    .mobile{
+        display: block;
+    }
+    .mobile_image{
+        width:100%;
+    }
+}
+
 @media only screen and (max-width: 500px) {
     .about {
     margin-top: 2em;    }
@@ -296,7 +316,8 @@ font-family: 'Montserrat', sans-serif;    font-size: 3em;
     font-weight: 900;
     line-height: normal;
     text-align: center;
-    color: #222222;
+    color: #7f7b7b;
+    margin-top:1em; 
     }
 }
 
@@ -319,13 +340,14 @@ background: rgba(0, 0, 0, 0.05);
     padding-right: 1em;
     padding-left: 1em;
     padding-top: 2em;
-    margin-top: -1em;
+    margin-top: 0em;
     height: 42em;
+    margin-bottom: 14em;
 font-family: 'Montserrat', sans-serif;    
-        font-size: .9em;
+        font-size: 1.1em;
     letter-spacing: 0px;
-    text-align: center;
-    color: #1f1f1f;    }
+    
+    color: #7f7b7b;    }
 }
 
 
@@ -341,22 +363,24 @@ display: none;    }
 }
 
 .desktop{
+    display: block;
+}
+.mobile{
+    display: none;
     
 }
 
 @media only screen and (max-width: 500px) {
     .desktop {
 display: none;    }
-}
 
-.mobile{
-    
-}
 
-@media only screen and (min-width: 500px) {
-    .mobile {
-display: none;    }
-}
+.mobile {
+    height: 55em;
+    background-image: url(http://localhost/sangram19/img/desktop.png) ;      
+   display: block;    }
+   }
+
 
 .participants1{
     padding-left: 5.6em;
@@ -494,9 +518,9 @@ font-family: 'Montserrat', sans-serif;
 
 @media only screen and (max-width: 500px) {
     .black1 {
-        padding-top: 1em;
+        padding-top: 0em;
         padding-bottom: 0em;
-        height: 11em;
+        height: 9em;
     }
 }
 
@@ -510,9 +534,9 @@ font-family: 'Montserrat', sans-serif;
 @media only screen and (max-width: 500px) {
     .black2 {
     padding-bottom: 1em;
-    padding-top: 4em;
+    padding-top: 1em;
     background-color:#080808;
-    height: 15em;
+    height: 11em;
     }
 }
 
@@ -678,3 +702,4 @@ font-family: 'Montserrat', sans-serif;  font-size: 29.9px;
   color: #4784ff;
         }
 
+    }

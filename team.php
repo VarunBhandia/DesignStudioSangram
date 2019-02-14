@@ -74,7 +74,7 @@
                   <center>
                    <div class="thumbnail_team">
                    <img src="img/aloksir12.jpg"  class="team_image">
-                   <center>
+                              <center>
                               <div class="team_content" >
                                   <p class="name_team_faculty" >Dr. Alok Kumar Pandey</p>
                                   <p class="post_team">Sports Officer</p>

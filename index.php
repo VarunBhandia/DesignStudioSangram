@@ -18,7 +18,7 @@
     </head>
     <body>
     <?php include("navbar.php"); ?>
-
+<div class="desktop">
         <video autoplay muted loop class="myVideo">
             <source src="img/animated.mp4" type="video/mp4">
             Your browser does not support HTML5 video.
@@ -50,6 +50,9 @@
             
         
         </div>
- 
+</div>
+<div class="mobile">
+
+</div>
     </body>
 </html>
