@@ -24,19 +24,49 @@
     <body class="blackBody">
         <?php include("navbar.php"); ?>
  <div class="container sponsCont">
+ <div class="row">
+ <div class="spon_type">Social Media Partner
+ </div>
+  </div>
+  <div class ="spons">
         <div class="row">
-            <div class="col-md-3 ">
+       
+            <div class="col-md-4 "></div>
+                <div class="col-md-4 ">
                 <img src="img/spons/ATKT-eng.png" class="spons_img">
+
             </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
-            <img src="img/spons/WAC_current_logo.png" class="spons_img">
+            <div class="col-md-4 "></div>
+            
             </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
-            <img src="img/spons/logo-shiv.png" class="spons_img">
+            <div class="row">
+                <div class="spon_type">Education Partner
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-4 "></div>
+            <div class="col-md-4 ">
+                <img src="img/spons/WAC_current_logo.png" class="spons_img">
             </div>
-</div>
+            <div class="col-md-4 "></div>
+            </div>
+            <div class="row">
+                <div class="spon_type">Logistics Partner
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-4 "></div>
+            <div class="col-md-3 ">
+                <img src="img/spons/logo-shiv.png" class="spons_img">
+            </div>
+            <div class="col-md-4 "></div>
+            </div>
+
+    </div>
+    </div>
+
+
+
 </div>
         <?php include("footer.php"); ?>
     </body>
