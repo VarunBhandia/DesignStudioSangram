@@ -24,21 +24,7 @@
     <body class="blackBody">
         <?php include("navbar.php"); ?>
  <div class="container sponsCont">
- <div class="row">
- <div class="spon_type">Social Media Partner
- </div>
-  </div>
-  <div class ="spons">
-        <div class="row">
-       
-            <div class="col-md-4 "></div>
-                <div class="col-md-4 ">
-                <img src="img/spons/ATKT-eng.png" class="spons_img">
-
-            </div>
-            <div class="col-md-4 "></div>
-            
-            </div>
+ 
             <div class="row">
                 <div class="spon_type">Education Partner
                 </div>
@@ -56,11 +42,35 @@
              </div>
             <div class="row">
                 <div class="col-md-4 "></div>
-            <div class="col-md-3 ">
+            <div class="col-md-4 ">
                 <img src="img/spons/logo-shiv.png" class="spons_img">
             </div>
             <div class="col-md-4 "></div>
             </div>
+            <div class="row">
+                <div class="spon_type">Food Partner
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-5 "></div>
+            <div class="col-md-2 ">
+                <img src="img/spons/Kalkata Lazeez.png" class="spons_img">
+            </div>
+            <div class="col-md-5 "></div>
+            </div>
+            <div class="row">
+ <div class="spon_type">Social Media Partner
+ </div>
+  </div>
+  <div class ="spons">
+        <div class="row">
+        <div class="col-md-1 "></div>
+            <div class="col-md-5 "><img src="img/spons/ATKT-eng.png" class="spons_img"></div>
+                <div class="col-md-1 "></div>
+            <div class="col-md-4 "><img src="img/spons/Fisto-Sports.png" class="spons_img"></div>
+            
+            </div>
+            <div class="col-md-1 "></div>
 
     </div>
     </div>

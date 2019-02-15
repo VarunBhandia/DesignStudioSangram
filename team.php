@@ -156,7 +156,7 @@
                         <div class="team_content" >
                             <p class="name_team">Himanshu Yadav</p>
                             <a href="https://www.facebook.com/himanshuyadav4296" target="_blank"><img src="img/fb_new.png" class="fb_image"></a>
-                            <a href="https://www.facebook.com/himanshuyadav4296" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
+                            <a href="https://www.linkedin.com/in/himanshu-yadav-4a87b8110/" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
                             <div class="phone" >
                               <img src='img/number.png'class="phone_image" >+91 86194-15454
                               <!--<p class="post_team">+91 976-083-5380</p>-->
@@ -219,7 +219,7 @@
                         <div class="team_content" >
                             <p class="name_team">Abhinav Chillar</p>
                             <a href="https://www.facebook.com/abhinav220608" target="_blank"><img src="img/fb_new.png" class="fb_image"></a>
-                            <a href="https://www.facebook.com/abhinav220608" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
+                            <a href="https://www.linkedin.com/in/abhinav-chhillar-251296137/" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
                             <div class="phone" >
                               <img src='img/number.png'class="phone_image" >+91 74550-53340
                             </div>
@@ -285,7 +285,7 @@
                       <div class="team_content" >
                           <p class="name_team">Saurav Sharma</p>
                           <a href="https://www.facebook.com/saurav.sharma.39948" target="_blank"><img src="img/fb_new.png" class="fb_image"></a>
-                          <a href="https://www.facebook.com/saurav.sharma.39948" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
+                          <a href="https://www.linkedin.com/in/saurav-sharma-424408164/" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
                           <div class="phone" >
                             <img src='img/number.png'class="phone_image" >+91 81261-54266
                           </div>
@@ -323,7 +323,7 @@
                       <div class="team_content">
                           <p class="name_team">Sumit Jain</p>
                           <a href="https://www.facebook.com/sumit.jain.731135" target="_blank"><img src="img/fb_new.png" class="fb_image"></a>
-                          <a href="https://www.facebook.com/sumit.jain.731135" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
+                          <a href="https://www.linkedin.com/in/sumit-27/" target="_blank"><img src="img/in_new.png" class="fb_image"></a>
                           <div class="phone" >
                             <img src='img/number.png'class="phone_image" >+91 93401-21204
                           </div>
