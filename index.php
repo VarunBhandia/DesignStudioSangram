@@ -89,12 +89,12 @@
                     </div>
                     <div class="col-xs-3">  
                         <center>
-                        <a href="https://www.youtube.com/channel/UCuJ4t3MjYJh5hipFkYlHI_w"> <img src="img/youtbe.png" alt="Sangram youtube" class="sociali1"></a>
+                        <a href="https://www.youtube.com/channel/UCRDmt3pQ5hwN-OGDel7ahKAdd"> <img src="img/youtbe.png" alt="Sangram youtube" class="sociali1"></a>
                         </center>
                     </div>
                     <div class="col-xs-3">   
                         <center>
-                        <a href="https://www.instagram.com/explore/locations/1032655554/sangram-iit-roorkee/"> <img src="img/ins.png" alt="Sangram instagram" class="sociali1"></a>
+                        <a href="https://www.instagram.com/sangram19_iitr/"> <img src="img/ins.png" alt="Sangram instagram" class="sociali1"></a>
                         </center>
                     </div>
                 </div>
