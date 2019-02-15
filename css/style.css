@@ -79,7 +79,20 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
     background-color: black;
 }
 }
-
+.spon_type{
+     margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #3ba5ff;
+    font-size:1.8em;
+    margin-top: 2em;
+    margin-bottom:  1em;
+}
+.spon_image{
+     margin-left: auto;
+    margin-right: auto;
+    
+}
 
 .gradient{
     background-color: white;
