@@ -80,6 +80,7 @@ font-family: 'Montserrat', sans-serif;    font-size: 1em;
 }
 }
 .spon_type{
+    font-family: monsterrat;
      margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -225,7 +226,7 @@ height: 26em;    }
     box-shadow: 0 0 1px transparent;
     height: 3.5em;
     width: 13em;
-    margin-right: 2.9em;
+    margin-right: 30em;
     margin-top: -23em;
     float: right;
     color: black;
@@ -240,8 +241,8 @@ height: 26em;    }
     box-shadow: 0 0 1px transparent;
     height: 3.5em;
     float: left;
- margin-left: 5em;
-    margin-top: 5em;
+    margin-left: 4em;
+    margin-top: 8em;
     color: black;
     background-color: white;
 }
@@ -258,12 +259,13 @@ height: 26em;    }
     letter-spacing: 2px;
 }
 .right{
-margin-right: 2.5em;
-    margin-top: -11em;
+margin-right: 22em;
+    margin-top: -15em;
     float: right;
     font-family: 'Montserrat', sans-serif;    
     font-size: 1.3em;
     font-weight: 500;
+
     letter-spacing: 0.2px;
     text-align: right;
     color: #ffffff;
@@ -278,7 +280,9 @@ margin-right: 2.5em;
         letter-spacing: 0.2px;
         text-align: center;
         float: left;
-        padding-left: 0em;
+        margin-right: 4em;
+        padding-left: 1em;
+        padding-top:  0em;
         color: black;
     }
 }
@@ -312,8 +316,13 @@ margin-right: 2.5em;
         margin-top: 7em;
     }
     .sangram_image{
-        width: 159%;
+        width: 100%;
+        margin-top: 12em;
+        width: 100%;
      
+    }
+    .sangramindex{
+        width:50%;
     }
     .sociali2{
      margin-top:  0.5em;
@@ -420,7 +429,7 @@ display: none;    }
 
 .mobile {
     height: 55em;
-    background-image: url(http://localhost/sangram19/img/desktop.png) ;      
+    background-image: url(http://sangramiitr.in/img/desktop.png) ;      
    display: block;    }
    }
 

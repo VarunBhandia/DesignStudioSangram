@@ -28,7 +28,8 @@
             <div class="col-md-8">
                 <div class="register">
                     <center>
-                        <p class="register_text">
+                        
+                        <p class="register_text" >
                             <a href="https://goo.gl/forms/GlDYuwNNPMNImlIS2" target="_blank">
                                 REGISTRATION</a></p>
                     </center>
@@ -43,7 +44,8 @@
             <div class="col-md-8">
                 <div class="right">
                     1st March - 3rd March <br>
-                    Annual Sports Fest IIT Roorkee
+                    Annual Sports Fest 
+                    IIT Roorkee
                 </div>
                 
             </div>
@@ -52,14 +54,11 @@
         </div>
 </div>
 <div class="mobile">
-    <div class="row">
-        <div class="title_">
-    <div class="col-xs-2">
-<img src="img/Sangram19.1 black logo.png" class="sangram_image"></div>
-<div class="col-xs-4"><div class="titile-sangram">SANGRAM</div></div>
-</div>
-</div>
 
+<div class="container">
+
+<img src="img/combined.png" class="sangram_image">
+</div>
 <div class="register">
                     <center>
                         <p class="register_text">
@@ -73,35 +72,13 @@
             <div class="col-md-8">
                 <div class="right">
                     1st March - 3rd March <br>
-                    Annual Sports Fest IIT Roorkee
+                    Annual Sports Fest  IIT Roorkee
                 </div>
                 
             </div>
             
         
-        </div>
-        <div class=" mob-black">  
-                <div class="row">
-                    <div class="col-xs-3">
-                        <center>
-                        <a href="https://www.facebook.com/sangramiitr.in/"><img  src="img/fbb.png" alt="Sangram facebook" class="sociali2"></a>
-                            </center>
-                    </div>
-                    <div class="col-xs-3">  
-                        <center>
-                        <a href="https://www.youtube.com/channel/UCRDmt3pQ5hwN-OGDel7ahKAdd"> <img src="img/youtbe.png" alt="Sangram youtube" class="sociali1"></a>
-                        </center>
-                    </div>
-                    <div class="col-xs-3">   
-                        <center>
-                        <a href="https://www.instagram.com/sangram19_iitr/"> <img src="img/ins.png" alt="Sangram instagram" class="sociali1"></a>
-                        </center>
-                    </div>
-                </div>
-            </div>
-                
-
+       
 </div>
-
     </body>
 </html>
