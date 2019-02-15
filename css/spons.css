@@ -10,5 +10,6 @@ width: 100%;
 @media only screen and (max-width: 500px) {
     .spons_img{
         padding: 3em;
+        target:"_blank";
     }
 }

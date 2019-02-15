@@ -50,6 +50,7 @@
             
         
         </div>
+        <?php include("footer.php"); ?>
 </div>
 <div class="mobile">
     <div class="row">

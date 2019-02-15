@@ -1,11 +1,12 @@
     <link rel="stylesheet" href="css/style.css">
+<div class ="navs">
     <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10">
                 <nav class="navbar-fixed-top index">
                     <div class="gradient-background"></div>
 
-                    <div class="container-fluid">
+                    <div class="container-fluid" style="background-color:black;">
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                                 <span class="icon-bar" ></span>
@@ -18,7 +19,8 @@
                             </ul>
                         </div>
                         <div class="collapse1 navbar-collapse1" id="myNavbar">
-                            <ul class="nav navbar-nav navbar-right">
+                            <ul class="nav navbar-nav navbar-right" style="background-color:black" >
+                            <li class=""><a href="index.php" class="navbar_link_index nav-items">HOME</a></li>
                                 <li class=""><a href="about_us.php" class="navbar_link_index nav-items">ABOUT US</a></li>
                                 <li class=""><a href="events.php" class="navbar_link_index nav-items">EVENTS</a></li>
                                 <li class=""><a href="sponsors.php" class="navbar_link_index nav-items">SPONSORS</a></li>
@@ -31,4 +33,5 @@
             </div>
             <div class="col-md-1"></div>
         </div>
+</div>
 </div>

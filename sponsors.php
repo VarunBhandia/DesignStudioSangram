@@ -24,21 +24,7 @@
     <body class="blackBody">
         <?php include("navbar.php"); ?>
  <div class="container sponsCont">
- <div class="row">
- <div class="spon_type">Social Media Partner
- </div>
-  </div>
-  <div class ="spons">
-        <div class="row">
-       
-            <div class="col-md-4 "></div>
-                <div class="col-md-4 ">
-                <img src="img/spons/ATKT-eng.png" class="spons_img">
-
-            </div>
-            <div class="col-md-4 "></div>
-            
-            </div>
+ 
             <div class="row">
                 <div class="spon_type">Education Partner
                 </div>
@@ -46,7 +32,7 @@
             <div class="row">
                 <div class="col-md-4 "></div>
             <div class="col-md-4 ">
-                <img src="img/spons/WAC_current_logo.png" class="spons_img">
+            <a href="http://whataftercollege.com/" target = "_blank";> <img src="img/spons/WAC_current_logo.png" class="spons_img" ></a>
             </div>
             <div class="col-md-4 "></div>
             </div>
@@ -56,11 +42,42 @@
              </div>
             <div class="row">
                 <div class="col-md-4 "></div>
-            <div class="col-md-3 ">
-                <img src="img/spons/logo-shiv.png" class="spons_img">
+            <div class="col-md-4 ">
+            <a href="http://shivnaresh.in/" target = "_blank";> <img src="img/spons/logo-shiv.png" class="spons_img">
             </div>
             <div class="col-md-4 "></div>
             </div>
+            <div class="row">
+                <div class="spon_type">Food Partner
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-5 "></div>
+            <div class="col-md-2 ">
+            <a href="http://www.kalkatalazeez.com/" target = "_blank";> <img src="img/spons/KalkataLazeez - Copy.png" class="spons_img">
+            </div>
+            <div class="col-md-5"></div>
+            </div>
+            <div class="row">
+ <div class="spon_type">Social Media Partner
+ </div>
+  </div>
+  <div class ="spons">
+        <div class="row">
+       
+            
+                <div class="col-md-5 ">
+                <a href="https://atkt.in/" target = "_blank";>  <img src="img/spons/ATKT-eng.png" class="spons_img">
+
+            </div>
+            <div class="col-md-2 ">
+            </div>
+            <div class="col-md-5 ">
+            <a href="https://fistosports.com/" target = "_blank";>  <img src="img/spons/Fisto-Sports.png" class="spons_img">
+            </div>
+            
+            </div>
+
 
     </div>
     </div>
