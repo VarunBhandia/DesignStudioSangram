@@ -32,7 +32,7 @@
             <div class="row">
                 <div class="col-md-4 "></div>
             <div class="col-md-4 ">
-                <img src="img/spons/WAC_current_logo.png" class="spons_img">
+              <a href="http://whataftercollege.com/" target=_blank> <img src="img/spons/WAC_current_logo.png" class="spons_img"></a>
             </div>
             <div class="col-md-4 "></div>
             </div>
@@ -43,7 +43,7 @@
             <div class="row">
                 <div class="col-md-4 "></div>
             <div class="col-md-4 ">
-                <img src="img/spons/logo-shiv.png" class="spons_img">
+            <a href="http://shivnaresh.in/" target=_blank>  <img src="img/spons/logo-shiv.png" class="spons_img"></a>
             </div>
             <div class="col-md-4 "></div>
             </div>
@@ -54,7 +54,7 @@
             <div class="row">
                 <div class="col-md-5 "></div>
             <div class="col-md-2 ">
-                <img src="img/spons/Kalkata Lazeez.png" class="spons_img">
+            <a href="http://www.kalkatalazeez.com/" target=_blank>  <img src="img/spons/Kalkata Lazeez.png" class="spons_img"></a>
             </div>
             <div class="col-md-5 "></div>
             </div>
@@ -65,9 +65,12 @@
   <div class ="spons">
         <div class="row">
         <div class="col-md-1 "></div>
-            <div class="col-md-5 "><img src="img/spons/ATKT-eng.png" class="spons_img"></div>
+            <div class="col-md-5 ">
+            <a href="http://whataftercollege.com/" target=_blank><img src="img/spons/ATKT-eng.png" class="spons_img"></a></div>
                 <div class="col-md-1 "></div>
-            <div class="col-md-4 "><img src="img/spons/Fisto-Sports.png" class="spons_img"></div>
+            <div class="col-md-4 ">
+            <a href="https://fistosports.com/" target=_blank><img src="img/spons/Fisto-Sports.png" class="spons_img"></a>
+            </div>
             
             </div>
             <div class="col-md-1 "></div>
