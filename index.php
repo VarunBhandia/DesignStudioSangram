@@ -26,15 +26,7 @@
         <div class="row" >
             <div class="col-md-2"></div>
             <div class="col-md-8">
-                <div class="register">
-                    <center>
-                        
-                        <p class="register_text" >
-                            <a href="https://goo.gl/forms/GlDYuwNNPMNImlIS2" target="_blank">
-                                REGISTRATION</a></p>
-                    </center>
 
-                </div>
 
             </div>
             <div class="col-md-2"></div>

@@ -48,7 +48,7 @@
             <div class="col-md-4 "></div>
             </div>
             <div class="row">
-                <div class="spon_type">Food Partner
+                <div class="spon_type">Fast Food Partner
                 </div>
              </div>
             <div class="row">
@@ -58,6 +58,20 @@
             </div>
             <div class="col-md-5 "></div>
             </div>
+
+            <div class="row">
+                <div class="spon_type"> Food Partner
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-4 "></div>
+            <div class="col-md-4 ">
+           <!-- <a href="http://www.kalkatalazeez.com/" target=_blank>>  --> <img src="img/spons/Real Hyderabadi biryani.png" class="spons_img"></a>
+            </div>
+            <div class="col-md-4 "></div>
+            </div>
+
+
             <div class="row">
  <div class="spon_type">Social Media Partner
  </div>

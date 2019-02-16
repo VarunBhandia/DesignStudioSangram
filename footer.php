@@ -53,17 +53,17 @@
                 <div class="row">
                     <div class="col-xs-4">
                         <center>
-                        <a href="https://www.facebook.com/sangramiitr.in/"><img  src="img/fb.png" alt="Sangram facebook" class="socialicons1"></a>
+                        <a href="https://www.facebook.com/sangramiitr.in/" target="_blank"><img  src="img/fb.png" alt="Sangram facebook" class="socialicons1" ></a>
                             </center>
                     </div>
                     <div class="col-xs-4">  
                         <center>
-                        <a href="https://www.youtube.com/channel/UCuJ4t3MjYJh5hipFkYlHI_w"> <img src="img/youtube.png" alt="Sangram youtube" class="socialicons2"></a>
+                        <a href="https://www.youtube.com/channel/UCuJ4t3MjYJh5hipFkYlHI_w" target="_blank"> <img src="img/youtube.png" alt="Sangram youtube" class="socialicons2"></a>
                         </center>
                     </div>
                     <div class="col-xs-4">   
                         <center>
-                        <a href="https://www.instagram.com/explore/locations/1032655554/sangram-iit-roorkee/"> <img src="img/insta.png" alt="Sangram instagram" class="socialicons3"></a>
+                        <a href="https://www.instagram.com/explore/locations/1032655554/sangram-iit-roorkee/" target="_blank"> <img src="img/insta.png" alt="Sangram instagram" class="socialicons3"></a>
                         </center>
                     </div>
                 </div>
