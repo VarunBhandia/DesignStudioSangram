@@ -90,6 +90,20 @@
             <div class="col-md-1 "></div>
 
     </div>
+
+
+    <div class="row">
+                <div class="spon_type"> Nutrition Partner
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-4 "></div>
+            <div class="col-md-4 ">
+            <a href="https://www.avvatarindia.com/" target=_blank> <img src="img/spons/logo-white.png" class="spons_img"></a>
+            </div>
+            <div class="col-md-4 "></div>
+            </div>
+
     </div>
 
 

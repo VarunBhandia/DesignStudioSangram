@@ -55,7 +55,7 @@
 <div class="register">
                     <center>
                         <p class="register_text">
-                            <a href="https://goo.gl/forms/GlDYuwNNPMNImlIS2" target="_blank">
+                            <a href="https://goo.gl/forms/CDEcjkcmTjqmE9M83" target="_blank">
                                 REGISTRATION</a></p>
                     </center>
 
