@@ -20,13 +20,12 @@
     <?php include("navbar.php"); ?>
 <div class="desktop">
         <video autoplay muted loop class="myVideo">
-            <source src="img/animated.mp4" type="video/mp4">
+            <source src="img/website.mp4" type="video/mp4">
             Your browser does not support HTML5 video.
         </video>
         <div class="row" >
             <div class="col-md-2"></div>
             <div class="col-md-8">
-
 
             </div>
             <div class="col-md-2"></div>

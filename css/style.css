@@ -259,16 +259,16 @@ height: 26em;    }
     letter-spacing: 2px;
 }
 .right{
-margin-right: 22em;
+margin-right: 17em;
     margin-top: -15em;
     float: right;
     font-family: 'Montserrat', sans-serif;    
-    font-size: 1.3em;
-    font-weight: 500;
+    font-size: 1.5em;
+    font-weight: 800;
 
     letter-spacing: 0.2px;
     text-align: right;
-    color: #ffffff;
+    color:  #3f76e3;
 }
 
 @media only screen and (max-width: 500px) {
