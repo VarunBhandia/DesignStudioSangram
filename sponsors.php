@@ -80,7 +80,7 @@
         <div class="row">
         <div class="col-md-1 "></div>
             <div class="col-md-5 ">
-            <a href="http://whataftercollege.com/" target=_blank><img src="img/spons/ATKT-eng.png" class="spons_img"></a></div>
+            <a href="https://atkt.in/" target=_blank><img src="img/spons/ATKT-eng.png" class="spons_img"></a></div>
                 <div class="col-md-1 "></div>
             <div class="col-md-4 ">
             <a href="https://fistosports.com/" target=_blank><img src="img/spons/Fisto-Sports.png" class="spons_img"></a>
