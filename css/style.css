@@ -264,11 +264,11 @@ margin-right: 17em;
     float: right;
     font-family: 'Montserrat', sans-serif;    
     font-size: 1.5em;
-    font-weight: 800;
+    font-weight: 500;
 
     letter-spacing: 0.2px;
     text-align: right;
-    color:  #3f76e3;
+    color:  white;
 }
 
 @media only screen and (max-width: 500px) {
