@@ -119,7 +119,7 @@
             <div class="col-md-1"></div>
 
 
-            <div class="row">
+        <!--- <div class="row">
                 <div class="spon_type"> Entertainment Partner 
                 </div>
              </div>
@@ -129,7 +129,7 @@
          <img src="img/spons/capture.png" class="spons_img">
             </div>
             <div class="col-md-3 "></div>
-            </div>
+            </div> -->
             <div class="row">
                 <div class="spon_type"> Gym Equipment Partner 
                 </div>
