@@ -99,12 +99,76 @@
             <div class="row">
                 <div class="col-md-4 "></div>
             <div class="col-md-4 ">
-            <a href="https://www.avvatarindia.com/" target=_blank> <img src="img/spons/logo-white.png" class="spons_img"></a>
+            <a href="https://www.avvatarindia.com/" target=_blank> <img src="img/spons/Avvatar Sport Nutrition.jpg" class="spons_img"></a>
             </div>
             <div class="col-md-4 "></div>
             </div>
 
+            <div class="row">
+                <div class="spon_type"> Tourism Partner 
+                </div>
+             </div>
+            <div class="row">
+            <div class="col-md-2 "></div>
+                <div class="col-md-3 "><img src="img/spons/himalayan stag.png" class="spons_img"></div>
+            <div class="col-md-2     ">
+            
+            </div>
+            <div class="col-md-2 "> <img src="img/spons/Speed Strikers PNG.png" class="spons_img"></div>
+            </div>
+            <div class="col-md-1"></div>
+
+
+            <div class="row">
+                <div class="spon_type"> Entertainment Partner 
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-3 "></div>
+            <div class="col-md-6 ">
+         <img src="img/spons/Capture.png" class="spons_img">
+            </div>
+            <div class="col-md-3 "></div>
+            </div>
+            <div class="row">
+                <div class="spon_type"> Gym Equipment Partner 
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-4 "></div>
+            <div class="col-md-4 ">
+            <a href="http://www.cardiomedindia.com/index.html" target=_blank> <img src="img/spons/cardiomed-logo-png.png" class="spons_img"></a>
+            </div>
+            <div class="col-md-4 "></div>
+            </div>
+            <div class="row">
+                <div class="spon_type"> Lighting Partner
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-4 "></div>
+            <div class="col-md-4 ">
+            <a href="http://devmusco.com/home.html" target=_blank> <img src="img/spons/Dev musco PNG.png" class="spons_img"></a>
+            </div>
+            <div class="col-md-4 "></div>
+            </div>
+            <div class="row">
+                <div class="spon_type"> Maintenance Partner
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-4 "></div>
+            <div class="col-md-4 ">
+            <a href="https://www.automatworld.in/" target=_blank> <img src="img/spons/Automat.png" class="spons_img"></a>
+            </div>
+            <div class="col-md-4 "></div>
+            </div>
+
+
+    
     </div>
+   
+    
 
 
 
