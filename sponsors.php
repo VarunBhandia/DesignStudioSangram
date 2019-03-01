@@ -37,7 +37,7 @@
             <div class="col-md-4 "></div>
             </div>
             <div class="row">
-                <div class="spon_type">Logistics Partner
+                <div class="spon_type">Title  Sponser 
                 </div>
              </div>
             <div class="row">
@@ -160,6 +160,17 @@
                 <div class="col-md-4 "></div>
             <div class="col-md-4 ">
             <a href="https://www.automatworld.in/" target=_blank> <img src="img/spons/Automat.png" class="spons_img"></a>
+            </div>
+            <div class="col-md-4 "></div>
+            </div>
+            <div class="row">
+                <div class="spon_type"> Fitness Partner
+                </div>
+             </div>
+            <div class="row">
+                <div class="col-md-4 "></div>
+            <div class="col-md-4 ">
+            <!--<a href="https://www.avvatarindia.com/" target=_blank> --><img src="img/spons/CROSS ROADS.png" class="spons_img">
             </div>
             <div class="col-md-4 "></div>
             </div>
