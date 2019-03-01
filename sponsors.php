@@ -126,7 +126,7 @@
             <div class="row">
                 <div class="col-md-3 "></div>
             <div class="col-md-6 ">
-         <img src="img/spons/capture.png" class="spons_img">
+         <img src="img/spons/capture2.jpg" class="spons_img">
             </div>
             <div class="col-md-3 "></div>
             </div> 
