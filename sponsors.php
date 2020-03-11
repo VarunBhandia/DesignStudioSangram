@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Sangram boasts of being a one of a kind festival hosted by IIT Roorkee and is a four day sports extravaganza. It brings out the sporting spirit of the brilliant minds of the country and provides an ideal platform for all the sports enthusiasts to compete with each other.">
         <meta name="keywords" content="sports, sports fest, engineering, study, fest, engineers, technical, iit ,iit roorkee ,roorkee ,uttrakhand ,Varun Bhandia ,sangram19 ,sangramiitr.in">
-        <meta name="author" content="Varun Bhandia">
+        <meta name="author" content="Ritik Khatri">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -24,8 +24,8 @@
     <body class="blackBody">
         <?php include("navbar.php"); ?>
  <div class="container sponsCont">
- 
-            <div class="row">
+ <div class="spon_type">Comming Soon</div>
+            <!-- <div class="row">
                 <div class="spon_type">Education Partner
                 </div>
              </div>
@@ -81,7 +81,7 @@
 
     </div>
     </div>
-
+ -->
 
 
 </div>

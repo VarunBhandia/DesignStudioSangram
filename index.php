@@ -42,7 +42,7 @@
             <div class="col-md-2"></div>
             <div class="col-md-8">
                 <div class="right">
-                    1st March - 3rd March <br>
+                    10th April - 12th April <br>
                     Annual Sports Fest IIT Roorkee
                 </div>
                 
@@ -73,7 +73,7 @@
             <div class="col-md-2"></div>
             <div class="col-md-8">
                 <div class="right">
-                    1st March - 3rd March <br>
+                10th April - 12th April <br>
                     Annual Sports Fest IIT Roorkee
                 </div>
                 

@@ -284,7 +284,7 @@ margin-right: 2.5em;
 }
 
 .messi{
-    background-image: url('http://sangramiitr.in/img/Messi.jpg');
+    background-image: url('./../img/Messi.jpg');
 }
 .about{
     margin-top: 7em;
